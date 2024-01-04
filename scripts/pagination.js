@@ -26,7 +26,6 @@ function renderItems(startIndex, endIndex) {
                         <div class="product-description-container">
                             <div class="product-description-wrapper">
                                 <p class="product-name">${item.Name}</p>
-                                <div class="bookmark"></div>
                             </div>
                             <div class="product-price-wrapper">
                                 <div class="product-price">From&nbsp; </div>
