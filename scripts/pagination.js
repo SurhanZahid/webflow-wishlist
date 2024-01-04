@@ -1,5 +1,4 @@
-
-const url = 'https://raw.githubusercontent.com/standard/standard-packages/master/test.json';
+const url = 'https://raw.githubusercontent.com/SurhanZahid/webflow-wishlist/master/scripts/csvjson.json';
 const itemsPerPage = 5; // Adjust the number of items per page as needed
 
 let currentPage = 1;
@@ -17,26 +16,7 @@ function renderItems(startIndex, endIndex) {
             productItem.classList.add('product-cms-item', 'w-dyn-item');
 
             // Customize the content based on your JSON structure
-            productItem.innerHTML = `
-            <div class="product-container">
-                    <div class="product-thumbnail-wrapper"><img alt="${item.Name}"
-                            src="${item.Image}"
-                            sizes="100vw"
-                            srcset="${item.Image}"
-                            class="product-thumbnail"></div>
-                        <div class="product-description-container">
-                            <div class="product-description-wrapper">
-                                <p class="product-name">${item.Name}</p>
-                                <div class="bookmark"></div>
-                            </div>
-                            <div class="product-price-wrapper">
-                                <div class="product-price">From&nbsp; </div>
-                                <div class="product-price"> $</div>
-                                <div class="product-price">${item.Price}</div>
-                            </div>
-                        </div>
-                </div>
-            `;
+            productItem.innerHTML = `<h2>${item.title}</h2><p>${item.description}</p>`;
 
             container.appendChild(productItem);
         }
