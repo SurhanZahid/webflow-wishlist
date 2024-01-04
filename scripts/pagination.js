@@ -88,7 +88,7 @@ function createPaginationButton(text, clickHandler) {
 }
 
 function handleSearch() {
-    const searchInput = document.querySelector('.filter-control .w-input');
+    const searchInput = document.querySelector('.filter-control');
     const searchTerm = searchInput.value.toLowerCase();
 
     filteredData = data.filter(item =>
@@ -100,6 +100,10 @@ function handleSearch() {
     updatePagination();
 }
 
+function addSearchEvent() {
+    document.querySelector('.filter-control').addEventListener('input', handleSearch)
+}
+
 fetch(url)
     .then(response => {
         if (!response.ok) {
@@ -109,7 +113,8 @@ fetch(url)
     })
     .then(responseData => {
         data = responseData;
-        filteredData = data; // Initialize filteredData with the entire dataset
+        filteredData = data;
+        addSearchEvent();
         renderItems(0, itemsPerPage);
         updatePagination();
     })
