@@ -16,7 +16,7 @@ function renderItems(startIndex, endIndex) {
             productItem.classList.add('product-cms-item', 'w-dyn-item');
 
             // Customize the content based on your JSON structure
-            productItem.innerHTML = `<h2>${item.title}</h2><p>${item.description}</p>`;
+            productItem.innerHTML = `<h2>${item.Name}</h2><p>${item.Price}</p>`;
 
             container.appendChild(productItem);
         }
