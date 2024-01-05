@@ -108,6 +108,7 @@ function handleSearch() {
 
 function addSearchEvent() {
     document.querySelector('.filter-control').addEventListener('input', handleSearch)
+    document.querySelector('.filter-control').addEventListener('input', showSuggestions)
 }
 
 function generateSuggestions(searchTerm) {
