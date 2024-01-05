@@ -91,6 +91,11 @@ function handleSearch() {
     const searchInput = document.querySelector('.filter-control');
     const searchTerm = searchInput.value.toLowerCase();
 
+    if(!searchTerm)
+    {
+        hideSuggestions()
+    }
+
     filteredData = data.filter(item =>
         item.Name.toLowerCase().includes(searchTerm)
     );
@@ -98,10 +103,49 @@ function handleSearch() {
     currentPage = 1;
     renderItems(0, itemsPerPage);
     updatePagination();
+    generateSuggestions(searchTerm);
 }
 
 function addSearchEvent() {
     document.querySelector('.filter-control').addEventListener('input', handleSearch)
+}
+
+function generateSuggestions(searchTerm) {
+    suggestionsList = data
+        .filter(item => item.Name.toLowerCase().includes(searchTerm))
+        .map(item => item.Name);
+    updateSuggestionsList();
+}
+
+function updateSuggestionsList() {
+    const suggestionsListContainer = document.getElementById('suggestionsList');
+    suggestionsListContainer.innerHTML = '';
+    suggestionsList.slice(0, 5).forEach(suggestion => {
+        const suggestionItem = document.createElement('li');
+        suggestionItem.textContent = suggestion;
+        suggestionItem.addEventListener('click', () => {
+            document.querySelector('.filter-control').value = suggestion;
+            handleSearch();
+        });
+        suggestionsListContainer.appendChild(suggestionItem);
+    });
+}
+
+function showSuggestions() {
+    const suggestionsListContainer = document.getElementById('suggestionsList');
+    suggestionsListContainer.style.display = 'block';
+}
+
+window.addEventListener('click', function (e) {
+    const suggestionsListContainer = document.getElementById('suggestionsList');
+    if (!suggestionsListContainer.contains(e.target)) {
+        suggestionsListContainer.style.display = 'none';
+    }
+});
+
+function hideSuggestions() {
+    const suggestionsListContainer = document.getElementById('suggestionsList');
+    suggestionsListContainer.style.display = 'none';
 }
 
 fetch(url)

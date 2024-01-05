@@ -1,6 +1,7 @@
 <body>
-    <div class="filter-control">
-        <input type="text" class="w-input" placeholder="Search" oninput="handleSearch()">
+    <div>
+        <input type="text" class="filter-control" placeholder="Search" oninput="handleSearch(), showSuggestions()">
+        <ul id="suggestionsList" class="suggestions"></ul>
     </div>
     <div class="product-cms-list"></div>
     <div id="paginationContainer">
