@@ -1,21 +1,24 @@
+const refreshList = () => {
+    currentPage = 1;
+    renderItems(0, itemsPerPage);
+    updatePagination();
+}
+
 const handleDropDownFilter = () => {
     const dropdown = document.querySelector('#order-2')
     if(dropdown.value === 'asc'){
         filteredData = data.sort((a,b) => {
             return parseFloat(a.Price) - parseFloat(b.Price)
         })
-        renderItems(0, itemsPerPage);
-        updatePagination();
+        refreshList();
     } else if (dropdown.value === 'desc') {
         filteredData = data.sort((a,b) => {
             return parseFloat(b.Price) - parseFloat(a.Price)
         })
-        renderItems(0, itemsPerPage);
-        updatePagination();
+        refreshList();
     } else {
         filteredData = defaultState
-        renderItems(0, itemsPerPage);
-        updatePagination();
+        refreshList();
     }
 }
 
