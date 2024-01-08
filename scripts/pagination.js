@@ -4,6 +4,7 @@ const itemsPerPage = 9; // Adjust the number of items per page as needed
 let currentPage = 1;
 let data;
 let filteredData;
+let defaultState;
 
 function renderItems(startIndex, endIndex) {
     const container = document.querySelector('.product-cms-list');
@@ -159,6 +160,7 @@ fetch(url)
     .then(responseData => {
         data = responseData;
         filteredData = data;
+        defaultState = [...data];
         addSearchEvent();
         renderItems(0, itemsPerPage);
         updatePagination();
