@@ -1,3 +1,9 @@
+let parameters = [
+    { key: "Product Category", value: 'food-beverages', operator: 'includes' },
+    { key: "Product Category", value: 'drinkware', operator: 'includes' },
+    { key: "Product Category", value: 'accessories', operator: 'includes' }
+]
+
 const refreshList = () => {
     currentPage = 1;
     renderItems(0, itemsPerPage);
@@ -20,6 +26,22 @@ const handleDropDownFilter = () => {
         filteredData = defaultState
         refreshList();
     }
+}
+
+const handleSidebarFilters = (data, parameters) => {
+    return data.filter(item => {
+        return parameters.some(param => {
+            const key = param.key;
+            const value = param.value;
+            const operator = param.operator || 'includes';
+
+            if (operator === 'equals') {
+                return item[key] === value;
+            } else {
+                return item[key].toLowerCase().includes(value.toLowerCase());
+            }
+        });
+    });
 }
 
 const addDropDownEvent = () => {
