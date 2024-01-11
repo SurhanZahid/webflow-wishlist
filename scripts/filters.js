@@ -25,7 +25,6 @@ const handleDropDownFilter = () => {
 }
 
 const handleSidebarFilters = (data, parameters) => {
-    data.findIndex()
     return data.filter(item => {
         return parameters.some(param => {
             const key = param.key;
