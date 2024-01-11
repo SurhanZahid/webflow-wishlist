@@ -1,8 +1,4 @@
-let parameters = [
-    { key: "Product Category", value: 'food-beverages', operator: 'includes' },
-    { key: "Product Category", value: 'drinkware', operator: 'includes' },
-    { key: "Product Category", value: 'accessories', operator: 'includes' }
-]
+let parameters = []
 
 const refreshList = () => {
     currentPage = 1;
@@ -29,6 +25,7 @@ const handleDropDownFilter = () => {
 }
 
 const handleSidebarFilters = (data, parameters) => {
+    data.findIndex()
     return data.filter(item => {
         return parameters.some(param => {
             const key = param.key;
