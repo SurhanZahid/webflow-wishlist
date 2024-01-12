@@ -40,6 +40,11 @@ const handleSidebarFilters = (data, parameters) => {
     });
 }
 
+const resetFilter = () => {
+    filteredData = defaultState
+    refreshList();
+}
+
 const addDropDownEvent = () => {
     document.querySelector('#order-2').addEventListener('change', handleDropDownFilter)
 }
