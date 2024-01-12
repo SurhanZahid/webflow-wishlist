@@ -1,4 +1,4 @@
-let parameters = []
+let parameters = new Set([])
 
 const refreshList = () => {
     currentPage = 1;
