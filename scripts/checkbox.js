@@ -19,10 +19,22 @@ const renderCheckbox = () => {
     });
 }
 
+const formatStringWithDash = (product) => {
+    const string = product.split(' ')
+    if(string.length > 1)
+    {
+        return (string[0] + '-' + string[1]).toLowerCase()
+    } else
+    {
+        return product.toLowerCase()
+    }
+
+}
+
 const filterByCategory = () => {
     uniqueCategories.forEach(category => {
         data.forEach(product => {
-            if (product['Product Category'] === category.toLowerCase()) {
+            if (product['Product Category'] === formatStringWithDash(category)) {
                 filterTest.push(product)
             }
         })
