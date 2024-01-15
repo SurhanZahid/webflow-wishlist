@@ -190,3 +190,9 @@ select {
 input[type="checkbox"] {
     margin-left: 18px;
 }
+#suggestionsList {
+    display: flex;
+    border: 1px solid;
+    list-style-type: none;
+    justify-items: start;
+}
