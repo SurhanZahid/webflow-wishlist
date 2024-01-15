@@ -42,7 +42,7 @@ function renderItems(startIndex, endIndex) {
             container.appendChild(productItem);
         }
     }
-    // updateItemBorders()
+    updateItemBorders()
     document.getElementById('currentPage').innerText = currentPage;
 }
 
