@@ -34,7 +34,7 @@ const formatStringWithDash = (product) => {
 const filterByCategory = () => {
     uniqueCategories.forEach(category => {
         data.forEach(product => {
-            if (product['Product Category'] === formatStringWithDash(category)) {
+            if (product['Product Category'] === formatStringWithDash(category) || product['Brand'] === formatStringWithDash(category)) {
                 filterTest.push(product)
             }
         })
