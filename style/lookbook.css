@@ -148,7 +148,7 @@
     }
 }
 
-@media only screen and (min-width: 1440px) and (max-width: 1600px) {
+/* @media only screen and (min-width: 1440px) and (max-width: 1600px) {
     .counter {
         background: #FFFFFF;
         padding-left: 1px;
@@ -162,7 +162,7 @@
         border-radius: 48px;
         position: relative;
     }
-}
+} */
 
 #paginationContainer {
     display: flex;
@@ -204,6 +204,6 @@ input[type="checkbox"] {
     font-size: 12px;
     background: #f5f2ee;
 }
-.hidden {
+/* .hidden {
     display: none !important;
-}
+} */
