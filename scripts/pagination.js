@@ -125,6 +125,7 @@ function updateSuggestionsList() {
     suggestionsList.slice(0, 5).forEach(suggestion => {
         const suggestionItem = document.createElement('li');
         suggestionItem.textContent = suggestion;
+        suggestionItem.style.display = 'none';
         suggestionItem.addEventListener('click', () => {
             document.querySelector('.filter-control').value = suggestion;
             handleSearch();
