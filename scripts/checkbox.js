@@ -61,7 +61,7 @@ const filterByCategory = () => {
     uniqueCategories.forEach(category => {
         data.forEach(product => {
             if (product['Product Category'] || product['Brand']) {
-                if (isSimilar(product['Product Category'], formatStringWithDash(category)) || isSimilar(product['Brand'], formatStringWithDash(category))) {
+                if (product['Product Category'] === category) {
                     filterTest.unshift(product)
                 }
             }
