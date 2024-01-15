@@ -47,7 +47,7 @@
 }
 
 @media (max-width: 1440px) {
-    .counter {
+    /* .counter {
         background: #FFFFFF;
         color: black;
         padding-right: 0px;
@@ -60,7 +60,7 @@
         height: 13px;
         width: 13px;
         font-family: Ppeditorialnew, sans-serif;
-    }
+    } */
 
     .lab-nav-start.black {
         display: none !important;
@@ -205,5 +205,5 @@ input[type="checkbox"] {
     background: #f5f2ee;
 }
 .hidden {
-    display: none;
+    display: none !important;
 }
