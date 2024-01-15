@@ -41,8 +41,11 @@ const levenshteinDistance = (s, t) => {
 
 const isSimilar = (str1, str2) => {
     console.log(str1, str2);
-    const distance = levenshteinDistance(str1, str2);
-    return distance <= 5; // Adjust the threshold as needed
+    if(str1)
+    {
+        const distance = levenshteinDistance(str1, str2);
+        return distance <= 5;
+    }
 }
 const formatStringWithDash = (product) => {
     const string = product.split(' ')
