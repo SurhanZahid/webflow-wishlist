@@ -48,6 +48,7 @@ const isSimilar = (str1, str2) => {
     }
 }
 const formatStringWithDash = (product) => {
+    let regexPattern = /[^a-zA-Z0-9]+/g;
     return product.replace(regexPattern, '-').toLowerCase()
 }
 
