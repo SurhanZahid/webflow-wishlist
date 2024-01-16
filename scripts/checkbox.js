@@ -48,20 +48,14 @@ const isSimilar = (str1, str2) => {
     }
 }
 const formatStringWithDash = (product) => {
-    const string = product.split(' ')
-    if (string.length > 1) {
-        return (string[0] + '-' + string[1]).toLowerCase()
-    } else {
-        return product.toLowerCase()
-    }
-
+    return product.replace(regexPattern, '-').toLowerCase()
 }
 
 const filterByCategory = () => {
     uniqueCategories.forEach(category => {
         data.forEach(product => {
             if (product['Product Category'] || product['Brand']) {
-                if (product['Product Category'] === formatStringWithDash(category)) {
+                if (product['Product Category'] === formatStringWithDash(category) || product['Brand'] === formatStringWithDash(category)) {
                     filterTest.unshift(product)
                 }
             }
