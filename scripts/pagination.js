@@ -6,6 +6,10 @@ var data;
 var filteredData;
 var defaultState;
 
+const getFilterData = () => {
+    return filteredData
+}
+
 function renderItems(startIndex, endIndex) {
     const container = document.querySelector('.product-cms-list');
     container.innerHTML = ''; // Clear previous content

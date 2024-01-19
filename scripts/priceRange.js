@@ -1,5 +1,5 @@
 const renderPriceRange = () => {
-    refreshList();
+    console.log(getFilterData())
     $(function () {
         //THIS IS FOR THE RANGE SLIDER.
         //Sorry for yelling...
