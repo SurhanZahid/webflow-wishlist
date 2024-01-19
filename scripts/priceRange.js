@@ -1,10 +1,11 @@
 const renderPriceRange = () => {
+    let max = Math.max(...filteredData.map(o => o.Price))
+    let min = Math.min(...filteredData.map(o => o.Price))
     $(function () {
         //THIS IS FOR THE RANGE SLIDER.
         //Sorry for yelling...
         let idOfRangeSlider = 'slider-range';
-        let max = Math.max(...filteredData.map(o => o.Price))
-        console.log(max);
+        console.log(max, min);
         $('#' + idOfRangeSlider).css('display', 'none');
         $("<div></div>").insertAfter('#' + idOfRangeSlider);
 
@@ -26,6 +27,6 @@ const renderPriceRange = () => {
         range.noUiSlider.on('update', function (values) {
             $('#' + idOfRangeSlider).val(values.join(' - '));
         });
-    })();
+    });
 }
 renderPriceRange()
