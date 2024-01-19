@@ -1,5 +1,7 @@
 const renderPriceRange = () => {
-    console.log(filteredData)
+    setTimeout(() => {
+        console.log(filteredData)
+    }, 3000)
     $(function () {
         //THIS IS FOR THE RANGE SLIDER.
         //Sorry for yelling...
