@@ -29,6 +29,7 @@ const renderPriceRange = () => {
                     return rangeA - rangeB;
                 };
                 filteredData = filteredData.slice().sort(sortByProvidedRange);
+                console.log(filteredData);
                 refreshList();
                 $('#' + idOfRangeSlider).val(values.join(' - '));
             });
