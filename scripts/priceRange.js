@@ -1,10 +1,9 @@
 const renderPriceRange = () => {
-    console.log(getFilterData())
+    console.log(filteredData)
     $(function () {
         //THIS IS FOR THE RANGE SLIDER.
         //Sorry for yelling...
         let idOfRangeSlider = 'slider-range';
-        console.log(max, min);
         $('#' + idOfRangeSlider).css('display', 'none');
         $("<div></div>").insertAfter('#' + idOfRangeSlider);
 
