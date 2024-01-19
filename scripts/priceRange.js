@@ -26,6 +26,6 @@ const renderPriceRange = () => {
                 $('#' + idOfRangeSlider).val(values.join(' - '));
             });
         });
-    }, 3000)
+    }, 1000)
 }
 renderPriceRange()
