@@ -1,6 +1,5 @@
 const renderPriceRange = () => {
-    let max = Math.max(...filteredData.map(o => o.Price))
-    let min = Math.min(...filteredData.map(o => o.Price))
+    refreshList();
     $(function () {
         //THIS IS FOR THE RANGE SLIDER.
         //Sorry for yelling...
