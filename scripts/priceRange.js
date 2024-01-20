@@ -23,13 +23,14 @@ const renderPriceRange = () => {
                 ],
             });
             range.noUiSlider.on('update', function (values) {
-                const sortByProvidedRange = (a, b) => {
-                    const rangeA = Math.abs(a.Price - values[0]) + Math.abs(a.Price - values[1]);
-                    const rangeB = Math.abs(b.Price - values[0]) + Math.abs(b.Price - values[1]);
-                    return rangeA - rangeB;
-                };
-                filteredData = filteredData.slice().sort(sortByProvidedRange);
-                console.log(filteredData);
+                // Filter items within the min and max range
+                const filteredArray = arrayOfObjects.filter(item => item.Price >= values[0] && item.Price <= values[1]);
+
+                // Custom comparator function to sort by price
+                const sortByPrice = (a, b) => a.Price - b.Price;
+
+                // Sorting by price after filtering
+                filteredData = filteredArray.slice().sort(sortByPrice);
                 refreshList();
                 $('#' + idOfRangeSlider).val(values.join(' - '));
             });
