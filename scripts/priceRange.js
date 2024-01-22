@@ -22,20 +22,18 @@ const renderPriceRange = () => {
                     wNumb({ decimals: 2, prefix: '$' }),
                 ],
             });
-            setTimeout(() => {
-                range.noUiSlider.on('update', function (values) {
-                    // Filter items within the min and max range
-                    const filteredArray = filteredData.filter(item => item.Price >= values[0] && item.Price <= values[1]);
+            range.noUiSlider.on('update', function (values) {
+                // Filter items within the min and max range
+                const filteredArray = defaultState.filter(item => item.Price >= values[0] && item.Price <= values[1]);
 
-                    // Custom comparator function to sort by price
-                    const sortByPrice = (a, b) => a.Price - b.Price;
+                // Custom comparator function to sort by price
+                const sortByPrice = (a, b) => a.Price - b.Price;
 
-                    // Sorting by price after filtering
-                    filteredData = filteredArray.slice().sort(sortByPrice);
-                    refreshList();
-                    $('#' + idOfRangeSlider).val(values.join(' - '));
-                });
-            }, 1000)
+                // Sorting by price after filtering
+                filteredData = filteredArray.slice().sort(sortByPrice);
+                refreshList();
+                $('#' + idOfRangeSlider).val(values.join(' - '));
+            });
         });
     }, 1000)
 }
