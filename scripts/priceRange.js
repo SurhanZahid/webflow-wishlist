@@ -1,3 +1,15 @@
+const filterByRange = (min, max) => {
+    // Filter items within the min and max range
+    const filteredArray = defaultState.filter(item => item.Price >= min && item.Price <= max);
+
+    // Custom comparator function to sort by price
+    const sortByPrice = (a, b) => a.Price - b.Price;
+
+    // Sorting by price after filtering
+    filteredData = filteredArray.slice().sort(sortByPrice);
+    refreshList();
+}
+
 const renderPriceRange = () => {
     setTimeout(() => {
         $(function () {
@@ -23,15 +35,7 @@ const renderPriceRange = () => {
                 ],
             });
             range.noUiSlider.on('update', function (values) {
-                // Filter items within the min and max range
-                const filteredArray = defaultState.filter(item => item.Price >= values[0] && item.Price <= values[1]);
-
-                // Custom comparator function to sort by price
-                const sortByPrice = (a, b) => a.Price - b.Price;
-
-                // Sorting by price after filtering
-                filteredData = filteredArray.slice().sort(sortByPrice);
-                refreshList();
+                filterByRange(values[0], values[1])
                 $('#' + idOfRangeSlider).val(values.join(' - '));
             });
         });
