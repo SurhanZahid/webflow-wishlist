@@ -9,12 +9,12 @@ const refreshList = () => {
 const handleDropDownFilter = () => {
     const dropdown = document.querySelector('#order-2')
     if(dropdown.value === 'asc'){
-        filteredData = data.sort((a,b) => {
+        filteredData = filteredData.sort((a,b) => {
             return parseFloat(a.Price) - parseFloat(b.Price)
         })
         refreshList();
     } else if (dropdown.value === 'desc') {
-        filteredData = data.sort((a,b) => {
+        filteredData = filteredData.sort((a,b) => {
             return parseFloat(b.Price) - parseFloat(a.Price)
         })
         refreshList();
