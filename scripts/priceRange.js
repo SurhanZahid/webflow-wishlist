@@ -1,4 +1,6 @@
 const filterByRange = (min, max) => {
+    let idOfRangeSlider = 'slider-range';
+    const range = $('#' + idOfRangeSlider).next()[0];
     // Filter items within the min and max range
     const filteredArray = defaultState.filter(item => item.Price >= min && item.Price <= max);
 
@@ -7,6 +9,12 @@ const filterByRange = (min, max) => {
 
     // Sorting by price after filtering
     filteredData = filteredArray.slice().sort(sortByPrice);
+    range.noUiSlider.updateOptions({
+        range: {
+            'min': min,
+            'max': max
+        }
+    });
     refreshList();
 }
 
