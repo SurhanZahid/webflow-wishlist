@@ -9,12 +9,12 @@ const filterByRange = (min, max) => {
 
     // Sorting by price after filtering
     filteredData = filteredArray.slice().sort(sortByPrice);
-    range.noUiSlider.updateOptions({
-        range: {
-            'min': min,
-            'max': max
-        }
-    });
+    // range.noUiSlider.updateOptions({
+    //     range: {
+    //         'min': min,
+    //         'max': max
+    //     }
+    // });
     refreshList();
 }
 
