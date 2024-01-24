@@ -38,7 +38,7 @@ const renderPriceRange = () => {
                 ],
             });
             range.noUiSlider.on('update', function (values) {
-                const filteredArray = filteredData.filter(item => item.Price >= min && item.Price <= max);
+                const filteredArray = filteredData.filter(item => item.Price >= values[0] && item.Price <= values[1]);
                 const sortByPrice = (a, b) => a.Price - b.Price;
                 // Sorting by price after filtering
                 filteredData = filteredArray.slice().sort(sortByPrice);
