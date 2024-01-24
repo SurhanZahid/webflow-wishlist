@@ -38,7 +38,11 @@ const renderPriceRange = () => {
                 ],
             });
             range.noUiSlider.on('update', function (values) {
-                filterByRange(values[0], values[1])
+                const filteredArray = filteredData.filter(item => item.Price >= min && item.Price <= max);
+                const sortByPrice = (a, b) => a.Price - b.Price;
+                // Sorting by price after filtering
+                filteredData = filteredArray.slice().sort(sortByPrice);
+                refreshList();
                 $('#' + idOfRangeSlider).val(values.join(' - '));
             });
         });
