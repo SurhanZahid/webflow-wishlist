@@ -14,8 +14,7 @@ const toggleNoProductFoundVisibility = (style) => {
     const productNotFoundContainer = document.getElementById('product-not-found');
     const productContainer = document.getElementById('random');
     const paigination = document.getElementById('paginationContainer');
-    if (style === 'none')
-    {
+    if (style === 'none') {
         productContainer.style.display = 'flex'
         paigination.style.display = 'flex'
         productNotFoundContainer.style.display = 'none'
@@ -114,8 +113,7 @@ function handleSearch() {
     const searchInput = document.querySelector('.filter-control');
     const searchTerm = searchInput.value.toLowerCase();
 
-    if(!searchTerm)
-    {
+    if (!searchTerm) {
         hideSuggestions()
     }
 
@@ -123,8 +121,7 @@ function handleSearch() {
         item.Name.toLowerCase().includes(searchTerm)
     );
 
-    if(filteredData.length)
-    {
+    if (filteredData.length) {
         toggleNoProductFoundVisibility('none')
     } else {
         toggleNoProductFoundVisibility('block')
@@ -165,7 +162,11 @@ function updateSuggestionsList() {
 
 function showSuggestions() {
     const suggestionsListContainer = document.getElementById('suggestionsList');
-    suggestionsListContainer.style.display = 'block';
+    if (suggestionsList.length) {
+        suggestionsListContainer.style.display = 'block';
+    } else {
+        suggestionsListContainer.style.display = 'none';
+    }
 }
 
 window.addEventListener('click', function (e) {
