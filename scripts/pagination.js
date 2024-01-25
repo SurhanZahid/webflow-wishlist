@@ -14,7 +14,7 @@ const toggleNoProductFoundVisibility = (style) => {
     const productNotFoundContainer = document.getElementById('product-not-found');
     const productContainer = document.getElementById('random');
     const paigination = document.getElementById('paginationContainer');
-    if (style === 'block')
+    if (style === 'none')
     {
         productContainer.style.display = 'flex'
         paigination.style.display = 'flex'
