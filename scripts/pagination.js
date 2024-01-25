@@ -10,6 +10,11 @@ const getFilterData = () => {
     return filteredData
 }
 
+const toggleNoProductFoundVisibility = (style) => {
+    const suggestionsListContainer = document.getElementById('suggestionsList');
+    suggestionsListContainer.style.display = style
+}
+
 function renderItems(startIndex, endIndex) {
     const container = document.querySelector('.product-cms-list');
     container.innerHTML = ''; // Clear previous content
@@ -154,7 +159,7 @@ function hideSuggestions() {
     const suggestionsListContainer = document.getElementById('suggestionsList');
     suggestionsListContainer.style.display = 'none';
 }
-
+toggleNoProductFoundVisibility('block');
 fetch(url)
     .then(response => {
         if (!response.ok) {
@@ -169,7 +174,9 @@ fetch(url)
         addSearchEvent();
         renderItems(0, itemsPerPage);
         updatePagination();
+        toggleNoProductFoundVisibility('none');
     })
     .catch(error => {
+        toggleNoProductFoundVisibility('none');
         console.error('Fetch error:', error);
     });
