@@ -18,12 +18,13 @@ const toggleNoProductFoundVisibility = (style) => {
     {
         productContainer.style.display = 'flex'
         paigination.style.display = 'flex'
+        productNotFoundContainer.style.display = 'none'
     }
     else {
         productContainer.style.display = 'none'
         paigination.style.display = 'none'
+        productNotFoundContainer.style.display = 'block'
     }
-    productNotFoundContainer.style.display = style
 
 }
 
