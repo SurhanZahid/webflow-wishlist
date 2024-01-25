@@ -123,11 +123,13 @@ function handleSearch() {
         item.Name.toLowerCase().includes(searchTerm)
     );
 
-    if(!filteredData.length)
+    if(filteredData.length)
     {
+        toggleNoProductFoundVisibility('none')
+    } else {
         toggleNoProductFoundVisibility('block')
     }
-    toggleNoProductFoundVisibility('none')
+
     currentPage = 1;
     renderItems(0, itemsPerPage);
     updatePagination();
