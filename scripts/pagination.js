@@ -122,6 +122,11 @@ function handleSearch() {
         item.Name.toLowerCase().includes(searchTerm)
     );
 
+    if(!filteredData.length)
+    {
+        toggleNoProductFoundVisibility('hidden')
+    }
+
     currentPage = 1;
     renderItems(0, itemsPerPage);
     updatePagination();
