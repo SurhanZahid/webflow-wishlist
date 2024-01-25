@@ -11,8 +11,8 @@ const getFilterData = () => {
 }
 
 const toggleNoProductFoundVisibility = (style) => {
-    const suggestionsListContainer = document.getElementById('suggestionsList');
-    suggestionsListContainer.style.display = style
+    const productNotFoundContainer = document.getElementById('product-not-found');
+    productNotFoundContainer.style.display = style
 }
 
 function renderItems(startIndex, endIndex) {
