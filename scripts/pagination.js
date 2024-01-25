@@ -125,9 +125,9 @@ function handleSearch() {
 
     if(!filteredData.length)
     {
-        toggleNoProductFoundVisibility('hidden')
+        toggleNoProductFoundVisibility('block')
     }
-
+    toggleNoProductFoundVisibility('none')
     currentPage = 1;
     renderItems(0, itemsPerPage);
     updatePagination();
