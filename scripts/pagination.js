@@ -12,7 +12,19 @@ const getFilterData = () => {
 
 const toggleNoProductFoundVisibility = (style) => {
     const productNotFoundContainer = document.getElementById('product-not-found');
+    const productContainer = document.getElementById('random');
+    const paigination = document.getElementById('paginationContainer');
+    if (style === 'block')
+    {
+        productContainer.style.display = 'flex'
+        paigination.style.display = 'flex'
+    }
+    else {
+        productContainer.style.display = 'none'
+        paigination.style.display = 'none'
+    }
     productNotFoundContainer.style.display = style
+
 }
 
 function renderItems(startIndex, endIndex) {
