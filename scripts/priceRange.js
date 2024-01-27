@@ -40,7 +40,7 @@ const renderPriceRange = () => {
             range.noUiSlider.on('update', function (values) {
                 let filteredArray = data.filter(item => item.Price >= values[0] && item.Price <= values[1]);
                 const sortByPrice = (a, b) => a.Price - b.Price;
-                if(uniqueCategories) {
+                if(uniqueCategories.length) {
                     filteredArray = filteredArray.filter(item => uniqueCategories.includes(item['Brand'] || item['Product Category']))
                 }
                 // Sorting by price after filtering
