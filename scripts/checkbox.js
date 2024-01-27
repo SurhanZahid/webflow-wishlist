@@ -84,7 +84,7 @@ const checkboxEventHandler = () => {
             // Toggle the checkbox state
             checkbox.checked = !checkbox.checked;
             if (checkbox.checked) {
-                uniqueCategories.push(anchor.textContent);
+                uniqueCategories.push(formatStringWithDash(anchor.textContent));
                 filterByCategory();
             } else {
                 const index = uniqueCategories.findIndex(category => category === anchor.textContent);
