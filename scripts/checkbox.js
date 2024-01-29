@@ -1,4 +1,4 @@
-const uniqueCategories = [];
+let uniqueCategories = [];
 let filterTest = [];
 
 const renderCheckbox = () => {
