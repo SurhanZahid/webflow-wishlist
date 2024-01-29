@@ -9,12 +9,12 @@ const refreshList = () => {
 const handleDropDownFilter = () => {
     const dropdown = document.querySelector('#order-2')
     if (dropdown.value === 'asc') {
-        filteredData = filteredData.sort((a, b) => {
+        filteredData = data.sort((a, b) => {
             return parseFloat(a.Price) - parseFloat(b.Price)
         })
         refreshList();
     } else if (dropdown.value === 'desc') {
-        filteredData = filteredData.sort((a, b) => {
+        filteredData = data.sort((a, b) => {
             return parseFloat(b.Price) - parseFloat(a.Price)
         })
         refreshList();
@@ -24,7 +24,7 @@ const handleDropDownFilter = () => {
         refreshList();
     }
     else if (dropdown.value === 'best-seller') {
-        filteredData = filteredData.filter(product => product.Name.toLowerCase().includes('best seller'))
+        filteredData = data.filter(product => product.Name.toLowerCase().includes('best seller'))
         refreshList();
     }
     else {
