@@ -24,7 +24,7 @@ const handleDropDownFilter = () => {
         refreshList();
     }
     else if (dropdown.value === 'best-seller') {
-        filteredData = filteredData.filter(product => product.Name.includes('best seller'))
+        filteredData = filteredData.filter(product => product.Name.toLowerCase().includes('best seller'))
         refreshList();
     }
     else {
