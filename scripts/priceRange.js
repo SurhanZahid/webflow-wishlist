@@ -1,6 +1,22 @@
 let maxPrice;
 let minPrice;
 
+const filterByRange = (min, max) => {
+    let idOfRangeSlider = 'slider-range';
+    const range = $('#' + idOfRangeSlider).next()[0];
+    // Filter items within the min and max range
+    const filteredArray = filteredData.filter(item => item.Price >= min && item.Price <= max);
+
+    // Custom comparator function to sort by price
+    const sortByPrice = (a, b) => a.Price - b.Price;
+
+    // Sorting by price after filtering
+    filteredData = filteredArray.slice().sort(sortByPrice);
+    range.noUiSlider.reset();
+    refreshList();
+}
+
+
 const filterByPrice = (wishlist) => {
     let filteredArray = wishlist.filter(item => item.Price >= minPrice && item.Price <= maxPrice);
     const sortByPrice = (a, b) => a.Price - b.Price;

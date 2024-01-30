@@ -35,7 +35,7 @@ const filterByCategory = () => {
         })
     })
     filterTest = filterByPrice(filterTest)
-    filteredData = filterTest;
+    filteredData = removeDuplicates(filterTest);
     refreshList();
 }
 
