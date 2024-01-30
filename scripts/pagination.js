@@ -145,9 +145,16 @@ function addSearchEvent() {
 }
 
 function generateSuggestions(searchTerm) {
-    suggestionsList = data
+
+    let filteredArray = filterByPrice(data)
         .filter(item => item.Name.toLowerCase().includes(searchTerm))
         .map(item => item.Name);
+
+    if (uniqueCategories.length) {
+        filteredArray = filteredArray.filter(item => uniqueCategories.includes(item['Brand'] || item['Product Category']))
+    }
+
+    suggestionsList = filteredArray;
     updateSuggestionsList();
 }
 
