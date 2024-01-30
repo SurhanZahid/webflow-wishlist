@@ -66,7 +66,8 @@ const checkboxEventHandler = () => {
                 if (uniqueCategories.length) {
                     filterByCategory();
                 } else {
-                    resetFilter();
+                    filteredData = filterByPrice(defaultState);
+                    refreshList();
                 }
             }
         });
