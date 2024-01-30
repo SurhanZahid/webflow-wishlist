@@ -25,27 +25,16 @@ const formatStringWithDash = (product) => {
 }
 
 const filterByCategory = () => {
-    if (uniqueCategories.length) {
-        uniqueCategories.forEach(category => {
-            data.forEach(product => {
-                if (product['Product Category'] || product['Brand']) {
-                    if (product['Product Category'] === formatStringWithDash(category) || product['Brand'] === formatStringWithDash(category)) {
-                        filterTest.unshift(product)
-                    }
+    uniqueCategories.forEach(category => {
+        data.forEach(product => {
+            if (product['Product Category'] || product['Brand']) {
+                if (product['Product Category'] === formatStringWithDash(category) || product['Brand'] === formatStringWithDash(category)) {
+                    filterTest.unshift(product)
                 }
-            })
+            }
         })
-    } else {
-        filteredData.forEach(category => {
-            data.forEach(product => {
-                if (product['Product Category'] || product['Brand']) {
-                    if (product['Product Category'] === formatStringWithDash(category) || product['Brand'] === formatStringWithDash(category)) {
-                        filterTest.unshift(product)
-                    }
-                }
-            })
-        })
-    }
+    })
+    filterTest = filterByPrice(filterTest)
     filteredData = filterTest;
     refreshList();
 }

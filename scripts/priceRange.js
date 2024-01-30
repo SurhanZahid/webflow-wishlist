@@ -1,16 +1,14 @@
-const filterByRange = (min, max) => {
-    let idOfRangeSlider = 'slider-range';
-    const range = $('#' + idOfRangeSlider).next()[0];
-    // Filter items within the min and max range
-    const filteredArray = filteredData.filter(item => item.Price >= min && item.Price <= max);
+let maxPrice;
+let minPrice;
 
-    // Custom comparator function to sort by price
+const filterByPrice = (wishlist) => {
+    let filteredArray = wishlist.filter(item => item.Price >= minPrice && item.Price <= maxPrice);
     const sortByPrice = (a, b) => a.Price - b.Price;
+    if (uniqueCategories.length) {
+        filteredArray = filteredArray.filter(item => uniqueCategories.includes(item['Brand'] || item['Product Category']))
+    }
 
-    // Sorting by price after filtering
-    filteredData = filteredArray.slice().sort(sortByPrice);
-    range.noUiSlider.reset();
-    refreshList();
+    return filteredArray.slice().sort(sortByPrice);
 }
 
 const renderPriceRange = () => {
@@ -23,6 +21,8 @@ const renderPriceRange = () => {
             $("<div></div>").insertAfter('#' + idOfRangeSlider);
 
             var range = $('#' + idOfRangeSlider).next()[0];
+            minPrice = min;
+            maxPrice = max;
 
             noUiSlider.create(range, {
                 connect: true,
@@ -38,13 +38,9 @@ const renderPriceRange = () => {
                 ],
             });
             range.noUiSlider.on('update', function (values) {
-                let filteredArray = data.filter(item => item.Price >= values[0] && item.Price <= values[1]);
-                const sortByPrice = (a, b) => a.Price - b.Price;
-                if(uniqueCategories.length) {
-                    filteredArray = filteredArray.filter(item => uniqueCategories.includes(item['Brand'] || item['Product Category']))
-                }
-                // Sorting by price after filtering
-                filteredData = filteredArray.slice().sort(sortByPrice);
+                minPrice = values[0];
+                maxPrice = values[1];
+                filteredData = filterByPrice(data);
                 refreshList();
                 $('#' + idOfRangeSlider).val(values.join(' - '));
             });

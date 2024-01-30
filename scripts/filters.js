@@ -50,6 +50,10 @@ const handleSidebarFilters = (data, parameters) => {
 }
 
 const resetFilter = () => {
+    let max = Math.max(...filteredData.map(o => o.Price))
+    let min = 0
+    minPrice = min;
+    maxPrice = max;
     filteredData = defaultState
     refreshList();
 }
