@@ -117,7 +117,7 @@ function handleSearch() {
         hideSuggestions()
     }
 
-    const filteredArray = filterByPrice(data).filter(item =>
+    let filteredArray = filterByPrice(data).filter(item =>
         item.Name.toLowerCase().includes(searchTerm)
     );
 
