@@ -117,9 +117,15 @@ function handleSearch() {
         hideSuggestions()
     }
 
-    filteredData = data.filter(item =>
+    const filteredArray = filterByPrice(data).filter(item =>
         item.Name.toLowerCase().includes(searchTerm)
     );
+
+    if (uniqueCategories.length) {
+        filteredArray = filteredArray.filter(item => uniqueCategories.includes(item['Brand'] || item['Product Category']))
+    }
+
+    filteredData = filteredArray
 
     if (filteredData.length) {
         toggleNoProductFoundVisibility('none')
