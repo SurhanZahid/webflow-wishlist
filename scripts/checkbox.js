@@ -30,6 +30,7 @@ const filterByCategory = () => {
         data.forEach(product => {
             if (product['Product Category'] || product['Brand']) {
                 if (product['Product Category'] === formatStringWithDash(category) || product['Brand'] === formatStringWithDash(category)) {
+                    console.log(product)
                     filterTest.unshift(product)
                 }
             }
