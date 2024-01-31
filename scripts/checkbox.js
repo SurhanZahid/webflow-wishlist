@@ -7,6 +7,7 @@ const renderCheckbox = () => {
     items.forEach(function (item) {
         var checkbox = document.createElement('input');
         checkbox.type = 'checkbox';
+        checkbox.disabled = true;
 
         var anchorLink = item.querySelector('.product-tab-link');
         var anchorText = anchorLink ? anchorLink.textContent : '';
