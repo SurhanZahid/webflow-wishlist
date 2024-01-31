@@ -30,7 +30,6 @@ const filterByCategory = () => {
         data.forEach(product => {
             if (product['Product Category'] || product['Brand']) {
                 if (product['Product Category'] === formatStringWithDash(category) || product['Brand'] === formatStringWithDash(category)) {
-                    console.log(product)
                     filterTest.unshift(product)
                 }
             }
@@ -62,8 +61,10 @@ const checkboxEventHandler = () => {
                 uniqueCategories.push(formatStringWithDash(anchor.textContent));
                 filterByCategory();
             } else {
+                console.log(uniqueCategories)
                 const index = uniqueCategories.findIndex(category => category === anchor.textContent);
                 uniqueCategories.splice(index, 1);
+                console.log(uniqueCategories, index)
                 filterTest = []
                 if (uniqueCategories.length) {
                     filterByCategory();
