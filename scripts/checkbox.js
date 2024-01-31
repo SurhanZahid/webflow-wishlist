@@ -7,7 +7,7 @@ const renderCheckbox = () => {
     items.forEach(function (item) {
         var checkbox = document.createElement('input');
         checkbox.type = 'checkbox';
-        // checkbox.disabled = true;
+        checkbox.disabled = true;
 
         var anchorLink = item.querySelector('.product-tab-link');
         var anchorText = anchorLink ? anchorLink.textContent : '';
@@ -61,10 +61,8 @@ const checkboxEventHandler = () => {
                 uniqueCategories.push(formatStringWithDash(anchor.textContent));
                 filterByCategory();
             } else {
-                console.log(uniqueCategories)
-                const index = uniqueCategories.findIndex(category => category === anchor.textContent);
+                const index = uniqueCategories.findIndex(category => category === formatStringWithDash(anchor.textContent));
                 uniqueCategories.splice(index, 1);
-                console.log(uniqueCategories, index)
                 filterTest = []
                 if (uniqueCategories.length) {
                     filterByCategory();
