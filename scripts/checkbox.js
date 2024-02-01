@@ -60,15 +60,18 @@ const checkboxEventHandler = () => {
             if (checkbox.checked) {
                 uniqueCategories.push(formatStringWithDash(anchor.textContent));
                 filterByCategory();
+                renderPills('filter-pills', uniqueCategories);
             } else {
                 const index = uniqueCategories.findIndex(category => category === formatStringWithDash(anchor.textContent));
                 uniqueCategories.splice(index, 1);
                 filterTest = []
                 if (uniqueCategories.length) {
                     filterByCategory();
+                    renderPills('filter-pills', uniqueCategories);
                 } else {
                     filteredData = filterByPrice(defaultState);
                     refreshList();
+                    renderPills('filter-pills', uniqueCategories);
                 }
             }
         });
