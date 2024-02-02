@@ -9,10 +9,10 @@ const renderCheckbox = () => {
         checkbox.type = 'checkbox';
         checkbox.disabled = true;
 
-        var anchorLink = item.querySelector('.product-tab-link');
-        var anchorText = anchorLink ? anchorLink.textContent : '';
+        //var anchorLink = item.querySelector('.product-tab-link');
+        //var anchorText = anchorLink ? anchorLink.textContent : '';
 
-        checkbox.id = anchorText.toLowerCase().replace(/\s/g, '-') + '-checkbox';
+        //checkbox.id = anchorText.toLowerCase().replace(/\s/g, '-') + '-checkbox';
 
         item.insertBefore(checkbox, item.firstChild);
 
