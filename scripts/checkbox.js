@@ -8,7 +8,7 @@ const renderCheckbox = () => {
         var checkbox = document.createElement('input');
         checkbox.type = 'checkbox';
         checkbox.disabled = true;
-        checkbox.id = formatStringWithDash(anchor.textContent)
+        checkbox.id = formatStringWithDash(anchorText.textContent)
         //var anchorLink = item.querySelector('.product-tab-link');
         //var anchorText = anchorLink ? anchorLink.textContent : '';
 
