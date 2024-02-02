@@ -54,7 +54,7 @@ const checkboxEventHandler = () => {
 
             // Get the checkbox within the parent element
             var checkbox = listItem.querySelector('input[type="checkbox"]');
-
+            checkbox.id = formatStringWithDash(anchor.textContent)
             // Toggle the checkbox state
             checkbox.checked = !checkbox.checked;
             if (checkbox.checked) {
