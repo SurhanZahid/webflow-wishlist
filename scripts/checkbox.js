@@ -8,7 +8,7 @@ const renderCheckbox = () => {
         var checkbox = document.createElement('input');
         checkbox.type = 'checkbox';
         checkbox.disabled = true;
-
+        checkbox.id = formatStringWithDash(anchor.textContent)
         //var anchorLink = item.querySelector('.product-tab-link');
         //var anchorText = anchorLink ? anchorLink.textContent : '';
 
@@ -54,7 +54,7 @@ const checkboxEventHandler = () => {
 
             // Get the checkbox within the parent element
             var checkbox = listItem.querySelector('input[type="checkbox"]');
-            checkbox.id = formatStringWithDash(anchor.textContent)
+
             // Toggle the checkbox state
             checkbox.checked = !checkbox.checked;
             if (checkbox.checked) {
