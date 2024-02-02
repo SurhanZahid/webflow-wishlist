@@ -8,10 +8,9 @@ const renderCheckbox = () => {
         var checkbox = document.createElement('input');
         checkbox.type = 'checkbox';
         checkbox.disabled = true;
-        checkbox.id = formatStringWithDash(anchorText.textContent)
-        //var anchorLink = item.querySelector('.product-tab-link');
-        //var anchorText = anchorLink ? anchorLink.textContent : '';
-
+        var anchorLink = item.querySelector('.product-tab-link');
+        var anchorText = anchorLink ? anchorLink.textContent : '';
+        checkbox.id = formatStringWithDash(anchorText);
         //checkbox.id = anchorText.toLowerCase().replace(/\s/g, '-') + '-checkbox';
 
         item.insertBefore(checkbox, item.firstChild);
