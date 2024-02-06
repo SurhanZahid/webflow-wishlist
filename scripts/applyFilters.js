@@ -65,7 +65,7 @@ const removreAllFilters =  () => {
         })
         uniqueCategories = []
         renderPills('filter-pills', uniqueCategories);
-        refreshList();
+        resetFilters();
     });
 }
 const resetBtn = document.getElementById('reset-btn');
