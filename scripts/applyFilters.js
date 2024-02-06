@@ -64,7 +64,8 @@ const removreAllFilters =  () => {
             checkbox.checked = false;
         })
         uniqueCategories = []
-        renderPills('filter-pills', uniqueCategories)
+        renderPills('filter-pills', uniqueCategories);
+        refreshList();
     });
 }
 const resetBtn = document.getElementById('reset-btn');
