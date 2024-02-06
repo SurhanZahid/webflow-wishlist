@@ -44,6 +44,10 @@ const renderPills = (container, items) => {
             renderPills('filter-pills', uniqueCategories);
             const checkbox = document.getElementById(item);
             checkbox.checked = false;
+            if (uniqueCategories.length) {
+                filterByCategory();
+            }
+            resetFilter();
         });
 
         // Append the pill to the container
