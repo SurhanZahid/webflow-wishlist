@@ -36,11 +36,6 @@ const renderPills = (container, items) => {
         pill.appendChild(titleDiv);
         pill.appendChild(imageContainerDiv);
 
-        // Add click event logic to the pill
-        pill.addEventListener('click', () => {
-            console.log(`Clicked on ${item.title}`);
-        });
-
         pill.addEventListener('click', () => {
             const clickedTitle = item;
 
