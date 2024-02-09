@@ -6,7 +6,7 @@ const setPriceRange = () => {
     const min = document.getElementById('price-min-range')
     const max = document.getElementById('price-max-range')
     min.textContent = `$${minPrice}`
-    max.textContent = `$${minPrice}`
+    max.textContent = `$${maxPrice}`
 }
 
 const filterByRange = (min, max) => {
