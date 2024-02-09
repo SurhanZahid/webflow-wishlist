@@ -1,6 +1,14 @@
 let maxPrice;
 let minPrice;
 
+
+const setPriceRange = () => {
+    const min = document.getElementById('price-min-range')
+    const max = document.getElementById('price-max-range')
+    min.textContent = `$${minPrice}`
+    max.textContent = `$${minPrice}`
+}
+
 const filterByRange = (min, max) => {
     let idOfRangeSlider = 'slider-range';
     const range = $('#' + idOfRangeSlider).next()[0];
@@ -56,6 +64,7 @@ const renderPriceRange = () => {
             range.noUiSlider.on('update', function (values) {
                 minPrice = values[0];
                 maxPrice = values[1];
+                setPriceRange()
                 filteredData = filterByPrice(data);
                 refreshList();
                 $('#' + idOfRangeSlider).val(values.join(' - '));
