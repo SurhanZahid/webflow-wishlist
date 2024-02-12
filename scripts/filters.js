@@ -65,5 +65,5 @@ const addDropDownEvent = () => {
 }
 
 document.addEventListener('DOMContentLoaded', () => {
-    addDropDownEvent();
+    // addDropDownEvent();
 });
