@@ -68,7 +68,27 @@ const removreAllFilters =  () => {
         resetFilters();
     });
 }
+
+const sectionClearFilter = (name) => {
+    const categories = document.querySelectorAll(`#${name}`);
+
+    categories[0].childNodes.forEach(item => {
+        const name = item.childNodes[0].id
+        const index = uniqueCategories.findIndex(x => x === name)
+        let checkbox = document.getElementById(name);
+        checkbox.checked = false;
+        if(index !== -1)
+        {
+            uniqueCategories.splice(index, 1)
+        }
+        renderPills('filter-pills', uniqueCategories);
+    })
+}
+
 const resetBtn = document.getElementById('reset-btn');
+const resetCategoryBtn = document.getElementById('reset-category-btn');
+const resetBrandBtn = document.getElementById('reset-brand-btn');
+
 resetBtn.addEventListener('click', () => {
     let max = Math.max(...filteredData.map(o => o.Price))
     let min = 0
@@ -76,4 +96,13 @@ resetBtn.addEventListener('click', () => {
     resetFilters();
     filterByRange(min, max);
 });
+
+resetCategoryBtn.addEventListener('click', () => {
+    sectionClearFilter('category-list')
+})
+
+resetBrandBtn.addEventListener('click', () => {
+    sectionClearFilter('brands-list')
+})
+
 removreAllFilters();
