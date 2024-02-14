@@ -71,7 +71,7 @@ const removeAllFilters =  () => {
 
 const sectionClearFilter = (name) => {
     const categories = document.querySelectorAll(`#${name}`);
-
+    let filteredArray = []
     categories[0].childNodes.forEach(item => {
         const name = item.childNodes[0].id
         const index = uniqueCategories.findIndex(x => x === name)
@@ -81,8 +81,15 @@ const sectionClearFilter = (name) => {
         {
             uniqueCategories.splice(index, 1)
         }
+        if (uniqueCategories.length) {
+            filteredArray = filteredArray.filter(item => uniqueCategories.includes(item['Brand'] || item['Product Category']))
+        }
+
+        filteredData = filteredArray
         renderPills('filter-pills', uniqueCategories);
-        refreshList();
+        currentPage = 1;
+        renderItems(0, itemsPerPage);
+        updatePagination();
     })
 }
 
