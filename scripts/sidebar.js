@@ -1,12 +1,15 @@
 // Initial visibility state
 let isCategoriesVisible = true;
 let isBrandVisible = true;
+let isPriceRangeVisiable = true;
 
 // Elements selection
 const categoryList = document.getElementById('categories-list');
 const brandList = document.getElementById('brand-list');
+const priceRangeContainer = document.getElementById('price-range-container')
 const categoryDropdown = document.getElementById('category-header');
 const brandDropdown = document.getElementById('brand-header');
+const priceRangeDropddown = document.getElementById('price-header');
 const categoryIcon = document.getElementById('category-side-icon')
 
 const toggleSideIcon = (element, isVisible) => {
@@ -22,6 +25,7 @@ const toggleVisibility = (element, isVisible) => {
 // Hide dropdowns by default
 categoryList.style.display = 'none';
 brandList.style.display = 'none';
+priceRangeContainer.style.display = 'none'
 
 // Event listeners for category dropdown
 categoryDropdown.addEventListener('click', () => {
@@ -35,3 +39,7 @@ brandDropdown.addEventListener('click', () => {
     isBrandVisible = !isBrandVisible;
     toggleVisibility(brandList, isBrandVisible);
 });
+priceRangeDropddown.addEventListener('click', () => {
+    isPriceRangeVisiable = !isPriceRangeVisiable;
+    toggleVisibility(priceRangeContainer, isPriceRangeVisiable);
+})
