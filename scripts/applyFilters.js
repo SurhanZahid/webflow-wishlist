@@ -71,7 +71,12 @@ const removeAllFilters =  () => {
 
 const sectionClearFilter = (name) => {
     const categories = document.querySelectorAll(`#${name}`);
-    let filteredArray = filterByPrice(data)
+    let filteredArray = filterByPrice(data);
+    if(uniqueCategories.length === 0)
+    {
+        resetFilters();
+        return;
+    }
     categories[0].childNodes.forEach(item => {
         const name = item.childNodes[0].id
         const index = uniqueCategories.findIndex(x => x === name)
