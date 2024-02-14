@@ -57,7 +57,7 @@ const checkboxEventHandler = () => {
             // Toggle the checkbox state
             checkbox.checked = !checkbox.checked;
             if (checkbox.checked) {
-                uniqueCategories.push(formatStringWithDash(anchor.textContent));
+                uniqueCategories.unshift(formatStringWithDash(anchor.textContent));
                 filterByCategory();
                 renderPills('filter-pills', uniqueCategories);
             } else {

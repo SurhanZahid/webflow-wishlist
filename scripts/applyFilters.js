@@ -56,7 +56,7 @@ const renderPills = (container, items) => {
     });
 }
 
-const removreAllFilters =  () => {
+const removeAllFilters =  () => {
     const clearBtn = document.getElementById('clear-all-btn');
     clearBtn.addEventListener('click', () => {
         uniqueCategories.forEach(item => {
@@ -82,6 +82,7 @@ const sectionClearFilter = (name) => {
             uniqueCategories.splice(index, 1)
         }
         renderPills('filter-pills', uniqueCategories);
+        refreshList();
     })
 }
 
@@ -105,4 +106,4 @@ resetBrandBtn.addEventListener('click', () => {
     sectionClearFilter('brands-list')
 })
 
-removreAllFilters();
+removeAllFilters();
