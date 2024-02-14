@@ -71,17 +71,18 @@ const removeAllFilters =  () => {
 
 const sectionClearFilter = (name) => {
     const categories = document.querySelectorAll(`#${name}`);
+    if (!categories.length) return;
     let filteredArray = filterByPrice(data);
-    if(uniqueCategories.length === 0)
-    {
-        resetFilters();
-        return;
-    }
     categories[0].childNodes.forEach(item => {
         const name = item.childNodes[0].id
         const index = uniqueCategories.findIndex(x => x === name)
         let checkbox = document.getElementById(name);
         checkbox.checked = false;
+        if(uniqueCategories.length === 0)
+        {
+            resetFilters();
+            return;
+        }
         if(index !== -1)
         {
             uniqueCategories.splice(index, 1)
