@@ -10,7 +10,9 @@ const priceRangeContainer = document.getElementById('price-range-container')
 const categoryDropdown = document.getElementById('category-header');
 const brandDropdown = document.getElementById('brand-header');
 const priceRangeDropddown = document.getElementById('price-header');
-const categoryIcon = document.getElementById('category-side-icon')
+const categoryIcon = document.getElementById('category-side-icon');
+const brandIcon = document.getElementById('brand-side-icon');
+const priceIcon = document.getElementById('price-side-icon');
 
 const toggleSideIcon = (element, isVisible) => {
     element.src = isVisible ? 'https://assets-global.website-files.com/65297b8483de877bf51c6220/65c3ebe8b6eb5f7598a2f79e_chevron-down.svg' : 'https://uploads-ssl.webflow.com/65297b8483de877bf51c6220/65c400003f45e9c93811ac7f_chevron-up.svg'
@@ -31,15 +33,17 @@ priceRangeContainer.style.display = 'none'
 categoryDropdown.addEventListener('click', () => {
     isCategoriesVisible = !isCategoriesVisible;
     toggleVisibility(categoryList, isCategoriesVisible);
-    toggleSideIcon(categoryIcon, isCategoriesVisible)
+    toggleSideIcon(categoryIcon, isCategoriesVisible);
 });
 
 // Event listeners for brand dropdown
 brandDropdown.addEventListener('click', () => {
     isBrandVisible = !isBrandVisible;
     toggleVisibility(brandList, isBrandVisible);
+    toggleSideIcon(brandIcon, isBrandVisible);
 });
 priceRangeDropddown.addEventListener('click', () => {
     isPriceRangeVisiable = !isPriceRangeVisiable;
     toggleVisibility(priceRangeContainer, isPriceRangeVisiable);
+    toggleSideIcon(priceIcon, isPriceRangeVisiable);
 })
