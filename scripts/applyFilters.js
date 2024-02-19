@@ -107,9 +107,7 @@ const resetBrandBtn = document.getElementById('reset-brand-btn');
 
 resetBtn.addEventListener('click', () => {
     let max = Math.max(...filteredData.map(o => o.Price))
-    let min = 0
-    uniqueCategories = []
-    resetFilters();
+    let min = 0;
     filterByRange(min, max);
 });
 
