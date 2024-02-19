@@ -56,7 +56,7 @@ const resetFilter = () => {
     let min = 0
     minPrice = min;
     maxPrice = max;
-    filteredData = defaultState
+    filteredData = filterByPrice(defaultState)
     refreshList();
 }
 
