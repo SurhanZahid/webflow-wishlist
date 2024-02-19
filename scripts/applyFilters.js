@@ -44,6 +44,7 @@ const renderPills = (container, items) => {
             renderPills('filter-pills', uniqueCategories);
             const checkbox = document.getElementById(item);
             checkbox.checked = false;
+            showAppliedFilterDisplay();
             if (uniqueCategories.length) {
                 filterByCategory();
             } else {
