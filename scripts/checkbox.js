@@ -22,7 +22,7 @@ const renderCheckbox = () => {
 const showAppliedFilterDisplay = () => {
     if (uniqueCategories.length)
     {
-        document.getElementById('applied-filters-container').style.display = 'block'
+        document.getElementById('applied-filters-container').style.display = 'flex'
     } else {
         document.getElementById('applied-filters-container').style.display = 'none'
     }
