@@ -19,6 +19,15 @@ const renderCheckbox = () => {
     });
 }
 
+const showAppliedFilterDisplay = () => {
+    if (uniqueCategories.length)
+    {
+        document.getElementById('applied-filters-container').style.display = 'block'
+    } else {
+        document.getElementById('applied-filters-container').style.display = 'none'
+    }
+}
+
 const formatStringWithDash = (product) => {
     let regexPattern = /[^a-zA-Z0-9]+/g;
     return product.replace(regexPattern, '-').toLowerCase()
@@ -59,11 +68,13 @@ const checkboxEventHandler = () => {
             if (checkbox.checked) {
                 uniqueCategories.unshift(formatStringWithDash(anchor.textContent));
                 filterByCategory();
+                showAppliedFilterDisplay();
                 renderPills('filter-pills', uniqueCategories);
             } else {
                 const index = uniqueCategories.findIndex(category => category === formatStringWithDash(anchor.textContent));
                 uniqueCategories.splice(index, 1);
                 filterTest = []
+                showAppliedFilterDisplay();
                 if (uniqueCategories.length) {
                     filterByCategory();
                     renderPills('filter-pills', uniqueCategories);

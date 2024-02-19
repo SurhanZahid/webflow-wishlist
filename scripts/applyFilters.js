@@ -66,6 +66,7 @@ const removeAllFilters =  () => {
         uniqueCategories = []
         renderPills('filter-pills', uniqueCategories);
         resetFilters();
+        showAppliedFilterDisplay();
     });
 }
 
