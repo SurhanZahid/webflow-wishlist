@@ -79,15 +79,20 @@ function hideSuggestions() {
 
 function searchTerm () {
     const searchTerm = document.getElementById('search-text')
+    const searchResultsCount = document.getElementById('search-text-results')
     searchTerm.style.display = 'none'
+    searchResultsCount.style.display = 'none'
     document.getElementById('field').addEventListener('input', function (evt) {
         const searchTerm = document.getElementById('search-text')
         if(this.value.length)
         {
             searchTerm.style.display = 'block'
+            searchResultsCount.style.display = 'block'
             searchTerm.innerHTML = `Showing all results for <strong>“${this.value}”</strong>`
+            searchResultsCount.innerText = `${filteredData.length} results`
         } else {
             searchTerm.style.display = 'none'
+            searchResultsCount.style.display = 'none'
         }
     });
 }
