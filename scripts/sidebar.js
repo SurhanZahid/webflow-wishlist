@@ -52,7 +52,7 @@ priceRangeDropdown.addEventListener('click', () => {
 })
 
 relevanceDropdown.addEventListener('click', () => {
-    isPriceRangeVisible = !isPriceRangeVisible;
+    isRelevanceVisible = !isRelevanceVisible;
     toggleVisibility(relevanceContainer, isRelevanceVisible);
     toggleSideIcon(releveanceIcon, isRelevanceVisible);
 })
