@@ -54,7 +54,7 @@ function renderItems(startIndex, endIndex) {
                                 <div class="product-price-wrapper">
                                     <div class="product-price">From&nbsp; </div>
                                     <div class="product-price"> $</div>
-                                    <div class="product-price">${item.Price}</div>
+                                    <div class="product-price">${item.Price} (mrp)</div>
                                 </div>
                             </div>
                     </div>
