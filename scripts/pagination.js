@@ -54,7 +54,7 @@ function renderItems(startIndex, endIndex) {
                                 <div class="product-price-wrapper">
                                     <div class="product-price">From&nbsp; </div>
                                     <div class="product-price"> $</div>
-                                    <div class="product-price">${item.Price} (mrp)
+                                    <div class="product-price tooltip">${item.Price} (mrp)
                                         <span class="tooltip-text">This is the tooltip text</span>
                                     </div>
                                 </div>
