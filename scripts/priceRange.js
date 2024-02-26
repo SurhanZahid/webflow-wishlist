@@ -32,6 +32,8 @@ const filterByPrice = (wishlist) => {
         filteredArray = filteredArray.filter(item => uniqueCategories.includes(item['Brand'] || item['Product Category']))
     }
 
+    filteredArray = sortData(filteredData, 'Price');
+
     return filteredArray.slice().sort(sortByPrice);
 }
 
