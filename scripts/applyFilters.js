@@ -72,6 +72,7 @@ const removeAllFilters =  () => {
         renderPills('filter-pills', uniqueCategories);
         resetFilters();
         showAppliedFilterDisplay();
+        refreshList();
     });
 }
 

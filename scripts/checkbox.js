@@ -1,5 +1,5 @@
 let uniqueCategories = [];
-let filterTest = [];
+let appliedFiltersWishlist = [];
 
 const renderCheckbox = () => {
     var items = document.querySelectorAll('.w-dyn-item');
@@ -38,14 +38,14 @@ const filterByCategory = () => {
         data.forEach(product => {
             if (product['Product Category'] || product['Brand']) {
                 if (product['Product Category'] === formatStringWithDash(category) || product['Brand'] === formatStringWithDash(category)) {
-                    filterTest.unshift(product)
+                    appliedFiltersWishlist.unshift(product)
                 }
             }
         })
     })
-    filterTest = filterByPrice(filterTest)
-    filterTest = removeDuplicates(filterTest);
-    filteredData = sortData(filterTest, 'Price');
+    appliedFiltersWishlist = filterByPrice(appliedFiltersWishlist)
+    appliedFiltersWishlist = removeDuplicates(appliedFiltersWishlist);
+    filteredData = sortWishlist(appliedFiltersWishlist, 'Price');
     refreshList();
 }
 
@@ -74,7 +74,7 @@ const checkboxEventHandler = () => {
             } else {
                 const index = uniqueCategories.findIndex(category => category === formatStringWithDash(anchor.textContent));
                 uniqueCategories.splice(index, 1);
-                filterTest = []
+                appliedFiltersWishlist = []
                 showAppliedFilterDisplay();
                 if (uniqueCategories.length) {
                     filterByCategory();

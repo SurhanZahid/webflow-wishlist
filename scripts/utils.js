@@ -9,7 +9,7 @@ const removeDuplicates = (wishlist) => {
       return false;
     });
   }
-const sortData = (data, sortBy) => {
+const sortWishlist = (data, sortBy) => {
     if (order === 'ascending') {
         return data.sort((a, b) => parseFloat(a[sortBy]) - parseFloat(b[sortBy]));
     } else if (order === 'descending') {
