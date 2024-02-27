@@ -61,14 +61,15 @@ const removeAllFilters =  () => {
     const clearBtn = document.getElementById('clear-all-btn');
     const sortByAsc = document.getElementById('asc');
     const sortByDesc = document.getElementById('desc');
-    sortByAsc.checked = false;
-    sortByDesc.checked = false;
-    clearBtn.addEventListener('click', () => {
+    clearBtn.addEventListener( 'click', () => {
         uniqueCategories.forEach(item => {
             let checkbox = document.getElementById(item);
             checkbox.checked = false;
         })
-        uniqueCategories = []
+        uniqueCategories = [];
+        order = '';
+        sortByAsc.checked = false;
+        sortByDesc.checked = false;
         renderPills('filter-pills', uniqueCategories);
         resetFilters();
         showAppliedFilterDisplay();
