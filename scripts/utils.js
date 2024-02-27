@@ -9,3 +9,13 @@ const removeDuplicates = (wishlist) => {
       return false;
     });
   }
+const sortData = (data, sortBy) => {
+    if (order === 'ascending') {
+        return data.sort((a, b) => parseFloat(a[sortBy]) - parseFloat(b[sortBy]));
+    } else if (order === 'descending') {
+        return data.sort((a, b) => parseFloat(b[sortBy]) - parseFloat(a[sortBy]));
+    } else {
+        // Default to ascending order if order is not specified or incorrect
+        return data.sort((a, b) => parseFloat(a[sortBy]) - parseFloat(b[sortBy]));
+    }
+}

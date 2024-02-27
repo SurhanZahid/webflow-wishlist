@@ -32,8 +32,6 @@ const filterByPrice = (wishlist) => {
         filteredArray = filteredArray.filter(item => uniqueCategories.includes(item['Brand'] || item['Product Category']))
     }
 
-    filteredArray = sortData(filteredArray, 'Price');
-
     return filteredArray.slice().sort(sortByPrice);
 }
 
@@ -72,6 +70,6 @@ const renderPriceRange = () => {
                 $('#' + idOfRangeSlider).val(values.join(' - '));
             });
         });
-    }, 1000)
+    }, 2000)
 }
 renderPriceRange()
