@@ -59,8 +59,6 @@ const renderPills = (container, items) => {
 
 const removeAllFilters =  () => {
     const clearBtn = document.getElementById('clear-all-btn');
-    const sortByAsc = document.getElementById('asc');
-    const sortByDesc = document.getElementById('desc');
     clearBtn.addEventListener( 'click', () => {
         uniqueCategories.forEach(item => {
             let checkbox = document.getElementById(item);
