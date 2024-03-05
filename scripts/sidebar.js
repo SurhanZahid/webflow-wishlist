@@ -7,7 +7,7 @@ let isRelevanceVisible = true;
 const categoryList = document.getElementById('categories-list');
 const brandList = document.getElementById('brand-list');
 const priceRangeContainer = document.getElementById('price-range-container');
-const relevanceContainer = document.getElementById('relevance-container')
+//const relevanceContainer = document.getElementById('relevance-container')
 const categoryDropdown = document.getElementById('category-header');
 const brandDropdown = document.getElementById('brand-header');
 const priceRangeDropdown = document.getElementById('price-header');
@@ -31,7 +31,7 @@ const toggleVisibility = (element, isVisible) => {
 categoryList.style.display = 'none';
 brandList.style.display = 'none';
 priceRangeContainer.style.display = 'none';
-relevanceContainer.style.display = 'none';
+// relevanceContainer.style.display = 'none';
 // Event listeners for category dropdowns
 categoryDropdown.addEventListener('click', () => {
     isCategoriesVisible = !isCategoriesVisible;
@@ -51,8 +51,8 @@ priceRangeDropdown.addEventListener('click', () => {
     toggleSideIcon(priceIcon, isPriceRangeVisible);
 })
 
-relevanceDropdown.addEventListener('click', () => {
-    isRelevanceVisible = !isRelevanceVisible;
-    toggleVisibility(relevanceContainer, isRelevanceVisible);
-    toggleSideIcon(releveanceIcon, isRelevanceVisible);
-})
+// relevanceDropdown.addEventListener('click', () => {
+//     isRelevanceVisible = !isRelevanceVisible;
+//     toggleVisibility(relevanceContainer, isRelevanceVisible);
+//     toggleSideIcon(releveanceIcon, isRelevanceVisible);
+// })
