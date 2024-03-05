@@ -111,10 +111,22 @@ const resetBtn = document.getElementById('reset-btn');
 const resetCategoryBtn = document.getElementById('reset-category-btn');
 const resetBrandBtn = document.getElementById('reset-brand-btn');
 
+const sortByAsc = document.getElementById('asc');
+const sortByDesc = document.getElementById('desc');
+
+let order = '';
+
 resetBtn.addEventListener('click', () => {
     let max = Math.max(...filteredData.map(o => o.Price))
     let min = 0;
     filterByRange(min, max);
+
+    sortByAsc.checked = false;
+    sortByDesc.checked = false;
+    order = '';
+    let filteredArray = filterByPrice(filteredData);
+    filteredData = filteredArray;
+    refreshList();
 });
 
 resetCategoryBtn.addEventListener('click', () => {
