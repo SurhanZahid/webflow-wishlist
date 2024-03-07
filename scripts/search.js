@@ -102,6 +102,11 @@ suggestionsListContainer.style.display = 'none';
 
 window.addEventListener('click', function (e) {
     const suggestionsListContainer = document.getElementById('suggestionsList');
+    const searchBar = document.getElementById('field');
+    const maxLength = 20;
+    if (searchBar.value.length > maxLength) {
+        searchBar.value = searchBar.value.slice(0, maxLength);
+    }
     if (!suggestionsListContainer.contains(e.target)) {
         suggestionsListContainer.style.display = 'none';
     }
