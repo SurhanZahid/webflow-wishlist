@@ -103,7 +103,7 @@ suggestionsListContainer.style.display = 'none';
 window.addEventListener('click', function (e) {
     const suggestionsListContainer = document.getElementById('suggestionsList');
     const searchBar = document.getElementById('field');
-    const maxLength = 20;
+    const maxLength = 30;
     if (searchBar.value.length > maxLength) {
         searchBar.value = searchBar.value.slice(0, maxLength);
     }
