@@ -76,7 +76,6 @@ const removeAllFilters =  () => {
 }
 
 const sectionClearFilter = (name) => {
-    debugger
     const categories = document.querySelectorAll(`#${name}`);
     if (!categories.length) return;
     let filteredArray = filterByPrice(data);
