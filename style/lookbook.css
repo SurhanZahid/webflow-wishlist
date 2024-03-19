@@ -102,6 +102,11 @@
     .overflow-label-nav.start {
         height: 23px !important;
     }
+
+    input[type="checkbox"] {
+        margin-top: 9px !important;
+        margin-top: 0px !important;
+    }
 }
 
 /* Media query for tablet devices */
