@@ -2,14 +2,14 @@ let uniqueCategories = [];
 let appliedFiltersWishlist = [];
 
 const renderCheckbox = () => {
-    var items = document.querySelectorAll('.w-dyn-item');
+    const items = document.querySelectorAll('.w-dyn-item');
 
     items.forEach(function (item) {
-        var checkbox = document.createElement('input');
+        const checkbox = document.createElement('input');
         checkbox.type = 'checkbox';
-        checkbox.disabled = true;
-        var anchorLink = item.querySelector('.product-tab-link');
-        var anchorText = anchorLink ? anchorLink.textContent : '';
+        // checkbox.disabled = true;
+        const anchorLink = item.querySelector('.product-tab-link');
+        const anchorText = anchorLink ? anchorLink.textContent : '';
         checkbox.id = formatStringWithDash(anchorText);
         //checkbox.id = anchorText.toLowerCase().replace(/\s/g, '-') + '-checkbox';
 
@@ -50,7 +50,7 @@ const filterByCategory = () => {
 }
 
 const checkboxEventHandler = () => {
-    var anchorLinks = document.querySelectorAll('.product-tab-link');
+    const anchorLinks = document.querySelectorAll('.product-tab-link');
     // Loop through each anchor tag
     anchorLinks.forEach(function (anchor) {
         // Replace the href attribute with #
@@ -59,10 +59,10 @@ const checkboxEventHandler = () => {
         // Add a click event listener to check and uncheck the checkbox
         anchor.addEventListener('click', function () {
             // Get the parent element (w-dyn-item)
-            var listItem = anchor.parentElement;
+            const listItem = anchor.parentElement;
 
             // Get the checkbox within the parent element
-            var checkbox = listItem.querySelector('input[type="checkbox"]');
+            const checkbox = listItem.querySelector('input[type="checkbox"]');
 
             // Toggle the checkbox state
             checkbox.checked = !checkbox.checked;
