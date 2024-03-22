@@ -20,6 +20,27 @@ const renderCheckbox = () => {
     });
 }
 
+const handleCheckboxEvent = (checkbox, category) => {
+    if (checkbox.checked) {
+        uniqueCategories.unshift(formatStringWithDash(category));
+        filterByCategory();
+        showAppliedFilterDisplay();
+        renderPills('filter-pills', uniqueCategories);
+    } else {
+        const index = uniqueCategories.findIndex(category => category === formatStringWithDash(category));
+        uniqueCategories.splice(index, 1);
+        appliedFiltersWishlist = []
+        showAppliedFilterDisplay();
+        if (uniqueCategories.length) {
+            filterByCategory();
+            renderPills('filter-pills', uniqueCategories);
+        } else {
+            filteredData = filterByPrice(defaultState);
+            refreshList();
+            renderPills('filter-pills', uniqueCategories);
+        }
+    }
+}
 const showAppliedFilterDisplay = () => {
     if (uniqueCategories.length)
     {
@@ -75,28 +96,6 @@ const checkboxEventHandler = () => {
             handleCheckboxEvent(checkbox, anchor.textContent)
         });
     });
-}
-
-const handleCheckboxEvent = (checkbox, category) => {
-    if (checkbox.checked) {
-        uniqueCategories.unshift(formatStringWithDash(category));
-        filterByCategory();
-        showAppliedFilterDisplay();
-        renderPills('filter-pills', uniqueCategories);
-    } else {
-        const index = uniqueCategories.findIndex(category => category === formatStringWithDash(category));
-        uniqueCategories.splice(index, 1);
-        appliedFiltersWishlist = []
-        showAppliedFilterDisplay();
-        if (uniqueCategories.length) {
-            filterByCategory();
-            renderPills('filter-pills', uniqueCategories);
-        } else {
-            filteredData = filterByPrice(defaultState);
-            refreshList();
-            renderPills('filter-pills', uniqueCategories);
-        }
-    }
 }
 
 renderCheckbox();
