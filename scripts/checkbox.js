@@ -52,6 +52,11 @@ const filterByCategory = () => {
 
 const checkboxEventHandler = () => {
     const anchorLinks = document.querySelectorAll('.product-tab-link');
+    const checkboxes = document.querySelectorAll('.product-item-checkbox');
+
+    checkboxes.forEach(checkbox => {
+        handleCheckboxEvent(checkbox, checkbox.id)
+    })
     // Loop through each anchor tag
     anchorLinks.forEach(function (anchor) {
         // Replace the href attribute with #
@@ -67,27 +72,31 @@ const checkboxEventHandler = () => {
 
             // Toggle the checkbox state
             checkbox.checked = !checkbox.checked;
-            if (checkbox.checked) {
-                uniqueCategories.unshift(formatStringWithDash(anchor.textContent));
-                filterByCategory();
-                showAppliedFilterDisplay();
-                renderPills('filter-pills', uniqueCategories);
-            } else {
-                const index = uniqueCategories.findIndex(category => category === formatStringWithDash(anchor.textContent));
-                uniqueCategories.splice(index, 1);
-                appliedFiltersWishlist = []
-                showAppliedFilterDisplay();
-                if (uniqueCategories.length) {
-                    filterByCategory();
-                    renderPills('filter-pills', uniqueCategories);
-                } else {
-                    filteredData = filterByPrice(defaultState);
-                    refreshList();
-                    renderPills('filter-pills', uniqueCategories);
-                }
-            }
+            handleCheckboxEvent(checkbox, anchor.textContent)
         });
     });
+}
+
+const handleCheckboxEvent = (checkbox, category) => {
+    if (checkbox.checked) {
+        uniqueCategories.unshift(formatStringWithDash(category));
+        filterByCategory();
+        showAppliedFilterDisplay();
+        renderPills('filter-pills', uniqueCategories);
+    } else {
+        const index = uniqueCategories.findIndex(category => category === formatStringWithDash(category));
+        uniqueCategories.splice(index, 1);
+        appliedFiltersWishlist = []
+        showAppliedFilterDisplay();
+        if (uniqueCategories.length) {
+            filterByCategory();
+            renderPills('filter-pills', uniqueCategories);
+        } else {
+            filteredData = filterByPrice(defaultState);
+            refreshList();
+            renderPills('filter-pills', uniqueCategories);
+        }
+    }
 }
 
 renderCheckbox();
