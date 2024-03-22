@@ -11,6 +11,7 @@ const renderCheckbox = () => {
         const anchorLink = item.querySelector('.product-tab-link');
         const anchorText = anchorLink ? anchorLink.textContent : '';
         checkbox.id = formatStringWithDash(anchorText);
+        checkbox.class = 'product-item-checkbox'
         //checkbox.id = anchorText.toLowerCase().replace(/\s/g, '-') + '-checkbox';
 
         item.insertBefore(checkbox, item.firstChild);
