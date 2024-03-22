@@ -75,7 +75,7 @@ const checkboxEventHandler = () => {
     const anchorLinks = document.querySelectorAll('.product-tab-link');
     const checkboxes = document.querySelectorAll('.product-item-checkbox');
 
-    checkboxes.forEach(checkbox => {
+    checkboxes.forEach( function (checkbox) {
         handleCheckboxEvent(checkbox, checkbox.id)
     })
     // Loop through each anchor tag
