@@ -75,9 +75,6 @@ const checkboxEventHandler = () => {
     const anchorLinks = document.querySelectorAll('.product-tab-link');
     const checkboxes = document.querySelectorAll('.product-item-checkbox');
 
-    checkboxes.forEach( function (checkbox) {
-        handleCheckboxEvent(checkbox, checkbox.id)
-    })
     // Loop through each anchor tag
     anchorLinks.forEach(function (anchor) {
         // Replace the href attribute with #
@@ -96,6 +93,9 @@ const checkboxEventHandler = () => {
             handleCheckboxEvent(checkbox, anchor.textContent)
         });
     });
+    checkboxes.forEach( function (checkbox) {
+        handleCheckboxEvent(checkbox, checkbox.id)
+    })
 }
 
 renderCheckbox();
