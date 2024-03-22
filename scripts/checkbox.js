@@ -26,7 +26,8 @@ const handleCheckboxEvent = (checkbox, category) => {
         filterByCategory();
         showAppliedFilterDisplay();
         renderPills('filter-pills', uniqueCategories);
-    } else {
+    }
+    else {
         const index = uniqueCategories.findIndex(category => category === formatStringWithDash(category));
         uniqueCategories.splice(index, 1);
         appliedFiltersWishlist = []
@@ -94,7 +95,9 @@ const checkboxEventHandler = () => {
         });
     });
     checkboxes.forEach( function (checkbox) {
-        handleCheckboxEvent(checkbox, checkbox.id)
+        checkbox.addEventListener('click', () => {
+            handleCheckboxEvent(checkbox, checkbox.id)
+        })
     })
 }
 
