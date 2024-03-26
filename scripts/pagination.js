@@ -112,6 +112,17 @@ function createPaginationButton(text, clickHandler) {
 }
 
 toggleNoProductFoundVisibility('block');
+
+function filterByCollection(wishlists) {
+    const currentUrl = document.URL.split('/')
+    const collectionFilter = wishlists.filter(wishlist => wishlist['Product Collection'] === currentUrl[currentUrl.length - 1] || wishlist['Product Category'] === currentUrl[currentUrl.length - 1])
+    if (!collectionFilter.length)
+    {
+        return wishlists
+    }
+    return collectionFilter
+}
+
 fetch(url)
     .then(response => {
         if (!response.ok) {
@@ -120,7 +131,7 @@ fetch(url)
         return response.json();
     })
     .then(responseData => {
-        data = responseData;
+        data = filterByCollection(responseData);
         filteredData = data;
         defaultState = [...data];
         addSearchEvent();
