@@ -21,6 +21,7 @@ const renderCheckbox = () => {
 }
 
 const handleCheckboxEvent = (checkbox, category) => {
+    debugger
     if (checkbox.checked) {
         uniqueCategories.unshift(formatStringWithDash(category));
         filterByCategory();
