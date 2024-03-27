@@ -2,7 +2,7 @@ let uniqueCategories = [];
 let appliedFiltersWishlist = [];
 
 const renderCheckbox = () => {
-    const items = document.querySelectorAll('.w-dyn-item');
+    const items = document.querySelectorAll('.w-dyn-item:not(.banner-collection-item), .product-item-container:not(.banner-collection-item)');
 
     items.forEach(function (item) {
         const checkbox = document.createElement('input');
