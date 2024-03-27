@@ -21,7 +21,6 @@ const renderCheckbox = () => {
 }
 
 const handleCheckboxEvent = (checkbox, category) => {
-    debugger
     if (checkbox.checked) {
         uniqueCategories.unshift(formatStringWithDash(category));
         filterByCategory();
@@ -29,7 +28,6 @@ const handleCheckboxEvent = (checkbox, category) => {
         renderPills('filter-pills', uniqueCategories);
     }
     else {
-        console.log(formatStringWithDash(category))
         const index = uniqueCategories.findIndex(name => name === formatStringWithDash(category));
         uniqueCategories.splice(index, 1);
         appliedFiltersWishlist = []
