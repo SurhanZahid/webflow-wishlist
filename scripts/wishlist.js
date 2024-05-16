@@ -120,18 +120,21 @@ const createCounter = () => {
 }
 
 const handleCounter = () => {
-    const projectTopContainer = document.querySelectorAll('.counter')
-    const project2TopContainer = document.querySelectorAll('.counter2')
+    const setTextContent = (container, text) => {
+        container.forEach(element => {
+            element.textContent = text;
+        });
+    };
+
+    const projectTopContainer = document.querySelectorAll('.counter');
+    const project2TopContainer = document.querySelectorAll('.counter2');
     const lookbookItems = localStorage.getItem('lookbook');
     const totalItemsSaved = lookbookItems ? JSON.parse(lookbookItems) : [];
 
-    if (totalItemsSaved !== null && totalItemsSaved.length !== 0) {
-        projectTopContainer[0].textContent = " " + totalItemsSaved.length
-        project2TopContainer[0].textContent = " " + totalItemsSaved.length
-    } else {
-        projectTopContainer[0].textContent = " "
-        project2TopContainer[0].textContent = " "
-    }
+    const textContent = totalItemsSaved.length > 0 ? ` ${totalItemsSaved.length}` : '0';
+
+    setTextContent(projectTopContainer, textContent);
+    setTextContent(project2TopContainer, textContent);
 }
 
 window.addEventListener('load', () => {
