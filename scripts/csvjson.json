@@ -2786,6 +2786,20 @@
     "Product Collection": "new-hire-swag"
   },
   {
+    "Name": "Backpack - Roll Top Daypack",
+    "Slug": "backpack---roll-top-daypack",
+    "Collection ID": "62a117dcfafd972da4749463",
+    "Item ID": "66546ec2527253bae32ad5a1",
+    "Created On": "Mon May 27 2024 11:30:10 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Mon May 27 2024 11:30:10 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Mon May 27 2024 11:32:08 GMT+0000 (Coordinated Universal Time)",
+    "Price": 80,
+    "Product Category": "bags",
+    "Brand": "",
+    "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/66546eb7e92a86d28d521bef_Backpack%20-%20Roll%20Top%20Daypack.png",
+    "Product Collection": "custom-gifts"
+  },
+  {
     "Name": "Baggu 3D Zip Set - Wilderness",
     "Slug": "baggu-3d-zip-set-wilderness",
     "Collection ID": "62a117dcfafd972da4749463",
@@ -2861,8 +2875,8 @@
     "Collection ID": "62a117dcfafd972da4749463",
     "Item ID": "64afe36a601e782d76ab95e0",
     "Created On": "Thu Jul 13 2023 11:43:38 GMT+0000 (Coordinated Universal Time)",
-    "Updated On": "Thu Jul 13 2023 11:43:38 GMT+0000 (Coordinated Universal Time)",
-    "Published On": "Thu Jul 13 2023 11:46:32 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Sat May 18 2024 22:42:26 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "",
     "Price": 78,
     "Product Category": "bags",
     "Brand": "",
@@ -4690,6 +4704,20 @@
     "Product Collection": ""
   },
   {
+    "Name": "Bucket Hat",
+    "Slug": "bucket-hat",
+    "Collection ID": "62a117dcfafd972da4749463",
+    "Item ID": "66721328421b6f88869ce268",
+    "Created On": "Tue Jun 18 2024 23:07:20 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Tue Jun 18 2024 23:07:20 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Tue Jun 18 2024 23:08:00 GMT+0000 (Coordinated Universal Time)",
+    "Price": 30,
+    "Product Category": "accessories",
+    "Brand": "",
+    "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/66721321c60f8fbdef55736f_Bucket%20Hat.png",
+    "Product Collection": "custom-gifts"
+  },
+  {
     "Name": "Cable Beanie - Petrrol Blue",
     "Slug": "cable-beanie-petrrol-blue",
     "Collection ID": "62a117dcfafd972da4749463",
@@ -5430,6 +5458,20 @@
     "Brand": "",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/646df4e518e74640eca93507_Clear%20Hip%20Pack%20-%20Clear%20Black.png",
     "Product Collection": "event-swag"
+  },
+  {
+    "Name": "Cliffset Cutlery - Granada Green",
+    "Slug": "cliffset-cutlery---granada-green",
+    "Collection ID": "62a117dcfafd972da4749463",
+    "Item ID": "664f3ccb76d564bd6a278ac9",
+    "Created On": "Thu May 23 2024 12:55:39 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Thu May 23 2024 12:55:39 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Thu May 23 2024 12:56:11 GMT+0000 (Coordinated Universal Time)",
+    "Price": 36,
+    "Product Category": "home",
+    "Brand": "",
+    "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/664f3cbf2ea32435378ba3c3_Cliffset%20Cutlery%20-%20Granada%20Green.png",
+    "Product Collection": "sustainable-gifts"
   },
   {
     "Name": "Coastal Coffee Collective Eastside Espresso Instant Coffee",
@@ -6483,6 +6525,20 @@
   },
   {
     "Name": "Courant MAG 2: Essentials - Natural",
+    "Slug": "courant-mag-2-essentials---natural",
+    "Collection ID": "62a117dcfafd972da4749463",
+    "Item ID": "66492b1d4216cd1fefbdefd7",
+    "Created On": "Sat May 18 2024 22:26:37 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Sat May 18 2024 22:26:37 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Mon May 20 2024 18:33:45 GMT+0000 (Coordinated Universal Time)",
+    "Price": 100,
+    "Product Category": "tech-electronics",
+    "Brand": "",
+    "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/66492b0216e08929cb0fce39_Courant%20MAG%202-%20Essentials%20-%20Camel.png",
+    "Product Collection": "sustainable-gifts"
+  },
+  {
+    "Name": "Courant MAG 2: Essentials - Natural",
     "Slug": "courant-mag-2-essentials-natural",
     "Collection ID": "62a117dcfafd972da4749463",
     "Item ID": "63ec4233f65f90e42b9c5b99",
@@ -6837,13 +6893,13 @@
     "Collection ID": "62a117dcfafd972da4749463",
     "Item ID": "64e4a0a0f45d5e457078f16c",
     "Created On": "Tue Aug 22 2023 11:48:48 GMT+0000 (Coordinated Universal Time)",
-    "Updated On": "Tue Aug 22 2023 11:48:48 GMT+0000 (Coordinated Universal Time)",
-    "Published On": "Wed Aug 23 2023 01:50:48 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Mon May 27 2024 11:27:03 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Mon May 27 2024 11:32:08 GMT+0000 (Coordinated Universal Time)",
     "Price": 32,
     "Product Category": "home",
     "Brand": "",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/64e4a09a84ff30b572085b49_Custom%20Candle%20w_%20Box.png",
-    "Product Collection": "best-holiday-gifts"
+    "Product Collection": "custom-gifts"
   },
   {
     "Name": "Custom Cold Cup Tumbler",
@@ -7798,13 +7854,27 @@
     "Product Collection": "new-hire-swag"
   },
   {
+    "Name": "econscious Organic Cotton Twill Unstructured Baseball Hat - Picante",
+    "Slug": "econscious-organic-cotton-twill-unstructured-baseball-hat---picante",
+    "Collection ID": "62a117dcfafd972da4749463",
+    "Item ID": "66492dc19c8cc9ae2c403023",
+    "Created On": "Sat May 18 2024 22:37:53 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Sat May 18 2024 22:37:53 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Mon May 20 2024 18:33:45 GMT+0000 (Coordinated Universal Time)",
+    "Price": 5.39,
+    "Product Category": "accessories",
+    "Brand": "",
+    "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/66492db166052f00834793c4_econscious%20Organic%20Cotton%20Twill%20Unstructured%20Baseball%20Hat%20-%20Picante.png",
+    "Product Collection": "sustainable-gifts"
+  },
+  {
     "Name": "econscious Organic Cotton Twill Unstructured Baseball Hat - Dolphin",
     "Slug": "econscious-organic-cotton-twill-unstructured-baseball-hat-dolphin",
     "Collection ID": "62a117dcfafd972da4749463",
     "Item ID": "63fb58361ed0512b33d2d639",
     "Created On": "Sun Feb 26 2023 13:01:42 GMT+0000 (Coordinated Universal Time)",
-    "Updated On": "Sun Feb 26 2023 13:01:42 GMT+0000 (Coordinated Universal Time)",
-    "Published On": "Sun Feb 26 2023 13:06:15 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Sat May 18 2024 22:35:40 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "",
     "Price": 11,
     "Product Category": "accessories",
     "Brand": "",
@@ -7950,6 +8020,20 @@
     "Brand": "",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/64104bd32e949a85e1b23c87_Enamel%20Key%20Chain%20(1).png",
     "Product Collection": "event-swag"
+  },
+  {
+    "Name": "Enamel Keychain",
+    "Slug": "enamel-keychain",
+    "Collection ID": "62a117dcfafd972da4749463",
+    "Item ID": "667212e46588bd574dc9678d",
+    "Created On": "Tue Jun 18 2024 23:06:12 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Tue Jun 18 2024 23:06:12 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Tue Jun 18 2024 23:08:00 GMT+0000 (Coordinated Universal Time)",
+    "Price": 7,
+    "Product Category": "accessories",
+    "Brand": "",
+    "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/667212de35bdc57f4801dc6c_Enamel%20Keychain.png",
+    "Product Collection": "custom-gifts"
   },
   {
     "Name": "Enamel Mug - Cobalt Blue",
@@ -8104,6 +8188,20 @@
     "Brand": "espro",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd977d63749e03_Espro%20%20ESPRO%20Press%20P7%20-%2018oz%20.jpg",
     "Product Collection": ""
+  },
+  {
+    "Name": "Eye Mask",
+    "Slug": "eye-mask",
+    "Collection ID": "62a117dcfafd972da4749463",
+    "Item ID": "6672121eba214160672db8ba",
+    "Created On": "Tue Jun 18 2024 23:02:54 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Tue Jun 18 2024 23:02:54 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Tue Jun 18 2024 23:08:00 GMT+0000 (Coordinated Universal Time)",
+    "Price": 10,
+    "Product Category": "accessories",
+    "Brand": "",
+    "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/667212176588bd574dc8c39b_Eye%20Mask.png",
+    "Product Collection": "custom-gifts"
   },
   {
     "Name": "Faribault Woolen Mill Co. Ashby Twill Wool Throw - Natural Twill",
@@ -9548,13 +9646,27 @@
     "Product Collection": "best-holiday-gifts"
   },
   {
+    "Name": "Hanes EcoSmart® Crewneck Sweatshirt - Deep Forest",
+    "Slug": "hanes-ecosmart-r-crewneck-sweatshirt---deep-forest",
+    "Collection ID": "62a117dcfafd972da4749463",
+    "Item ID": "66492f7982c849fb688efad3",
+    "Created On": "Sat May 18 2024 22:45:13 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Sat May 18 2024 22:45:13 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Mon May 20 2024 18:33:45 GMT+0000 (Coordinated Universal Time)",
+    "Price": 12.42,
+    "Product Category": "apparel",
+    "Brand": "",
+    "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/66492f704070313d8f048e1d_Hanes%20EcoSmart%C2%AE%20Crewneck%20Sweatshirt%20-%20Deep%20Forest.png",
+    "Product Collection": "sustainable-gifts"
+  },
+  {
     "Name": "Hanes EcoSmart® Crewneck Sweatshirt - Navy",
     "Slug": "hanes-ecosmart-r-crewneck-sweatshirt-navy",
     "Collection ID": "62a117dcfafd972da4749463",
     "Item ID": "64afe2d7375e1c53537f1989",
     "Created On": "Thu Jul 13 2023 11:41:11 GMT+0000 (Coordinated Universal Time)",
-    "Updated On": "Thu Jul 13 2023 11:41:11 GMT+0000 (Coordinated Universal Time)",
-    "Published On": "Thu Jul 13 2023 11:46:32 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Sat May 18 2024 22:43:15 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "",
     "Price": 12.42,
     "Product Category": "apparel",
     "Brand": "",
@@ -9674,6 +9786,20 @@
     "Product Collection": "sales-kickoff-swag"
   },
   {
+    "Name": "Head Wrap",
+    "Slug": "head-wrap",
+    "Collection ID": "62a117dcfafd972da4749463",
+    "Item ID": "667212093ac8cb25deef7f77",
+    "Created On": "Tue Jun 18 2024 23:02:33 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Tue Jun 18 2024 23:02:33 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Tue Jun 18 2024 23:08:00 GMT+0000 (Coordinated Universal Time)",
+    "Price": 10,
+    "Product Category": "accessories",
+    "Brand": "",
+    "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/667211fd5ac7319941386284_Head%20Wrap.png",
+    "Product Collection": "custom-gifts"
+  },
+  {
     "Name": "Heavy Crew - Pine Green",
     "Slug": "heavy-crew-pine-green",
     "Collection ID": "62a117dcfafd972da4749463",
@@ -9707,8 +9833,8 @@
     "Collection ID": "62a117dcfafd972da4749463",
     "Item ID": "64afe225b01f5633228fa648",
     "Created On": "Thu Jul 13 2023 11:38:13 GMT+0000 (Coordinated Universal Time)",
-    "Updated On": "Thu Jul 13 2023 11:38:13 GMT+0000 (Coordinated Universal Time)",
-    "Published On": "Thu Jul 13 2023 11:46:32 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Sat May 18 2024 22:45:30 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "",
     "Price": 60,
     "Product Category": "apparel",
     "Brand": "",
@@ -12614,6 +12740,20 @@
     "Product Collection": ""
   },
   {
+    "Name": "Koozie",
+    "Slug": "koozie",
+    "Collection ID": "62a117dcfafd972da4749463",
+    "Item ID": "6672125e0624c6c7efe04014",
+    "Created On": "Tue Jun 18 2024 23:03:58 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Tue Jun 18 2024 23:03:58 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Tue Jun 18 2024 23:08:00 GMT+0000 (Coordinated Universal Time)",
+    "Price": 2,
+    "Product Category": "accessories",
+    "Brand": "",
+    "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/6672125817c2658f7540716f_Koozie.png",
+    "Product Collection": "custom-gifts"
+  },
+  {
     "Name": "KOTN Essential Crew - Black",
     "Slug": "kotn-essential-crew-black",
     "Collection ID": "62a117dcfafd972da4749463",
@@ -13179,8 +13319,8 @@
     "Collection ID": "62a117dcfafd972da4749463",
     "Item ID": "64afe3ff2fbe464c1d2d6c95",
     "Created On": "Thu Jul 13 2023 11:46:07 GMT+0000 (Coordinated Universal Time)",
-    "Updated On": "Wed Dec 13 2023 17:08:57 GMT+0000 (Coordinated Universal Time)",
-    "Published On": "Wed Dec 13 2023 17:09:09 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Sat May 18 2024 22:38:41 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "",
     "Price": 99,
     "Product Category": "drinkware",
     "Brand": "larq",
@@ -15624,6 +15764,20 @@
     "Product Collection": ""
   },
   {
+    "Name": "MiiR® TruEnamel™ Camp Cup - 12 Oz.",
+    "Slug": "miir-r-truenamel-tm-camp-cup---12-oz",
+    "Collection ID": "62a117dcfafd972da4749463",
+    "Item ID": "664f3b83d4bb044fe1a63d66",
+    "Created On": "Thu May 23 2024 12:50:11 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Thu May 23 2024 12:50:11 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Thu May 23 2024 12:56:11 GMT+0000 (Coordinated Universal Time)",
+    "Price": 34.95,
+    "Product Category": "drinkware",
+    "Brand": "",
+    "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/664f3b74f7686bccecce9f46_MiiR%C2%AE%20TruEnamel%E2%84%A2%20Camp%20Cup%20-%2012%20Oz..png",
+    "Product Collection": "sustainable-gifts"
+  },
+  {
     "Name": "MiiR® Vacuum Insulated Bottle 23oz - White",
     "Slug": "miir-r-vacuum-insulated-bottle-23oz",
     "Collection ID": "62a117dcfafd972da4749463",
@@ -17631,12 +17785,26 @@
     "Collection ID": "62a117dcfafd972da4749463",
     "Item ID": "64afe2c20e06c6d0b823e3cf",
     "Created On": "Thu Jul 13 2023 11:40:50 GMT+0000 (Coordinated Universal Time)",
-    "Updated On": "Thu Jul 13 2023 11:40:50 GMT+0000 (Coordinated Universal Time)",
-    "Published On": "Thu Jul 13 2023 11:46:32 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Sat May 18 2024 22:42:59 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "",
     "Price": 11.99,
     "Product Category": "bags",
     "Brand": "",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/64afe2bbaaf1d535c1154a11_Organic%20Half%20Mesh%20Market%20Tote%20with%20Phone%20Pocket.png",
+    "Product Collection": "sustainable-gifts"
+  },
+  {
+    "Name": "Original Duckhead Compact Umbrella Recycled Plastic",
+    "Slug": "original-duckhead-compact-umbrella-recycled-plastic",
+    "Collection ID": "62a117dcfafd972da4749463",
+    "Item ID": "664f3c7e4a0194a06e15f979",
+    "Created On": "Thu May 23 2024 12:54:22 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Thu May 23 2024 12:54:22 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Thu May 23 2024 12:56:11 GMT+0000 (Coordinated Universal Time)",
+    "Price": 42,
+    "Product Category": "home",
+    "Brand": "",
+    "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/664f3c67d511db6dfebce516_Original%20Duckhead%20Compact%20Umbrella%20Recycled%20Plastic.png",
     "Product Collection": "sustainable-gifts"
   },
   {
@@ -18155,6 +18323,20 @@
     "Product Category": "home",
     "Brand": "",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/64b51f792062d4657dd67f4d_P.F.%20Candle%20Co.%20Sweet%20Grapefruit%207.2%20oz%20Candle.png",
+    "Product Collection": "sustainable-gifts"
+  },
+  {
+    "Name": "Papier Classic Leather Notebook - Navy",
+    "Slug": "papier-classic-leather-notebook---navy",
+    "Collection ID": "62a117dcfafd972da4749463",
+    "Item ID": "664f3c0fbc56d816a48d91a4",
+    "Created On": "Thu May 23 2024 12:52:31 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Thu May 23 2024 12:52:31 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Thu May 23 2024 12:56:11 GMT+0000 (Coordinated Universal Time)",
+    "Price": 60,
+    "Product Category": "office-supplies",
+    "Brand": "",
+    "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/664f3c02eef51273d0ce3b53_Papier%20Classic%20Leather%20Notebook%20-%20Navy.png",
     "Product Collection": "sustainable-gifts"
   },
   {
@@ -19362,6 +19544,20 @@
     "Product Collection": "event-swag"
   },
   {
+    "Name": "Portable Tote Bag - Light Blue",
+    "Slug": "portable-tote-bag---light-blue",
+    "Collection ID": "62a117dcfafd972da4749463",
+    "Item ID": "667212787ae90b4f0aecb9a2",
+    "Created On": "Tue Jun 18 2024 23:04:24 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Tue Jun 18 2024 23:04:24 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Tue Jun 18 2024 23:08:00 GMT+0000 (Coordinated Universal Time)",
+    "Price": 20,
+    "Product Category": "bags",
+    "Brand": "",
+    "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/6672127287ef53924ade2f90_Portable%20Tote%20Bag%20-%20Light%20Blue.png",
+    "Product Collection": "custom-gifts"
+  },
+  {
     "Name": "Beats by Dre Powerbeats High Performance Wireless Earbuds",
     "Slug": "powerbeats-high-performance-wireless-earbuds",
     "Collection ID": "62a117dcfafd972da4749463",
@@ -19628,6 +19824,20 @@
     "Product Collection": ""
   },
   {
+    "Name": "Puff Blanket",
+    "Slug": "puff-blanket",
+    "Collection ID": "62a117dcfafd972da4749463",
+    "Item ID": "66721235400082d7b03d91d4",
+    "Created On": "Tue Jun 18 2024 23:03:17 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Tue Jun 18 2024 23:03:17 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Tue Jun 18 2024 23:08:00 GMT+0000 (Coordinated Universal Time)",
+    "Price": 84,
+    "Product Category": "accessories",
+    "Brand": "",
+    "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/6672122d35bdc57f48015e23_Puff%20Blanket.png",
+    "Product Collection": "custom-gifts"
+  },
+  {
     "Name": "Puff Jacket",
     "Slug": "puff-jacket",
     "Collection ID": "62a117dcfafd972da4749463",
@@ -19639,6 +19849,20 @@
     "Product Category": "apparel",
     "Brand": "",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/6645ed6dd4cdad0cf974fe7a_Puff%20Jacket.png",
+    "Product Collection": "custom-gifts"
+  },
+  {
+    "Name": "Puffy Tote - Blue",
+    "Slug": "puffy-tote---blue",
+    "Collection ID": "62a117dcfafd972da4749463",
+    "Item ID": "6672129b69aa934911ccd091",
+    "Created On": "Tue Jun 18 2024 23:04:59 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Tue Jun 18 2024 23:04:59 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Tue Jun 18 2024 23:08:00 GMT+0000 (Coordinated Universal Time)",
+    "Price": 80,
+    "Product Category": "bags",
+    "Brand": "",
+    "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/66721295f3fb85014ac0189d_Puffy%20Tote%20-%20Blue.png",
     "Product Collection": "custom-gifts"
   },
   {
@@ -20256,6 +20480,20 @@
     "Brand": "",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/646f548d69229d10f8dab22f_Recycled%2018%E2%80%9D%20Small%20Duffel%20Bag%20-%20grey.png",
     "Product Collection": "influencer-merch"
+  },
+  {
+    "Name": "Recycled Canvas Weekender",
+    "Slug": "recycled-canvas-weekender",
+    "Collection ID": "62a117dcfafd972da4749463",
+    "Item ID": "667212af6dfe97d8ded04595",
+    "Created On": "Tue Jun 18 2024 23:05:19 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Tue Jun 18 2024 23:05:19 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Tue Jun 18 2024 23:08:00 GMT+0000 (Coordinated Universal Time)",
+    "Price": 80,
+    "Product Category": "bags",
+    "Brand": "",
+    "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/667212a92f558fa923cae1b1_Recycled%20Canvas%20Weekender.png",
+    "Product Collection": "custom-gifts"
   },
   {
     "Name": "Refugio Daypack Backpack 26L - Black",
@@ -21126,6 +21364,34 @@
     "Product Collection": ""
   },
   {
+    "Name": "Slides - Tan",
+    "Slug": "slides---tan",
+    "Collection ID": "62a117dcfafd972da4749463",
+    "Item ID": "667212c85dbe3d66ec7bf357",
+    "Created On": "Tue Jun 18 2024 23:05:44 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Tue Jun 18 2024 23:05:44 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Tue Jun 18 2024 23:08:00 GMT+0000 (Coordinated Universal Time)",
+    "Price": 50,
+    "Product Category": "accessories",
+    "Brand": "",
+    "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/667212badda52cd17789fe91_Slides%20-%20Tan.png",
+    "Product Collection": "custom-gifts"
+  },
+  {
+    "Name": "Sling Bag - Modular",
+    "Slug": "sling-bag---modular",
+    "Collection ID": "62a117dcfafd972da4749463",
+    "Item ID": "66546f2cd71202df5412cc7b",
+    "Created On": "Mon May 27 2024 11:31:56 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Mon May 27 2024 11:31:56 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Mon May 27 2024 11:32:08 GMT+0000 (Coordinated Universal Time)",
+    "Price": 50,
+    "Product Category": "bags",
+    "Brand": "",
+    "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/66546f224cd0587e935d4195_Sling%20Bag%20-%20Modular.png",
+    "Product Collection": "custom-gifts"
+  },
+  {
     "Name": "Slowtide Pocket Beach Towel - Porto Yellow",
     "Slug": "slowtide-pocket-beach-towel-porto-yellow",
     "Collection ID": "62a117dcfafd972da4749463",
@@ -21159,8 +21425,8 @@
     "Collection ID": "62a117dcfafd972da4749463",
     "Item ID": "64afe2fcb30d447ef9c4f472",
     "Created On": "Thu Jul 13 2023 11:41:48 GMT+0000 (Coordinated Universal Time)",
-    "Updated On": "Thu Jul 13 2023 11:41:48 GMT+0000 (Coordinated Universal Time)",
-    "Published On": "Thu Jul 13 2023 11:46:32 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Sat May 18 2024 22:42:46 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "",
     "Price": 69.98,
     "Product Category": "accessories",
     "Brand": "",
@@ -21194,6 +21460,20 @@
     "Brand": "",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/65fd6c3b7fd799c1b7b45b3f_Social%20Alert%20Pronoun%20Buttons.png",
     "Product Collection": "event-swag"
+  },
+  {
+    "Name": "Socks",
+    "Slug": "socks",
+    "Collection ID": "62a117dcfafd972da4749463",
+    "Item ID": "667213418444bc85b8a008c4",
+    "Created On": "Tue Jun 18 2024 23:07:45 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Tue Jun 18 2024 23:07:45 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Tue Jun 18 2024 23:08:00 GMT+0000 (Coordinated Universal Time)",
+    "Price": 10,
+    "Product Category": "accessories",
+    "Brand": "",
+    "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/6672133873cafa01b0861e03_Socks.png",
+    "Product Collection": "custom-gifts"
   },
   {
     "Name": "Soda Pop Chocolate Bar",
@@ -22106,13 +22386,27 @@
     "Product Collection": ""
   },
   {
+    "Name": "Takenaka Bento Bowl - Black",
+    "Slug": "takenaka-bento-bowl---black",
+    "Collection ID": "62a117dcfafd972da4749463",
+    "Item ID": "66492eb80a99836906d9f3f4",
+    "Created On": "Sat May 18 2024 22:42:00 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Sat May 18 2024 22:42:00 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Mon May 20 2024 18:33:45 GMT+0000 (Coordinated Universal Time)",
+    "Price": 35,
+    "Product Category": "home",
+    "Brand": "",
+    "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/66492eaf15859a3de65f8740_Takenaka%20Bento%20Bowl%20-%20Black.png",
+    "Product Collection": "sustainable-gifts"
+  },
+  {
     "Name": "Takenaka Bento Bowl - Edamame Green",
     "Slug": "takenaka-bento-bowl-edamame-green",
     "Collection ID": "62a117dcfafd972da4749463",
     "Item ID": "64afe389d0afdf170f3987c5",
     "Created On": "Thu Jul 13 2023 11:44:09 GMT+0000 (Coordinated Universal Time)",
-    "Updated On": "Thu Jul 13 2023 11:44:09 GMT+0000 (Coordinated Universal Time)",
-    "Published On": "Thu Jul 13 2023 11:46:32 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Sat May 18 2024 22:40:21 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "",
     "Price": 35,
     "Product Category": "home",
     "Brand": "",
@@ -24652,6 +24946,20 @@
     "Brand": "unna-bakery",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd9733ce74a30d_vanilla.png",
     "Product Collection": ""
+  },
+  {
+    "Name": "Varsity Jacket - Black/White",
+    "Slug": "varsity-jacket---black-white",
+    "Collection ID": "62a117dcfafd972da4749463",
+    "Item ID": "66721315fb38248fa1cbb898",
+    "Created On": "Tue Jun 18 2024 23:07:01 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Tue Jun 18 2024 23:07:01 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Tue Jun 18 2024 23:08:00 GMT+0000 (Coordinated Universal Time)",
+    "Price": 200,
+    "Product Category": "apparel",
+    "Brand": "",
+    "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/6672130908438b7dca3f985d_Varsity%20Jacket%20-%20Black_White.png",
+    "Product Collection": "custom-gifts"
   },
   {
     "Name": "Venque Classic Backpack - Black",
