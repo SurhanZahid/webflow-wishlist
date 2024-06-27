@@ -18,6 +18,7 @@ const deleteItemFromLocalStorage = (image, text, container) => {
         console.log('Item not found:', { image, text });
     }
 }
+
 const saveToLocalStorage = (image, text, container) => {
     // Retrieve existing data from local storage or initialize an empty array
     const lookbookItems = localStorage.getItem('lookbook');
@@ -45,6 +46,7 @@ const saveToLocalStorage = (image, text, container) => {
         console.log('This image and text combination is already in the array.');
     }
 }
+
 const handleOnClick = () => {
     document.addEventListener('click', function (event) {
         const clickedElement = event.target.closest('.product-container');
@@ -105,14 +107,14 @@ const createCounter = () => {
     counter2Div.className = 'counter2';
     const counterSpanMobile = document.createElement('span')
     counterSpanMobile.className = 'counter-mobile';
-    if (totalItemsSaved) {
+    if (totalItemsSaved.length > 0) {
         counterDiv.textContent = ' ' + totalItemsSaved.length
         counter2Div.textContent = ' ' + totalItemsSaved.length
         counterSpanMobile.textContent = ' ' + totalItemsSaved.length
     } else {
-        counterDiv.textContent = ' 0'
-        counter2Div.textContent = ' 0'
-        counterSpanMobile.textContent = ' 0'
+        counterDiv.style.display = 'none';
+        counter2Div.style.display = 'none';
+        counterSpanMobile.style.display = 'none';
     }
     projectTopContainer[0].appendChild(counterDiv);
     projectTopContainer[1].appendChild(counter2Div);
@@ -128,13 +130,25 @@ const handleCounter = () => {
 
     const projectTopContainer = document.querySelectorAll('.counter');
     const project2TopContainer = document.querySelectorAll('.counter2');
+    const projectMobileTopContainer = document.querySelectorAll('.counter-mobile');
     const lookbookItems = localStorage.getItem('lookbook');
     const totalItemsSaved = lookbookItems ? JSON.parse(lookbookItems) : [];
 
     const textContent = totalItemsSaved.length > 0 ? ` ${totalItemsSaved.length}` : '0';
 
+    if (totalItemsSaved.length > 0) {
+        projectTopContainer.forEach(element => element.style.display = 'inline');
+        project2TopContainer.forEach(element => element.style.display = 'inline');
+        projectMobileTopContainer.forEach(element => element.style.display = 'inline');
+    } else {
+        projectTopContainer.forEach(element => element.style.display = 'none');
+        project2TopContainer.forEach(element => element.style.display = 'none');
+        projectMobileTopContainer.forEach(element => element.style.display = 'none');
+    }
+
     setTextContent(projectTopContainer, textContent);
     setTextContent(project2TopContainer, textContent);
+    setTextContent(projectMobileTopContainer, textContent);
 }
 
 window.addEventListener('load', () => {
