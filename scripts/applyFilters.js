@@ -135,4 +135,30 @@ resetBrandBtn.addEventListener('click', () => {
     sectionClearFilter('brands-list')
 })
 
+
 removeAllFilters();
+
+setTimeout(() => {
+    const filterByPriceRange = filterByPrice(data);
+
+    sortByAsc.addEventListener('click', () => {
+        order = 'ascending';
+        sortWishlist(filteredData, 'Price');
+        refreshList();
+    });
+
+    sortByDesc.addEventListener('click', () => {
+        order = 'descending';
+        sortWishlist(filteredData, 'Price');
+        refreshList();
+    });
+
+}, 3000)
+const searchBar = document.getElementById('field');
+
+searchBar.addEventListener('input', function() {
+    const maxLength = 22;
+    if (searchBar.value.length > maxLength) {
+        searchBar.value = searchBar.value.slice(0, maxLength); // Truncate the input value
+    }
+});
