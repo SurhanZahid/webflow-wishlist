@@ -154,11 +154,11 @@ setTimeout(() => {
     });
 
 }, 3000)
-const searchBar = document.getElementById('field');
+const searchBarInput = document.getElementById('field');
 
-searchBar.addEventListener('input', function() {
+searchBarInput.addEventListener('input', function() {
     const maxLength = 22;
-    if (searchBar.value.length > maxLength) {
-        searchBar.value = searchBar.value.slice(0, maxLength); // Truncate the input value
+    if (searchBarInput.value.length > maxLength) {
+        searchBarInput.value = searchBarInput.value.slice(0, maxLength); // Truncate the input value
     }
 });
