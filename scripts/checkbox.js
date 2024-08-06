@@ -75,13 +75,12 @@ const filterByCategory = () => {
 const checkboxEventHandler = () => {
     const anchorLinks = document.querySelectorAll('.product-tab-link');
     const checkboxes = document.querySelectorAll('.product-item-checkbox');
-    const newAnchor = document.createElement('a');
+
     // Loop through each anchor tag
     anchorLinks.forEach(function (anchor) {
         // Replace the href attribute with #
-        newAnchor.href = anchor.href;
         anchor.href = '#';
-        anchor.parentElement.appendChild(newAnchor);
+
         // Add a click event listener to check and uncheck the checkbox
         anchor.addEventListener('click', function () {
             // Get the parent element (w-dyn-item)
