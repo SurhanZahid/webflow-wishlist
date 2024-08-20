@@ -151,7 +151,5 @@ const handleCounter = () => {
     setTextContent(projectMobileTopContainer, textContent);
 }
 
-window.addEventListener('load', () => {
-    handleOnClick();
-    createCounter();
-});
+handleOnClick();
+createCounter();
