@@ -166,8 +166,8 @@ const watchWishlistItems = () => {
     }
 };
 
-const savedData = getSavedData();
-renderItems(savedData);
+//const savedData = getSavedData();
+//renderItems(savedData);
 handleCloseBtn();
 createCounter();
 handleInput();
