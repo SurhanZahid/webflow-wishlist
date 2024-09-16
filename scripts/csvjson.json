@@ -117,13 +117,13 @@
     "Collection ID": "62a117dcfafd972da4749463",
     "Item ID": "64ec8863da9f38500731c8ab",
     "Created On": "Mon Aug 28 2023 11:43:31 GMT+0000 (Coordinated Universal Time)",
-    "Updated On": "Mon Aug 28 2023 11:43:31 GMT+0000 (Coordinated Universal Time)",
-    "Published On": "Mon Aug 28 2023 11:49:17 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Fri Sep 13 2024 22:35:41 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Fri Sep 13 2024 22:36:21 GMT+0000 (Coordinated Universal Time)",
     "Price": 36,
     "Product Category": "tech-electronics",
     "Brand": "",
-    "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/64ec885ce674506ba5573824_500%20mAh%20Wireless%20Power%20Bank.png",
-    "Product Collection": "best-holiday-gifts"
+    "Image": "https://cdn.prod.website-files.com/62a117dcfafd9734a674945b/64ec885ce674506ba5573824_500%20mAh%20Wireless%20Power%20Bank.png",
+    "Product Collection": ""
   },
   {
     "Name": "Actually Curious Culture Edition",
@@ -992,6 +992,20 @@
     "Brand": "",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/63f5dd03880dbf59bf7580ad_Anker%20PowerWave%20Pad%2010W%20Wireless%20Charger.png",
     "Product Collection": "event-swag"
+  },
+  {
+    "Name": "Anker Soundcore Cancelling Headphones",
+    "Slug": "anker-soundcore-cancelling-headphones",
+    "Collection ID": "62a117dcfafd972da4749463",
+    "Item ID": "66e4c7b7b1564a12c0d5dd12",
+    "Created On": "Fri Sep 13 2024 23:16:07 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Fri Sep 13 2024 23:16:07 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Fri Sep 13 2024 23:18:33 GMT+0000 (Coordinated Universal Time)",
+    "Price": 130,
+    "Product Category": "tech-electronics",
+    "Brand": "",
+    "Image": "https://cdn.prod.website-files.com/62a117dcfafd9734a674945b/66e4c79d44a44cf8dda72665_Anker%20Soundcore%20Cancelling%20Headphones.png",
+    "Product Collection": "best-holiday-gifts"
   },
   {
     "Name": "Aplat Baguette Tote",
@@ -4198,6 +4212,20 @@
     "Brand": "",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/634d120e990236319a960707_Bellroy%20Market%20Tote%20-%20Black.png",
     "Product Collection": ""
+  },
+  {
+    "Name": "Bellroy Tech Kit - Saltbush",
+    "Slug": "bellroy-tech-kit---saltbush",
+    "Collection ID": "62a117dcfafd972da4749463",
+    "Item ID": "66e4c5d6ba9fdb5686d67cfa",
+    "Created On": "Fri Sep 13 2024 23:08:06 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Fri Sep 13 2024 23:08:06 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Fri Sep 13 2024 23:18:33 GMT+0000 (Coordinated Universal Time)",
+    "Price": 60,
+    "Product Category": "bags",
+    "Brand": "",
+    "Image": "https://cdn.prod.website-files.com/62a117dcfafd9734a674945b/66e4c5ccceba985b61eae9e3_Bellroy%20Tech%20Kit%20-%20Saltbush.png",
+    "Product Collection": "best-holiday-gifts"
   },
   {
     "Name": "Better Sweater Vest - New Navy",
@@ -9786,6 +9814,20 @@
     "Product Collection": "sales-kickoff-swag"
   },
   {
+    "Name": "Hatch Restore - Putty",
+    "Slug": "hatch-restore---putty",
+    "Collection ID": "62a117dcfafd972da4749463",
+    "Item ID": "66e4c6d81c3face8aa9aef06",
+    "Created On": "Fri Sep 13 2024 23:12:24 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Fri Sep 13 2024 23:12:24 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Fri Sep 13 2024 23:18:33 GMT+0000 (Coordinated Universal Time)",
+    "Price": 170,
+    "Product Category": "home",
+    "Brand": "",
+    "Image": "https://cdn.prod.website-files.com/62a117dcfafd9734a674945b/66e4c6bcc3b2835130019441_Hatch%20Restore%20-%20Putty.png",
+    "Product Collection": "best-holiday-gifts"
+  },
+  {
     "Name": "Head Wrap",
     "Slug": "head-wrap",
     "Collection ID": "62a117dcfafd972da4749463",
@@ -13594,6 +13636,20 @@
     "Product Collection": "event-swag"
   },
   {
+    "Name": "Lexon Mino T Speaker - Kakhi",
+    "Slug": "lexon-mino-t-speaker---kakhi",
+    "Collection ID": "62a117dcfafd972da4749463",
+    "Item ID": "66e4c800fb79366b184f65d8",
+    "Created On": "Fri Sep 13 2024 23:17:20 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Fri Sep 13 2024 23:17:20 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Fri Sep 13 2024 23:18:33 GMT+0000 (Coordinated Universal Time)",
+    "Price": 50,
+    "Product Category": "tech-electronics",
+    "Brand": "lexon",
+    "Image": "https://cdn.prod.website-files.com/62a117dcfafd9734a674945b/66e4c7e4a7ef6cf326c3eab4_Lexon%20Mino%20T%20Speaker%20-%20Kakhi.png",
+    "Product Collection": "best-holiday-gifts"
+  },
+  {
     "Name": "Lexon Mino X - Black",
     "Slug": "lexon-mino-x-black",
     "Collection ID": "62a117dcfafd972da4749463",
@@ -14600,6 +14656,20 @@
     "Brand": "",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/64a54823e6dfbabc3f1df2a0_Marine%20Layer%20Afternoon%20Hoodie%20-%20Faded%20Navy.png",
     "Product Collection": "new-hire-swag"
+  },
+  {
+    "Name": "Marine Layer Afternoon Zip Hoodie - Black",
+    "Slug": "marine-layer-afternoon-zip-hoodie---black",
+    "Collection ID": "62a117dcfafd972da4749463",
+    "Item ID": "66e4c780cfc10025f89b83fc",
+    "Created On": "Fri Sep 13 2024 23:15:12 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Fri Sep 13 2024 23:15:12 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Fri Sep 13 2024 23:18:33 GMT+0000 (Coordinated Universal Time)",
+    "Price": 98,
+    "Product Category": "apparel",
+    "Brand": "marine-layer",
+    "Image": "https://cdn.prod.website-files.com/62a117dcfafd9734a674945b/66e4c76b5a0d86c3fdf8c4a0_Marine%20Layer%20Afternoon%20Zip%20Hoodie%20-%20Black.png",
+    "Product Collection": "best-holiday-gifts"
   },
   {
     "Name": "Marine Layer Corbet Full Zip Vest - Black",
@@ -17850,6 +17920,20 @@
     "Product Collection": "sustainable-gifts"
   },
   {
+    "Name": "Ostrichpillow Go Neck Pillow - Midnight Grey",
+    "Slug": "ostrichpillow-go-neck-pillow---midnight-grey",
+    "Collection ID": "62a117dcfafd972da4749463",
+    "Item ID": "66e4c5b603b2a070a1e45e64",
+    "Created On": "Fri Sep 13 2024 23:07:34 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Fri Sep 13 2024 23:07:34 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Fri Sep 13 2024 23:18:33 GMT+0000 (Coordinated Universal Time)",
+    "Price": 6,
+    "Product Category": "accessories",
+    "Brand": "",
+    "Image": "https://cdn.prod.website-files.com/62a117dcfafd9734a674945b/66e4c59d398b6af38724e2a5_Ostrichpillow%20Go%20Neck%20Pillow%20-%20Midnight%20Grey.png",
+    "Product Collection": "best-holiday-gifts"
+  },
+  {
     "Name": "Outdoor Research Apollo Rain Jacket - Black",
     "Slug": "outdoor-research-apollo-rain-jacket-black",
     "Collection ID": "62a117dcfafd972da4749463",
@@ -19479,13 +19563,13 @@
     "Collection ID": "62a117dcfafd972da4749463",
     "Item ID": "64ef450f24092be73f8e2664",
     "Created On": "Wed Aug 30 2023 13:33:03 GMT+0000 (Coordinated Universal Time)",
-    "Updated On": "Wed Aug 30 2023 13:33:03 GMT+0000 (Coordinated Universal Time)",
-    "Published On": "Wed Aug 30 2023 13:38:04 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Fri Sep 13 2024 22:31:40 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "",
     "Price": 120,
     "Product Category": "tech-electronics",
     "Brand": "",
-    "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/64ef4508b10747345bcd7c55_Polaroid%20Now%20Generation%202%20-%20White.png",
-    "Product Collection": "best-holiday-gifts"
+    "Image": "https://cdn.prod.website-files.com/62a117dcfafd9734a674945b/64ef4508b10747345bcd7c55_Polaroid%20Now%20Generation%202%20-%20White.png",
+    "Product Collection": ""
   },
   {
     "Name": "Pop Up Beach Tent - Royal/Black",
@@ -19892,6 +19976,20 @@
     "Brand": "",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/64b5190331e2d786aa8200e8_Que%2012oz%20Collapsible%20Water%20Bottle%20-%20Midnight%20Blue.png",
     "Product Collection": "sustainable-gifts"
+  },
+  {
+    "Name": "R&R Eye Mask",
+    "Slug": "r-r-eye-mask",
+    "Collection ID": "62a117dcfafd972da4749463",
+    "Item ID": "66e4c7532002d72071db090d",
+    "Created On": "Fri Sep 13 2024 23:14:27 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Fri Sep 13 2024 23:14:27 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Fri Sep 13 2024 23:18:33 GMT+0000 (Coordinated Universal Time)",
+    "Price": 9,
+    "Product Category": "accessories",
+    "Brand": "",
+    "Image": "https://cdn.prod.website-files.com/62a117dcfafd9734a674945b/66e4c746b1564a12c0d57726_R%26R%20Eye%20Mask.png",
+    "Product Collection": "best-holiday-gifts"
   },
   {
     "Name": "Raaka Bourbon Cask Aged",
@@ -21672,6 +21770,20 @@
     "Product Collection": ""
   },
   {
+    "Name": "Sony Sport Earbuds - Black",
+    "Slug": "sony-sport-earbuds---black",
+    "Collection ID": "62a117dcfafd972da4749463",
+    "Item ID": "66e4c82960ab43be018f7c41",
+    "Created On": "Fri Sep 13 2024 23:18:01 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Fri Sep 13 2024 23:18:01 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Fri Sep 13 2024 23:18:33 GMT+0000 (Coordinated Universal Time)",
+    "Price": 20,
+    "Product Category": "tech-electronics",
+    "Brand": "sony",
+    "Image": "https://cdn.prod.website-files.com/62a117dcfafd9734a674945b/66e4c81726b9211a6131b009_Sony%20Sport%20Earbuds%20-%20Black.png",
+    "Product Collection": "best-holiday-gifts"
+  },
+  {
     "Name": "Sony Truly Wireless Noise Cancelling Earbuds - Silver",
     "Slug": "sony-truly-wireless-noise-cancelling-earbuds-silver",
     "Collection ID": "62a117dcfafd972da4749463",
@@ -22062,6 +22174,20 @@
     "Brand": "stanley",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97517e74b002_IceFlow%20Flip%20Straw%20Tumbler%2030%20oz.%20-%20Polar.png",
     "Product Collection": ""
+  },
+  {
+    "Name": "Stanley Quencher H2.0 FlowState Tumbler - Cream",
+    "Slug": "stanley-quencher-h2-0-flowstate-tumbler---cream",
+    "Collection ID": "62a117dcfafd972da4749463",
+    "Item ID": "66e4c719c01947f2473993ac",
+    "Created On": "Fri Sep 13 2024 23:13:29 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Fri Sep 13 2024 23:13:29 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Fri Sep 13 2024 23:18:33 GMT+0000 (Coordinated Universal Time)",
+    "Price": 51,
+    "Product Category": "drinkware",
+    "Brand": "stanley",
+    "Image": "https://cdn.prod.website-files.com/62a117dcfafd9734a674945b/66e4c701ba9fdb5686d7a757_Stanley%20Quencher%20H2.0%20FlowState%20Tumbler%20-%20Cream.png",
+    "Product Collection": "best-holiday-gifts"
   },
   {
     "Name": "Stanley Quencher H2.O FlowState™ Tumbler 30 oz - Cream",
@@ -23786,6 +23912,20 @@
     "Product Collection": "best-holiday-gifts"
   },
   {
+    "Name": "Timbuk2 Player Duffel - Eco Black",
+    "Slug": "timbuk2-player-duffel---eco-black",
+    "Collection ID": "62a117dcfafd972da4749463",
+    "Item ID": "66e4c67d713778b76917a2c4",
+    "Created On": "Fri Sep 13 2024 23:10:53 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Fri Sep 13 2024 23:11:13 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Fri Sep 13 2024 23:18:33 GMT+0000 (Coordinated Universal Time)",
+    "Price": 109,
+    "Product Category": "bags",
+    "Brand": "timbuk2",
+    "Image": "https://cdn.prod.website-files.com/62a117dcfafd9734a674945b/66e4c66f03b2a070a1e52b33_Timbuk2%20Player%20Duffel%20-%20Eco%20Black.png",
+    "Product Collection": "best-holiday-gifts"
+  },
+  {
     "Name": "Timbuk2 Player Duffel Bag",
     "Slug": "timbuk2-player-duffel-bag",
     "Collection ID": "62a117dcfafd972da4749463",
@@ -24351,13 +24491,13 @@
     "Collection ID": "62a117dcfafd972da4749463",
     "Item ID": "64ec889ccec17595589a4044",
     "Created On": "Mon Aug 28 2023 11:44:28 GMT+0000 (Coordinated Universal Time)",
-    "Updated On": "Mon Aug 28 2023 11:44:28 GMT+0000 (Coordinated Universal Time)",
-    "Published On": "Mon Aug 28 2023 11:49:17 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Fri Sep 13 2024 22:33:05 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Fri Sep 13 2024 22:36:21 GMT+0000 (Coordinated Universal Time)",
     "Price": 79,
     "Product Category": "bags",
     "Brand": "",
-    "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/64ec88944e4910fb5757142d_Topo%20Designs%20Light%20Pack%20-%20Black.png",
-    "Product Collection": "best-holiday-gifts"
+    "Image": "https://cdn.prod.website-files.com/62a117dcfafd9734a674945b/64ec88944e4910fb5757142d_Topo%20Designs%20Light%20Pack%20-%20Black.png",
+    "Product Collection": ""
   },
   {
     "Name": "Topo Designs Rover Pack Classic - Charcoal",
@@ -24925,13 +25065,13 @@
     "Collection ID": "62a117dcfafd972da4749463",
     "Item ID": "62a117dcfafd97407e7499f8",
     "Created On": "Sat May 09 2020 22:04:21 GMT+0000 (Coordinated Universal Time)",
-    "Updated On": "Sat May 09 2020 22:04:21 GMT+0000 (Coordinated Universal Time)",
-    "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
-    "Price": 4.95,
+    "Updated On": "Fri Sep 13 2024 23:10:03 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Fri Sep 13 2024 23:18:33 GMT+0000 (Coordinated Universal Time)",
+    "Price": 8,
     "Product Category": "food-beverages",
-    "Brand": "hammonds",
-    "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97288674a332_VANILLA%20(1).png",
-    "Product Collection": ""
+    "Brand": "",
+    "Image": "https://cdn.prod.website-files.com/62a117dcfafd9734a674945b/66e4c5efc5b6333dcb8b89ec_Vanilla%20Bean%20Marshmallows.png",
+    "Product Collection": "best-holiday-gifts"
   },
   {
     "Name": "Unna Bakery Vanilla Cookies",
