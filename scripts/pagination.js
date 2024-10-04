@@ -1,5 +1,5 @@
 const url = 'https://raw.githubusercontent.com/SurhanZahid/webflow-wishlist/master/scripts/csvjson.json';
-const itemsPerPage = 9; // Adjust the number of items per page as needed
+const itemsPerPage = 60; // Adjust the number of items per page as needed
 
 let currentPage = 1;
 let data;
