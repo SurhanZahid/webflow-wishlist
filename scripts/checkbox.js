@@ -101,5 +101,5 @@ const checkboxEventHandler = () => {
     })
 }
 
-//renderCheckbox();
+renderCheckbox();
 checkboxEventHandler();
