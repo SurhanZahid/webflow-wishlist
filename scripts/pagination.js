@@ -29,10 +29,14 @@ const toggleNoProductFoundVisibility = (style) => {
 
 function renderItems(startIndex, endIndex) {
     const container = document.querySelector('.product-cms-list');
-    container.innerHTML = ''; // Clear previous content
+    container.innerHTML = '';
+
+    const sortedProducts = filteredData.sort((a, b) => {
+        return new Date(b["Created On"]) - new Date(a["Created On"]);
+    });
 
     for (let i = startIndex; i < endIndex; i++) {
-        const item = filteredData[i];
+        const item = sortedProducts[i];
 
         if (item) {
             const productItem = document.createElement('div');
