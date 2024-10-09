@@ -8,7 +8,7 @@
     "Updated On": "Sun Jul 19 2020 08:59:43 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 6,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "raaka",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97157174a308_raaka-chocolate-bar%20copy%20(1)%20(1).png",
     "Product Collection": ""
@@ -64,7 +64,7 @@
     "Updated On": "Thu Sep 05 2024 21:53:21 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Sep 05 2024 21:58:04 GMT+0000 (Coordinated Universal Time)",
     "Price": 27,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "",
     "Image": "https://cdn.prod.website-files.com/62a117dcfafd9734a674945b/64e49ffc2158469d0170bdc1_1927%20S%27mores%20Kit.png",
     "Product Collection": "best-holiday-gifts"
@@ -78,7 +78,7 @@
     "Updated On": "Tue Feb 14 2023 13:03:03 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Tue Feb 14 2023 13:05:02 GMT+0000 (Coordinated Universal Time)",
     "Price": 27,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/634766d2f13ebeb45c2d1661_1927%20S%27mores%20Original%20S%27mores%20Kit.png",
     "Product Collection": ""
@@ -1618,7 +1618,7 @@
     "Updated On": "Sat Feb 19 2022 03:02:03 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 24,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "art-of-tea",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97399674a3a4_Art%20of%20Tea%20Aztec%20Spice.png",
     "Product Collection": ""
@@ -1632,7 +1632,7 @@
     "Updated On": "Sat Feb 19 2022 03:00:25 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 31,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "art-of-tea",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97f8c974a39f_Art%20of%20Tea%20Bright%20Eyed.png",
     "Product Collection": ""
@@ -1646,7 +1646,7 @@
     "Updated On": "Wed Sep 11 2024 13:43:33 GMT+0000 (Coordinated Universal Time)",
     "Published On": "",
     "Price": 27,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "",
     "Image": "https://cdn.prod.website-files.com/62a117dcfafd9734a674945b/64e913e2dad0119fde934ba3_Art%20of%20Tea%20Dark%20Chocolate%20Peppermint%20Tea.png",
     "Product Collection": ""
@@ -1660,7 +1660,7 @@
     "Updated On": "Wed Sep 27 2023 11:32:02 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Wed Sep 27 2023 11:32:34 GMT+0000 (Coordinated Universal Time)",
     "Price": 27,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/65141284bf48a3691f9921f1_Art%20of%20Tea%20Dark%20Chocolate%20Peppermint%20Tea.png",
     "Product Collection": "event-swag"
@@ -1674,7 +1674,7 @@
     "Updated On": "Sat Feb 19 2022 03:00:44 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 21,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "art-of-tea",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97146874a3a2_Art%20of%20Tea%20Earl%20Grey.png",
     "Product Collection": ""
@@ -1688,7 +1688,7 @@
     "Updated On": "Sat Feb 19 2022 03:00:14 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 20,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "art-of-tea",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97085f74a3a0_Art%20of%20Tea%20Earl%20Grey%20Creme.png",
     "Product Collection": ""
@@ -1702,7 +1702,7 @@
     "Updated On": "Sat Feb 19 2022 03:01:00 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 19,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "art-of-tea",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97172874a3a1_Art%20of%20Tea%20Egyptian%20Chamomile.png",
     "Product Collection": ""
@@ -1716,7 +1716,7 @@
     "Updated On": "Sat Feb 19 2022 03:00:19 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 20,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "art-of-tea",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97456c74a39d_Art%20of%20Tea%20English%20Breakfast.png",
     "Product Collection": ""
@@ -1730,7 +1730,7 @@
     "Updated On": "Sat Feb 19 2022 03:00:36 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 19,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "art-of-tea",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97281874a39e_Art%20of%20Tea%20French%20Lemon%20Ginger.png",
     "Product Collection": ""
@@ -1744,7 +1744,7 @@
     "Updated On": "Sat Feb 19 2022 03:01:30 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 21,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "art-of-tea",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97219f74a395_Art%20of%20Tea%20Green%20Pomegranate.png",
     "Product Collection": ""
@@ -1758,7 +1758,7 @@
     "Updated On": "Wed Feb 15 2023 12:13:20 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Wed Feb 15 2023 12:16:59 GMT+0000 (Coordinated Universal Time)",
     "Price": 20,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/63eccc58ccca65f313a3b4d1_Art%20of%20Tea%20Happy%20Tea.png",
     "Product Collection": "sales-kickoff-swag"
@@ -1772,7 +1772,7 @@
     "Updated On": "Sat Feb 19 2022 03:00:55 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 41,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "art-of-tea",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97a7f274a39a_Art%20of%20Tea%20Jasmine%20Pearls.png",
     "Product Collection": ""
@@ -1786,7 +1786,7 @@
     "Updated On": "Sat Feb 19 2022 03:01:57 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 19,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "art-of-tea",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd9737b574a393_Art%20of%20Tea%20Pacific%20Coast%20Mint%20Tea%20Set%20of%206%20Tall%20Retail%20Canisters.png",
     "Product Collection": ""
@@ -1800,7 +1800,7 @@
     "Updated On": "Sat Feb 19 2022 03:01:43 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 20,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "art-of-tea",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd9799b874a398_Art%20of%20Tea%20Soothe.png",
     "Product Collection": ""
@@ -1814,7 +1814,7 @@
     "Updated On": "Sat Feb 19 2022 03:00:50 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 21,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "art-of-tea",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd977ea574a399_Art%20of%20Tea%20Tali%27s%20Masala%20Chai.png",
     "Product Collection": ""
@@ -1828,7 +1828,7 @@
     "Updated On": "Sat Feb 19 2022 03:16:54 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 41,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "art-of-tea",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97ceab74afae_Wellness%20Tea%20Sampler%20Pack.png",
     "Product Collection": ""
@@ -1842,7 +1842,7 @@
     "Updated On": "Sat Feb 19 2022 03:00:31 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 20,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "art-of-tea",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd9785d774a396_Art%20of%20Tea%20White%20Coconut%20Creme.png",
     "Product Collection": ""
@@ -2724,7 +2724,7 @@
     "Updated On": "Sat Oct 22 2022 00:24:17 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Sat Oct 22 2022 00:25:31 GMT+0000 (Coordinated Universal Time)",
     "Price": 19,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "august-uncommon-tea",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd973d8a749f0f_August%20Uncommon%20Tea%20Flavor%20Explorer%20Kit.jpg",
     "Product Collection": ""
@@ -2738,7 +2738,7 @@
     "Updated On": "Sat Oct 22 2022 00:22:01 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Sat Oct 22 2022 00:25:31 GMT+0000 (Coordinated Universal Time)",
     "Price": 29,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "august-uncommon-tea",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd9743aa749efa_August%20Uncommon%20Tea%20Green%20Tea%20-%20Big%20Easy.jpg",
     "Product Collection": ""
@@ -2752,7 +2752,7 @@
     "Updated On": "Sat Oct 22 2022 00:25:03 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Sat Oct 22 2022 00:25:31 GMT+0000 (Coordinated Universal Time)",
     "Price": 12,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "august-uncommon-tea",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd972d5a749f08_August%20Uncommon%20Tea%20One-cup%20Infuser.jpg",
     "Product Collection": ""
@@ -4334,7 +4334,7 @@
     "Updated On": "Sun May 01 2022 12:53:11 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 9.99,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "big-heart-tea",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97244874b2ec_Blushing%20(1).png",
     "Product Collection": ""
@@ -4348,7 +4348,7 @@
     "Updated On": "Thu Apr 28 2022 12:32:23 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 9.99,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "big-heart-tea",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd9733b974b2dd_Chai%20(1).png",
     "Product Collection": ""
@@ -4362,7 +4362,7 @@
     "Updated On": "Sun May 01 2022 12:53:37 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 9.99,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "big-heart-tea",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97037374b2ed_Chamomile%20Mint%20%20(1).png",
     "Product Collection": ""
@@ -4376,7 +4376,7 @@
     "Updated On": "Sun May 01 2022 12:54:40 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 11.99,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "big-heart-tea",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97580674b2ee_Cozy%20Night%20(1).png",
     "Product Collection": ""
@@ -4390,7 +4390,7 @@
     "Updated On": "Thu Apr 28 2022 12:31:57 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 9.99,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "big-heart-tea",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd976d4874b2dc_Cup%20of%20Love%20(1).png",
     "Product Collection": ""
@@ -4404,7 +4404,7 @@
     "Updated On": "Thu Apr 28 2022 12:31:29 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 9.99,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "big-heart-tea",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97e30674b2db_Cup%20of%20Sunshine%20(1).png",
     "Product Collection": ""
@@ -4418,7 +4418,7 @@
     "Updated On": "Sun May 01 2022 12:52:29 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 9.99,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "big-heart-tea",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97337274b2eb_Edith%20Grey%20(1).png",
     "Product Collection": ""
@@ -4432,7 +4432,7 @@
     "Updated On": "Thu Apr 28 2022 12:34:16 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 9.99,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "big-heart-tea",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd972f3774b2df_Fake%20Coffee%20(1).png",
     "Product Collection": ""
@@ -4446,7 +4446,7 @@
     "Updated On": "Sun May 01 2022 12:55:04 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 11.99,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "big-heart-tea",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97386774b2ef_Green%20Hibiscus%20(1).png",
     "Product Collection": ""
@@ -4460,7 +4460,7 @@
     "Updated On": "Sun May 01 2022 12:55:40 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 11.99,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "big-heart-tea",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd972dd074b2f0_Minty%20White%20(1).png",
     "Product Collection": ""
@@ -4474,7 +4474,7 @@
     "Updated On": "Sun May 01 2022 12:56:26 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 11.99,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "big-heart-tea",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97446674b2f1_Rosy%20%26%20Bright%20%20(1).png",
     "Product Collection": ""
@@ -4488,7 +4488,7 @@
     "Updated On": "Thu Apr 28 2022 12:33:00 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 9.99,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "big-heart-tea",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd9784c274b2de_Royal%20Treatmint%20%20(1).png",
     "Product Collection": ""
@@ -4502,7 +4502,7 @@
     "Updated On": "Sat May 09 2020 22:02:44 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 4.95,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "hammonds",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd975e9d74a32f_BIRTHDAY%20(1).png",
     "Product Collection": ""
@@ -4516,7 +4516,7 @@
     "Updated On": "Sat May 09 2020 22:12:00 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 4.95,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "hammonds",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd974acb74a336_birthday%20(2).png",
     "Product Collection": ""
@@ -4586,7 +4586,7 @@
     "Updated On": "Sat Feb 19 2022 03:42:09 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 7,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "candy-club",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd970dfa74a313_blue.png",
     "Product Collection": ""
@@ -4684,7 +4684,7 @@
     "Updated On": "Thu Aug 24 2023 20:03:27 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Aug 24 2023 20:11:24 GMT+0000 (Coordinated Universal Time)",
     "Price": 5,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/64e7b7841cbba7aa2245495e_Bon%20Bon%20Holiday%20Gummy%20Candies.png",
     "Product Collection": "best-holiday-gifts"
@@ -4698,7 +4698,7 @@
     "Updated On": "Sat May 09 2020 00:50:49 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 10.95,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "hammonds",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd974b0974a32b_BOURBON%20(1).png",
     "Product Collection": ""
@@ -4726,7 +4726,7 @@
     "Updated On": "Mon May 10 2021 02:26:54 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 5.99,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "unna-bakery",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97599074a312_brown%20butter%20(1).png",
     "Product Collection": ""
@@ -4768,7 +4768,7 @@
     "Updated On": "Thu Aug 24 2023 20:03:00 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Aug 24 2023 20:11:24 GMT+0000 (Coordinated Universal Time)",
     "Price": 7.95,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/64e7b7696f4157de8ec7bceb_California%20Gummy%20Bears%20Holiday%20Edition%20Fruit%20Mix.png",
     "Product Collection": "best-holiday-gifts"
@@ -4838,7 +4838,7 @@
     "Updated On": "Sat May 09 2020 22:11:08 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 4.95,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "hammonds",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd9776fd74a335_caramel%20(2).png",
     "Product Collection": ""
@@ -4852,7 +4852,7 @@
     "Updated On": "Mon May 10 2021 02:25:55 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 5.99,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "unna-bakery",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd974c1c74a311_cardamom%20(1).png",
     "Product Collection": ""
@@ -5412,7 +5412,7 @@
     "Updated On": "Sat May 09 2020 22:03:15 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 4.95,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "hammonds",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd970ac774a330_CHOCO%20(1).png",
     "Product Collection": ""
@@ -5426,7 +5426,7 @@
     "Updated On": "Sat May 09 2020 22:15:52 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 4.95,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "hammonds",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd976fb574a337_chocolate%20(1).png",
     "Product Collection": ""
@@ -5454,7 +5454,7 @@
     "Updated On": "Sat May 09 2020 22:17:10 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 4.95,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "hammonds",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd974cd874a339_churro%20(1).png",
     "Product Collection": ""
@@ -5510,7 +5510,7 @@
     "Updated On": "Wed Jul 05 2023 10:38:49 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Wed Jul 05 2023 10:45:53 GMT+0000 (Coordinated Universal Time)",
     "Price": 20,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/64a548320e545201082012fa_Coastal%20Coffee%20Collective%20Eastside%20Espresso%20Instant%20Coffee.png",
     "Product Collection": "new-hire-swag"
@@ -5524,7 +5524,7 @@
     "Updated On": "Fri Aug 25 2023 20:44:50 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Fri Aug 25 2023 20:47:23 GMT+0000 (Coordinated Universal Time)",
     "Price": 12,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/64e912b9a440eb944ea3aef1_Cocoa%20Metro%20Drinking%20Chocolate.png",
     "Product Collection": "best-holiday-gifts"
@@ -5538,7 +5538,7 @@
     "Updated On": "Sun Jul 19 2020 08:59:29 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 6,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "raaka",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd970a3574a30a_raaka-chocolate-bar%20copy%20(3)%20(1).png",
     "Product Collection": ""
@@ -5552,7 +5552,7 @@
     "Updated On": "Mon May 10 2021 02:25:45 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 5.99,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "unna-bakery",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd9736bb74a310_coconut.png",
     "Product Collection": ""
@@ -5818,7 +5818,7 @@
     "Updated On": "Mon Apr 11 2022 14:15:56 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 9.95,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "compartes",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd974d7974b209_Birthday%20Cake%20Chocolate%20Bar%20(1).png",
     "Product Collection": ""
@@ -5832,7 +5832,7 @@
     "Updated On": "Mon Apr 11 2022 14:17:40 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 9.95,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "compartes",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97d66274b20c_California%20Love%20Dark%20Chocolate%20Salted%20Pretzel%20Bar%20(1).png",
     "Product Collection": ""
@@ -5846,7 +5846,7 @@
     "Updated On": "Wed Apr 13 2022 21:43:19 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 9.95,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "compartes",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd976d7c74b220_Campfire%20S%27mores%20Dark%20Chocolate%20Bar%20(1).png",
     "Product Collection": ""
@@ -5860,7 +5860,7 @@
     "Updated On": "Wed Apr 13 2022 21:45:10 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 9.95,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "compartes",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97294474b224_Caramelized%20Popcorn%20Milk%20Chocolate%20Bar%20(1).png",
     "Product Collection": ""
@@ -5874,7 +5874,7 @@
     "Updated On": "Thu Apr 14 2022 00:12:23 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 9.95,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "compartes",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97c06474b242_Cereal%20Bowl%20Chocolate%20Bar.png",
     "Product Collection": ""
@@ -5888,7 +5888,7 @@
     "Updated On": "Wed Sep 11 2024 13:28:48 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Wed Sep 11 2024 13:34:40 GMT+0000 (Coordinated Universal Time)",
     "Price": 110,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "",
     "Image": "https://cdn.prod.website-files.com/62a117dcfafd9734a674945b/64ea6e7c2c637850463f7c99_Compartes%20Chocolate%20Advent%20Calendar.png",
     "Product Collection": ""
@@ -5902,7 +5902,7 @@
     "Updated On": "Mon Apr 11 2022 14:02:44 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 9.95,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "compartes",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd975ebd74b206_Cookie%20Butter%20Milk%20Chocolate%20Bar%20(1).png",
     "Product Collection": ""
@@ -5916,7 +5916,7 @@
     "Updated On": "Mon Apr 11 2022 14:16:44 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 9.95,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "compartes",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd9795b574b20a_Dark%20Chocolate%20Honeycomb%20Bar%20(1).png",
     "Product Collection": ""
@@ -5930,7 +5930,7 @@
     "Updated On": "Mon Apr 11 2022 14:03:16 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 9.95,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "compartes",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97c07d74b207_Donuts%20%26%20Coffee%20Milk%20Chocolate%20Bar%20(1).png",
     "Product Collection": ""
@@ -5944,7 +5944,7 @@
     "Updated On": "Tue Feb 14 2023 12:59:13 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Tue Feb 14 2023 13:05:02 GMT+0000 (Coordinated Universal Time)",
     "Price": 11.95,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/634871609198091bb79abb2d_Compartes%20Gingerbread%20Dark%20Chocolate%20Bar%20Holiday%20Gift%20(1).png",
     "Product Collection": ""
@@ -5958,7 +5958,7 @@
     "Updated On": "Wed Apr 13 2022 21:43:46 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 9.95,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "compartes",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd971c1e74b221_Lavender%20Chocolate%20Bar%20(1).png",
     "Product Collection": ""
@@ -5972,7 +5972,7 @@
     "Updated On": "Thu Apr 14 2022 00:09:50 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 9.95,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "compartes",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97beaf74b23f_Margarita%20Dark%20Chocolate%20Bar%20-%20Tequila%20Lime%20Sea%20Salt%20(1).png",
     "Product Collection": ""
@@ -5986,7 +5986,7 @@
     "Updated On": "Thu Apr 14 2022 00:11:57 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 9.95,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "compartes",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd975e8a74b241_Matcha%20Green%20Tea%20White%20Chocolate%20Bar%20(1).png",
     "Product Collection": ""
@@ -6000,7 +6000,7 @@
     "Updated On": "Thu Apr 14 2022 00:11:09 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 9.95,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "compartes",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd973c5174b240_Milk%20Chocolate%20Chip%20Cookies%20Bar%20(1).png",
     "Product Collection": ""
@@ -6014,7 +6014,7 @@
     "Updated On": "Wed Apr 13 2022 21:44:45 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 9.95,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "compartes",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd970ae074b223_Nightcap%20Whisky%20Dark%20Chocolate%20Bar%20(1).png",
     "Product Collection": ""
@@ -6028,7 +6028,7 @@
     "Updated On": "Wed Apr 13 2022 21:44:07 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 9.95,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "compartes",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97d75974b222_Raspberry%20Rose%20Dark%20Chocolate%20Bar%20(1).png",
     "Product Collection": ""
@@ -6042,7 +6042,7 @@
     "Updated On": "Mon Apr 11 2022 14:17:15 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 9.95,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "compartes",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd973e9d74b20b_Salted%20Caramel%20Chocolate%20Bar%20(1).png",
     "Product Collection": ""
@@ -6084,7 +6084,7 @@
     "Updated On": "Sat Feb 19 2022 03:41:42 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 7,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "candy-club",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97d02e74a317_cookies%20n%20cream.png",
     "Product Collection": ""
@@ -6098,7 +6098,7 @@
     "Updated On": "Thu Feb 16 2023 11:05:45 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Feb 16 2023 11:07:44 GMT+0000 (Coordinated Universal Time)",
     "Price": 18,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/63ee0d68163157324062ee30_Copper%20Cow%20Coffee%20Matcha%20Tea%20Latte.png",
     "Product Collection": "new-hire-swag"
@@ -6112,7 +6112,7 @@
     "Updated On": "Thu Apr 14 2022 00:15:23 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 18,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "copper-cow-coffee",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd9790f574b243_Best%20Brews%20Latte%20Sampler%20(1).png",
     "Product Collection": ""
@@ -6126,7 +6126,7 @@
     "Updated On": "Thu Apr 14 2022 00:15:45 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 15,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "copper-cow-coffee",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd974f6d74b244_Chai%20Tea%20Latte%20(1).png",
     "Product Collection": ""
@@ -6140,7 +6140,7 @@
     "Updated On": "Thu Apr 14 2022 00:16:15 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 10,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "copper-cow-coffee",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd970bfb74b245_Classic%20Black%20(1).png",
     "Product Collection": ""
@@ -6154,7 +6154,7 @@
     "Updated On": "Thu Apr 14 2022 00:20:12 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 15,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "copper-cow-coffee",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97065d74b246_Classic%20Decaf%20Latte%20(1).png",
     "Product Collection": ""
@@ -6168,7 +6168,7 @@
     "Updated On": "Thu Apr 14 2022 00:20:07 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 15,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "copper-cow-coffee",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd971f0b74b247_Matcha%20Tea%20Latte%20(1).png",
     "Product Collection": ""
@@ -6182,7 +6182,7 @@
     "Updated On": "Thu Apr 14 2022 00:20:00 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 17,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "copper-cow-coffee",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97c5fb74b249_Mint%20Mocha%20Latte%20(1).png",
     "Product Collection": ""
@@ -6196,7 +6196,7 @@
     "Updated On": "Thu Apr 14 2022 00:19:50 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 17,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "copper-cow-coffee",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97f96b74b24a_Mocha%20Latte%20(1).png",
     "Product Collection": ""
@@ -6210,7 +6210,7 @@
     "Updated On": "Thu Apr 14 2022 00:19:41 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 17,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "copper-cow-coffee",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd973e1c74b24b_Rose%20Latte%20(1).png",
     "Product Collection": ""
@@ -6224,7 +6224,7 @@
     "Updated On": "Thu Apr 14 2022 00:20:49 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 17,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "copper-cow-coffee",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97a04974b24c_Salted%20Caramel%20Latte%20(1).png",
     "Product Collection": ""
@@ -6238,7 +6238,7 @@
     "Updated On": "Thu Apr 14 2022 00:21:13 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 15,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "copper-cow-coffee",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97295074b24d_The%20Classic%20Latte%20(1).png",
     "Product Collection": ""
@@ -6252,7 +6252,7 @@
     "Updated On": "Thu Apr 14 2022 00:21:40 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 17,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "copper-cow-coffee",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97a18e74b24e_Vanilla%20Latte%20(1).png",
     "Product Collection": ""
@@ -6602,7 +6602,7 @@
     "Updated On": "Wed Aug 16 2023 19:15:44 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Wed Aug 16 2023 19:18:51 GMT+0000 (Coordinated Universal Time)",
     "Price": 15,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/64dd205c18dd5e0e137c212f_Creamy%20Milk%20Chocolate%20Hot%20Cocoa%20Tin.png",
     "Product Collection": "event-swag"
@@ -6616,7 +6616,7 @@
     "Updated On": "Fri Jun 16 2023 09:17:41 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Fri Jun 16 2023 09:23:29 GMT+0000 (Coordinated Universal Time)",
     "Price": 20.98,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/648c28aec7f143d9a5757c82_Creekside%20Mallow%20Co.%20Smores%20Kit.png",
     "Product Collection": "event-swag"
@@ -6812,7 +6812,7 @@
     "Updated On": "Sat Feb 19 2022 03:44:49 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 7,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "candy-club",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97229d74a318_cupcake.png",
     "Product Collection": ""
@@ -7554,7 +7554,7 @@
     "Updated On": "Thu Aug 06 2020 03:56:50 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 19.5,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "dick-taylor",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd9701ec74a4ea_Dick%20Taylor%20Baking%20Chocolate.png",
     "Product Collection": ""
@@ -7568,7 +7568,7 @@
     "Updated On": "Sat Oct 22 2022 00:21:32 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Sat Oct 22 2022 00:25:31 GMT+0000 (Coordinated Universal Time)",
     "Price": 9.5,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "dick-taylor",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd974cdb749f42_Dick%20Taylor%20Bars%20with%20Inclusions%20-%20Black%20Fig.jpg",
     "Product Collection": ""
@@ -7582,7 +7582,7 @@
     "Updated On": "Thu Aug 06 2020 03:54:04 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 9,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "dick-taylor",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97ad1674a4e4_Dick%20Taylor%20Belize.png",
     "Product Collection": ""
@@ -7596,7 +7596,7 @@
     "Updated On": "Thu Aug 06 2020 03:54:43 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 9,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "dick-taylor",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd974a2a74a4e6_Dick%20Taylor%20Brazil.png",
     "Product Collection": ""
@@ -7610,7 +7610,7 @@
     "Updated On": "Thu Aug 06 2020 03:51:20 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 9.5,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "dick-taylor",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd9726a274a4e1_Dick%20Taylor%20Brown%20Butter%20with%20Nibs%20%26%20Sea%20Salt.png",
     "Product Collection": ""
@@ -7624,7 +7624,7 @@
     "Updated On": "Sun Feb 20 2022 23:07:07 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 16,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "dick-taylor",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97c3c274a4e7_Dick%20Taylor%20Chocolate%20Coated%20Almonds.png",
     "Product Collection": ""
@@ -7638,7 +7638,7 @@
     "Updated On": "Mon May 10 2021 02:12:55 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 18,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "dick-taylor",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97aa4c74a9b6_Dick%20Taylor%20Drinking%20Chocolate.png",
     "Product Collection": ""
@@ -7652,7 +7652,7 @@
     "Updated On": "Thu Aug 06 2020 03:52:02 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 9.5,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "dick-taylor",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97b1cc74a4e2_Dick%20Taylor%20Fleur%20De%20Sel.png",
     "Product Collection": ""
@@ -7666,7 +7666,7 @@
     "Updated On": "Thu Aug 06 2020 03:52:24 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 20,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "dick-taylor",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd972a1b74a4e3_Dick%20Taylor%20Fleur%20De%20Sel%20Caramels.png",
     "Product Collection": ""
@@ -7680,7 +7680,7 @@
     "Updated On": "Thu Aug 06 2020 03:57:12 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 30,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "dick-taylor",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97240e74a4e9_Dick%20Taylor%20Hot%20Chocolate.png",
     "Product Collection": ""
@@ -7694,7 +7694,7 @@
     "Updated On": "Thu Aug 06 2020 03:54:20 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 9,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "dick-taylor",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd976c3b74a4e5_Dick%20Taylor%20Madagascar.png",
     "Product Collection": ""
@@ -7708,7 +7708,7 @@
     "Updated On": "Thu Aug 06 2020 03:56:07 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 12,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "dick-taylor",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd9749b474a4e8_Dick%20Taylor%20S%27mores%20Kit.png",
     "Product Collection": ""
@@ -7820,7 +7820,7 @@
     "Updated On": "Thu Aug 24 2023 20:02:37 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Aug 24 2023 20:11:24 GMT+0000 (Coordinated Universal Time)",
     "Price": 4,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/64e7b75087c0186eff28376d_East%20Shore%20Sugar%20and%20Spice%20Pretzels.png",
     "Product Collection": "best-holiday-gifts"
@@ -7834,7 +7834,7 @@
     "Updated On": "Fri Aug 25 2023 20:22:56 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Fri Aug 25 2023 20:47:23 GMT+0000 (Coordinated Universal Time)",
     "Price": 10,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/64e90d95376dd045f10dcfa2_Eatable%20Popcorn.png",
     "Product Collection": "best-holiday-gifts"
@@ -8394,7 +8394,7 @@
     "Updated On": "Mon Oct 17 2022 08:54:26 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Mon Oct 17 2022 08:55:39 GMT+0000 (Coordinated Universal Time)",
     "Price": 25,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/634d18389f22e45d6cfe6585_FarmSteady%20Apple%20Cider%20Doughnut%20Baking%20Mix%20(1).png",
     "Product Collection": "fallevent-swag"
@@ -9388,7 +9388,7 @@
     "Updated On": "Mon May 10 2021 02:25:13 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 5.99,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "unna-bakery",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97dd5d74a30f_ginger.png",
     "Product Collection": ""
@@ -9402,7 +9402,7 @@
     "Updated On": "Fri Aug 25 2023 20:34:41 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Fri Aug 25 2023 20:47:23 GMT+0000 (Coordinated Universal Time)",
     "Price": 40,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/64e91057b7d2aa10b996cdad_Gingerbread%20Kit.png",
     "Product Collection": "best-holiday-gifts"
@@ -9430,7 +9430,7 @@
     "Updated On": "Wed Feb 22 2023 09:15:26 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Wed Feb 22 2023 09:16:33 GMT+0000 (Coordinated Universal Time)",
     "Price": 6.99,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/63f5dd2790c3a1d05fe9c080_Goodio%2056%25%20Coffee%20Chocolate.png",
     "Product Collection": "event-swag"
@@ -9612,7 +9612,7 @@
     "Updated On": "Wed Jul 15 2020 05:39:12 GMT+0000 (Coordinated Universal Time)",
     "Published On": "",
     "Price": 5,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "grey-ghost-bakery",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97dc68749f35_Grey%20Ghost%20Bakery%20Grey%20Ghost%20Bakery-%204%20oz%20Cookie%20Cylinder%20-%20Almond%20Toffee.jpg",
     "Product Collection": "fallevent-swag"
@@ -9626,7 +9626,7 @@
     "Updated On": "Wed Jul 15 2020 05:39:08 GMT+0000 (Coordinated Universal Time)",
     "Published On": "",
     "Price": 9,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "grey-ghost-bakery",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd976deb749f3b_Grey%20Ghost%20Bakery%20Grey%20Ghost%20Bakery-%208%20oz%20Cookie%20Bag%20-%20Chocolate%20Chip.jpg",
     "Product Collection": "fallevent-swag"
@@ -10312,7 +10312,7 @@
     "Updated On": "Sat May 09 2020 22:09:46 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 4.95,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "hammonds",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd977cd274a333_honey%20(1).png",
     "Product Collection": ""
@@ -10410,7 +10410,7 @@
     "Updated On": "Tue Sep 03 2024 22:04:23 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Tue Sep 03 2024 22:04:29 GMT+0000 (Coordinated Universal Time)",
     "Price": 18,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "",
     "Image": "https://cdn.prod.website-files.com/62a117dcfafd9734a674945b/64e4a0bbb42c4886d9e99b26_Hygge%20Drinking%20Chocolate%2070%25%20Cacao.png",
     "Product Collection": "best-holiday-gifts"
@@ -10760,7 +10760,7 @@
     "Updated On": "Sun Feb 20 2022 23:20:27 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 48,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "jacobsen-salt-co",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97b65c749f30_Jacobsen%20Salt%20Co.%20Infused%20Jar%20-%204%20oz%20-%20White%20Truffle.jpg",
     "Product Collection": ""
@@ -10774,7 +10774,7 @@
     "Updated On": "Sat May 08 2021 06:53:50 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 13,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "jacobsen-salt-co",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97d2a9749f40_Jacobsen%20Salt%20Co.%20Salty%20Black%20Licorice.jpg",
     "Product Collection": ""
@@ -10788,7 +10788,7 @@
     "Updated On": "Sat Oct 22 2022 00:25:18 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Sat Oct 22 2022 00:25:31 GMT+0000 (Coordinated Universal Time)",
     "Price": 13,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "jacobsen-salt-co",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd9770d6749f33_Jacobsen%20Salt%20Co.%20Salty%20Caramels.jpg",
     "Product Collection": ""
@@ -11236,7 +11236,7 @@
     "Updated On": "Sun Jul 09 2023 02:01:50 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Sun Jul 09 2023 02:04:28 GMT+0000 (Coordinated Universal Time)",
     "Price": 11,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/64aa1509baf5ea96e92c5dd0_jcoco%20chocolate%20Himalayan%20Salt%20%2B%20Toffee%20Bar%20-%203oz.png",
     "Product Collection": "new-hire-swag"
@@ -11278,7 +11278,7 @@
     "Updated On": "Wed Jul 15 2020 05:16:17 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 14.95,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "k-m",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd9702ab74a46c_K%20%2B%20M%2075%25%20DARK%20CHOCOLATE%2C%20ECUADOR.png",
     "Product Collection": ""
@@ -11292,7 +11292,7 @@
     "Updated On": "Wed Jul 15 2020 05:16:11 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 14.95,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "k-m",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97363874a46d_K%20%2B%20M%2075%25%20DARK%20CHOCOLATE%2C%20MADAGASCAR.png",
     "Product Collection": ""
@@ -11306,7 +11306,7 @@
     "Updated On": "Wed Jul 15 2020 05:16:06 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 14.95,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "k-m",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd9765d374a46e_K%20%2B%20M%2075%25%20DARK%20CHOCOLATE%2C%20NICARAGUA.png",
     "Product Collection": ""
@@ -11320,7 +11320,7 @@
     "Updated On": "Wed Jul 15 2020 05:16:01 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 14.95,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "k-m",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97711174a46f_K%20%2B%20M%2075%25%20DARK%20CHOCOLATE%2C%20PERU.png",
     "Product Collection": ""
@@ -11334,7 +11334,7 @@
     "Updated On": "Wed Jul 15 2020 04:37:43 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 20,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "k-m",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd976e2674a476_K%20%2B%20M%20COCOA%20NIBS.png",
     "Product Collection": ""
@@ -11348,7 +11348,7 @@
     "Updated On": "Wed Jul 15 2020 05:15:56 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 14.95,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "k-m",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd9769b674a470_K%20%2B%20M%20DARK%20MILK%20CHOCOLATE%2C%20ECUADOR.png",
     "Product Collection": ""
@@ -11362,7 +11362,7 @@
     "Updated On": "Wed Jul 15 2020 05:15:47 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 14.95,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "k-m",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd9721af74a471_K%20%2B%20M%20DARK%20MILK%20CHOCOLATE%2C%20NICARAGUA.png",
     "Product Collection": ""
@@ -11376,7 +11376,7 @@
     "Updated On": "Mon May 10 2021 02:18:19 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 24,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "k-m",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd9741da74a9b7_K%2BM%20Chocolate%20Classic%20Hot%20Chocolate.png",
     "Product Collection": ""
@@ -11390,7 +11390,7 @@
     "Updated On": "Wed Jul 15 2020 05:15:39 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 14.95,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "k-m",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd973c8774a472_K%20%2B%20M%20MILK%20CHOCOLATE%2C%20ECUADOR.png",
     "Product Collection": ""
@@ -11404,7 +11404,7 @@
     "Updated On": "Wed Jul 15 2020 04:38:44 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 14.95,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "k-m",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd9762c374a473_K%20%2B%20M%20MILK%20CHOCOLATE%2C%20NICARAGUA.png",
     "Product Collection": ""
@@ -11418,7 +11418,7 @@
     "Updated On": "Wed Jul 15 2020 04:38:33 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 14.95,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "k-m",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd977d4774a475_K%20%2B%20M%20MILK%20COCOA%20NIBS.png",
     "Product Collection": ""
@@ -11432,7 +11432,7 @@
     "Updated On": "Wed Jul 15 2020 04:38:39 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 14.95,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "k-m",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97f26674a474_K%20%2B%20M%20MILK%20COFFEE%20%2B%20SEA%20SALT.png",
     "Product Collection": ""
@@ -11614,7 +11614,7 @@
     "Updated On": "Tue Jun 23 2020 00:35:48 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 9,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "kikas-treats",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97792874a416_Kika%27s%20Treats%20Caramelized%20Graham%20Crackers%20in%20Pure%20Dark%20Chocolate.png",
     "Product Collection": ""
@@ -11628,7 +11628,7 @@
     "Updated On": "Tue Jun 23 2020 00:37:08 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 9,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "kikas-treats",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd972db774a417_Kika%27s%20Treats%20Caramelized%20Graham%20Crackers%20in%20Pure%20Milk%20Chocolate.png",
     "Product Collection": ""
@@ -11642,7 +11642,7 @@
     "Updated On": "Tue Jun 23 2020 00:37:53 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 9,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "kikas-treats",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd9750cb74a418_Kika%27s%20Treats%20Cocoa%20Nib%20Chocolate%20Shortbread%20in%20Pure%20Dark%20Chocolate.png",
     "Product Collection": ""
@@ -11656,7 +11656,7 @@
     "Updated On": "Tue Jun 23 2020 00:38:11 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 9,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "kikas-treats",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd9768cd74a419_Kika%27s%20Treats%20Coconut%20Shortbread%20in%20Pure%20Dark%20Chocolate.png",
     "Product Collection": ""
@@ -11670,7 +11670,7 @@
     "Updated On": "Tue Jun 23 2020 00:38:34 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 9,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "kikas-treats",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97515a74a41a_Kika%27s%20Treats%20Coconut%20Shortbread%20in%20Pure%20Milk%20Chocolate.png",
     "Product Collection": ""
@@ -11684,7 +11684,7 @@
     "Updated On": "Tue Jun 23 2020 00:39:00 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 9,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "kikas-treats",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97ebf874a41b_Kika%27s%20Treats%20Espresso%20Shortbread%20in%20Pure%20Dark%20Chocolate.png",
     "Product Collection": ""
@@ -11698,7 +11698,7 @@
     "Updated On": "Tue Jun 23 2020 00:39:34 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 5,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "kikas-treats",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97718c74a41c_Kika%27s%20Treats%20Salted%20Crunchy%20Caramels%203pc.png",
     "Product Collection": ""
@@ -11712,7 +11712,7 @@
     "Updated On": "Tue Jun 23 2020 00:39:58 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 18,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "kikas-treats",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd972c8c74a41d_Kika%27s%20Treats%20Salted%20Crunchy%20Caramels%209pc.png",
     "Product Collection": ""
@@ -11726,7 +11726,7 @@
     "Updated On": "Tue Jun 23 2020 00:40:28 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 5,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "kikas-treats",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd976c0774a41e_Kika%27s%20Treats%20Salted%20Nutty%20Caramels%203pc.png",
     "Product Collection": ""
@@ -11740,7 +11740,7 @@
     "Updated On": "Tue Jun 23 2020 00:40:49 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 18,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "kikas-treats",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97882074a41f_Kika%27s%20Treats%20Salted%20Nutty%20Caramels%209pc.png",
     "Product Collection": ""
@@ -13406,7 +13406,7 @@
     "Updated On": "Thu Sep 05 2024 21:52:45 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Sep 05 2024 21:58:04 GMT+0000 (Coordinated Universal Time)",
     "Price": 16.5,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "",
     "Image": "https://cdn.prod.website-files.com/62a117dcfafd9734a674945b/64e4a133fb895721cec5fb6f_Le%20Bon%20Garcon%20Caramels.png",
     "Product Collection": "best-holiday-gifts"
@@ -13504,7 +13504,7 @@
     "Updated On": "Sat Feb 19 2022 03:42:21 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 7,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "candy-club",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd975f9c74a314_lemonade.png",
     "Product Collection": ""
@@ -13784,7 +13784,7 @@
     "Updated On": "Mon Jul 06 2020 13:06:57 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 6.95,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "little-apple-treats",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd973c2774a469_Little%20Apple%20Treats%20Apple%20Cider%20Caramels%20with%20Apple%20Brandy%20%2B%20Walnuts%20Treat%20Pack.png",
     "Product Collection": ""
@@ -13798,7 +13798,7 @@
     "Updated On": "Mon Jul 06 2020 13:06:37 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 6.95,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "little-apple-treats",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd9725fa74a468_Little%20Apple%20Treats%20Apple%20Cider%20Caramels%20with%20Candy%20Caps%20Treat%20Pack.png",
     "Product Collection": ""
@@ -13812,7 +13812,7 @@
     "Updated On": "Mon Jul 06 2020 13:05:27 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 6.95,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "little-apple-treats",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97a47b74a464_Little%20Apple%20Treats%20Apple%20Cider%20Caramels%20with%20Cocoa%20Nibs%20%2B%20Espresso.png",
     "Product Collection": ""
@@ -13826,7 +13826,7 @@
     "Updated On": "Mon Jul 06 2020 13:06:18 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 6.95,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "little-apple-treats",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97a4eb74a467_Little%20Apple%20Treats%20Apple%20Cider%20Caramels%20with%20Rose%20Petals%20%2B%20Cocoa%20Nibs%20Treat%20Pack.png",
     "Product Collection": ""
@@ -13840,7 +13840,7 @@
     "Updated On": "Mon Jul 06 2020 13:06:01 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 6.95,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "little-apple-treats",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97c17774a466_Little%20Apple%20Treats%20Apple%20Cider%20Caramels%20with%20Toasted%20Almonds%20Treat%20Pack.png",
     "Product Collection": ""
@@ -13854,7 +13854,7 @@
     "Updated On": "Sun Jul 05 2020 06:00:39 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 9.95,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "little-apple-treats",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd971f3774a45e_Little%20Apple%20Treats%20Bohemian%20Highway%20Granola.png",
     "Product Collection": ""
@@ -13868,7 +13868,7 @@
     "Updated On": "Sun Jul 05 2020 06:00:24 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 4.95,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "little-apple-treats",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97332d74a45d_Little%20Apple%20Treats%20Bohemian%20Highway%20Mini%20Granola.png",
     "Product Collection": ""
@@ -13882,7 +13882,7 @@
     "Updated On": "Sun Jul 05 2020 06:02:08 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 9.95,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "little-apple-treats",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97d4a474a462_Little%20Apple%20Treats%20Granola%20Cookies.png",
     "Product Collection": ""
@@ -13896,7 +13896,7 @@
     "Updated On": "Sun Jul 05 2020 06:01:48 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 4.95,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "little-apple-treats",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd9717ea74a461_Little%20Apple%20Treats%20Granola%20Cookies%20Mini%20Pack.png",
     "Product Collection": ""
@@ -13910,7 +13910,7 @@
     "Updated On": "Sun Jul 05 2020 06:01:24 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 9.95,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "little-apple-treats",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd976c9a74a460_Little%20Apple%20Treats%20Hill%20%2B%20Hollow%20Blend%20Granola.png",
     "Product Collection": ""
@@ -13924,7 +13924,7 @@
     "Updated On": "Sun Jul 05 2020 06:01:04 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 4.95,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "little-apple-treats",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd9710a674a45f_Little%20Apple%20Treats%20Hill%20%2B%20Hollow%20Blend%20Mini%20Granola.png",
     "Product Collection": ""
@@ -13938,7 +13938,7 @@
     "Updated On": "Sat Jul 04 2020 14:34:52 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 9.95,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "little-apple-treats",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd976c7474a45c_Little%20Apple%20Treats%20New%20World%20Blend%20Granola.png",
     "Product Collection": ""
@@ -13952,7 +13952,7 @@
     "Updated On": "Sat Jul 04 2020 14:34:34 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 4.95,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "little-apple-treats",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd977adb74a45b_Little%20Apple%20Treats%20New%20World%20Blend%20Mini%20Granola.png",
     "Product Collection": ""
@@ -13966,7 +13966,7 @@
     "Updated On": "Sat Jul 04 2020 14:34:17 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 9.95,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "little-apple-treats",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd977ffd74a45a_Little%20Apple%20Treats%20Orchard%20Blend%20Granola.png",
     "Product Collection": ""
@@ -13980,7 +13980,7 @@
     "Updated On": "Sat Jul 04 2020 14:33:59 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 4.95,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "little-apple-treats",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd9717d774a459_Little%20Apple%20Treats%20Orchard%20Blend%20Mini%20Granola.png",
     "Product Collection": ""
@@ -13994,7 +13994,7 @@
     "Updated On": "Fri Oct 14 2022 23:44:49 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Fri Oct 14 2022 23:45:23 GMT+0000 (Coordinated Universal Time)",
     "Price": 6,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/6349f464af899d76cad8e361_Little%20Apple%20Treats%20Spiced%20Apple%20Pie%20Apple%20Cider%20Caramels%20Treat%20Pack%20(1).png",
     "Product Collection": "fallevent-swag"
@@ -14008,7 +14008,7 @@
     "Updated On": "Mon Jul 06 2020 13:05:44 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 6.95,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "little-apple-treats",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd9738b474a465_Little%20Apple%20Treats%20Spiced%20Apple%20Pie%20Caramels%20Treat%20Pack.png",
     "Product Collection": ""
@@ -14022,7 +14022,7 @@
     "Updated On": "Sun Feb 20 2022 23:28:41 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 32.29,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "little-belgians",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97037274a453_LITTLE%20BELGIANS%20HALF%20CASE%E2%80%9312%20ORIGINAL%204CT.%20SPECULOOS%20SNACK%20PACKS.png",
     "Product Collection": ""
@@ -14036,7 +14036,7 @@
     "Updated On": "Sun Feb 20 2022 23:28:35 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 32.29,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "little-belgians",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd9782e174a455_LITTLE%20BELGIANS%20HALF%20CASE-%2012%20VANILLA%204CT.%20SNACK%20PACKS.png",
     "Product Collection": ""
@@ -14050,7 +14050,7 @@
     "Updated On": "Sun Feb 20 2022 23:28:13 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 22.99,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "little-belgians",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd9758f974a452_Little%20Belgians%20Original%20Gift%20Box.png",
     "Product Collection": ""
@@ -14064,7 +14064,7 @@
     "Updated On": "Sun Feb 20 2022 23:28:26 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 10.19,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "little-belgians",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97e18474a454_LITTLE%20BELGIANS%20ORIGINAL%20SPECULOOS-%20GABLED%20.png",
     "Product Collection": ""
@@ -14078,7 +14078,7 @@
     "Updated On": "Sun Feb 20 2022 23:28:19 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 22.99,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "little-belgians",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd9724aa74a457_LITTLE%20BELGIANS%20SPECULOOS%20S%E2%80%99MORES.png",
     "Product Collection": ""
@@ -14092,7 +14092,7 @@
     "Updated On": "Sun Feb 20 2022 23:28:06 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 22.99,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "little-belgians",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97196674a458_LITTLE%20BELGIANS%20VANILLA%20GIFT%20BOX%20.png",
     "Product Collection": ""
@@ -14106,7 +14106,7 @@
     "Updated On": "Sat May 08 2021 01:02:43 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 9.59,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "little-belgians",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97262a74a456_LITTLE%20BELGIANS%20VANILLA%20SPECULOOS-%20GABLED.png",
     "Product Collection": ""
@@ -14484,7 +14484,7 @@
     "Updated On": "Sat May 09 2020 00:48:47 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 10.95,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "hammonds",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd975a4374a329_malted%20(1).png",
     "Product Collection": ""
@@ -14498,7 +14498,7 @@
     "Updated On": "Tue Oct 06 2020 07:37:26 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 10,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "malvi",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97c55874a5b4_Malvi%20Berry%20Tropical%20Marshmallows.png",
     "Product Collection": ""
@@ -14512,7 +14512,7 @@
     "Updated On": "Sat May 08 2021 06:52:42 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 12,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "malvi",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd979a7d74a5b9_Malvi%20Chocolate%20Malvi%20S%27mores.png",
     "Product Collection": ""
@@ -14526,7 +14526,7 @@
     "Updated On": "Tue Oct 06 2020 07:39:01 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 10,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "malvi",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97c99174a5b8_Malvi%20Fluffy%20Nutter%20Marshmallows.png",
     "Product Collection": ""
@@ -14540,7 +14540,7 @@
     "Updated On": "Tue Oct 06 2020 07:38:28 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 12,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "malvi",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd973d3674a5b7_Malvi%20Peppermint%20Chocolate%20Malvi%20S%27mores.png",
     "Product Collection": ""
@@ -14554,7 +14554,7 @@
     "Updated On": "Tue Oct 06 2020 07:36:21 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 12,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "malvi",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97064174a5b3_Malvi%20Raspberry%20Hibiscus%20Malvi%20S%27mores.png",
     "Product Collection": ""
@@ -14568,7 +14568,7 @@
     "Updated On": "Sat May 08 2021 00:59:11 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 12,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "malvi",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd979096749f39_Malvi%20S_more%202pk%20Raspberry%20Hibiscus.jpg",
     "Product Collection": ""
@@ -14582,7 +14582,7 @@
     "Updated On": "Sat May 08 2021 00:58:53 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 12,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "malvi",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd974787749f3c_Malvi%20S_more%202pk%20Vanilla%20Salted%20Caramel.jpg",
     "Product Collection": ""
@@ -14596,7 +14596,7 @@
     "Updated On": "Tue Oct 06 2020 07:37:48 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 12,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "malvi",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd978d8e74a5b5_Malvi%20Spiked%20Espresso%20Malvi%20S%27mores.png",
     "Product Collection": ""
@@ -14610,7 +14610,7 @@
     "Updated On": "Tue Oct 06 2020 07:38:10 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 12,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "malvi",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97e64574a5b6_Malvi%20Vanilla%20Salted%20Caramel%20Malvi%20S%27mores.png",
     "Product Collection": ""
@@ -14638,7 +14638,7 @@
     "Updated On": "Sun Jul 19 2020 08:59:34 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 6,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "raaka",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd9765e674a309_raaka-chocolate-bar%20copy%20(2)%20(1).png",
     "Product Collection": ""
@@ -15226,7 +15226,7 @@
     "Updated On": "Fri Aug 14 2020 22:01:59 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 7,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "mast-chocolate",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd9728a574a52d_MAST%20Almond%20Butter%20Chocolate.png",
     "Product Collection": ""
@@ -15240,7 +15240,7 @@
     "Updated On": "Mon Feb 21 2022 00:37:55 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 7,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "mast-chocolate",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd9763a774a52e_MAST%20Sea%20Salt%20Chocolate.png",
     "Product Collection": ""
@@ -15254,7 +15254,7 @@
     "Updated On": "Fri Aug 14 2020 22:01:11 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 7,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "mast-chocolate",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97a12074a52b_MAST%20Dark%20Chocolate.png",
     "Product Collection": ""
@@ -15268,7 +15268,7 @@
     "Updated On": "Mon Feb 21 2022 00:37:11 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 7,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "mast-chocolate",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97098d74a52c_MAST%20Milk%20Chocolate.png",
     "Product Collection": ""
@@ -15282,7 +15282,7 @@
     "Updated On": "Fri Aug 14 2020 22:02:54 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 7,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "mast-chocolate",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97766e74a530_MAST%20Hazelnut%20Chocolate.png",
     "Product Collection": ""
@@ -15296,7 +15296,7 @@
     "Updated On": "Fri Aug 14 2020 22:03:34 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 7,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "mast-chocolate",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd9760f874a532_MAST%20Mint%20Chocolate.png",
     "Product Collection": ""
@@ -15310,7 +15310,7 @@
     "Updated On": "Mon Feb 21 2022 00:37:30 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 7,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "mast-chocolate",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97a35074a533_MAST%20Coffee%20Chocolate.png",
     "Product Collection": ""
@@ -15324,7 +15324,7 @@
     "Updated On": "Fri Aug 14 2020 22:02:38 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 7,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "mast-chocolate",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd974a3274a52f_MAST%20Oat%20Milk%20Chocolate.png",
     "Product Collection": ""
@@ -15338,7 +15338,7 @@
     "Updated On": "Fri Aug 14 2020 22:04:08 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 7,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "mast-chocolate",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97f38074a534_MAST%20Olive%20Oil%20Chocolate.png",
     "Product Collection": ""
@@ -15352,7 +15352,7 @@
     "Updated On": "Fri Aug 14 2020 22:03:13 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 7,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "mast-chocolate",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97599074a531_MAST%20Tea%20Chocolate.png",
     "Product Collection": ""
@@ -15758,7 +15758,7 @@
     "Updated On": "Sun Jul 09 2023 07:03:41 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Sun Jul 09 2023 07:13:00 GMT+0000 (Coordinated Universal Time)",
     "Price": 34.95,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/64aa5bc5e4f2ae05bed17b4a_MiiR%20Coffee%20Canister%20-%20Black.png",
     "Product Collection": "new-hire-swag"
@@ -16276,7 +16276,7 @@
     "Updated On": "Tue Jun 06 2023 20:03:45 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Tue Jun 06 2023 20:04:40 GMT+0000 (Coordinated Universal Time)",
     "Price": 3,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/647f911bf3c6fb88896997b2_Moodibars%20Chocolate%20Bar.png",
     "Product Collection": "influencer-merch"
@@ -17718,7 +17718,7 @@
     "Updated On": "Sun Jul 19 2020 08:59:47 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 6,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "raaka",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97049374a307_raaka-chocolate-bar-oat-milk.png",
     "Product Collection": ""
@@ -17802,7 +17802,7 @@
     "Updated On": "Thu Sep 05 2024 21:52:29 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Sep 05 2024 21:58:04 GMT+0000 (Coordinated Universal Time)",
     "Price": 24,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "",
     "Image": "https://cdn.prod.website-files.com/62a117dcfafd9734a674945b/64e4a100b42c4886d9e9e7e9_Onyx%20Coffee.png",
     "Product Collection": "best-holiday-gifts"
@@ -17816,7 +17816,7 @@
     "Updated On": "Mon Aug 28 2023 11:48:33 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Mon Aug 28 2023 11:49:17 GMT+0000 (Coordinated Universal Time)",
     "Price": 7.5,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/64ec89806751b41897b75636_Opopop%20Pop%20Cups.png",
     "Product Collection": "best-holiday-gifts"
@@ -18684,7 +18684,7 @@
     "Updated On": "Sat May 09 2020 00:48:06 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 10.95,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "hammonds",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd9776b274a327_pb%26j%20(1).png",
     "Product Collection": ""
@@ -18698,7 +18698,7 @@
     "Updated On": "Sat May 09 2020 00:48:11 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 10.95,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "hammonds",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd9725cf74a326_peanutbutter%20(1).png",
     "Product Collection": ""
@@ -18726,7 +18726,7 @@
     "Updated On": "Wed Sep 11 2024 13:43:44 GMT+0000 (Coordinated Universal Time)",
     "Published On": "",
     "Price": 4.99,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "",
     "Image": "https://cdn.prod.website-files.com/62a117dcfafd9734a674945b/64e4a117c5894aa749c137d0_Peppermint%20Bark.png",
     "Product Collection": ""
@@ -18740,7 +18740,7 @@
     "Updated On": "Fri Aug 25 2023 20:22:25 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Fri Aug 25 2023 20:47:23 GMT+0000 (Coordinated Universal Time)",
     "Price": 5,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/64e90d79859a49761cd32ab2_Peppermint%20Waffle%20Cone%20Bar.png",
     "Product Collection": "best-holiday-gifts"
@@ -18754,7 +18754,7 @@
     "Updated On": "Sun Jul 09 2023 07:09:18 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Sun Jul 09 2023 07:13:00 GMT+0000 (Coordinated Universal Time)",
     "Price": 8.5,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/64aa5d132c164cc22c872ac9_Persephone%20Bakery%20Wild%20West%20Animal%20Grahams.png",
     "Product Collection": "new-hire-swag"
@@ -19146,7 +19146,7 @@
     "Updated On": "Sat Feb 19 2022 03:40:45 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 7,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "candy-club",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97504174a319_pineapple.png",
     "Product Collection": ""
@@ -19160,7 +19160,7 @@
     "Updated On": "Sun Jul 19 2020 08:59:22 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 6,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "raaka",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97ad5674a30b_raaka-chocolate-bar%20copy%20(4)%20(1).png",
     "Product Collection": ""
@@ -19594,7 +19594,7 @@
     "Updated On": "Wed Sep 11 2024 13:32:10 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Wed Sep 11 2024 13:34:40 GMT+0000 (Coordinated Universal Time)",
     "Price": 8,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "",
     "Image": "https://cdn.prod.website-files.com/62a117dcfafd9734a674945b/64e7b85c6f4157de8ec8fba1_Popcorn%20for%20the%20People%20Caramel%20Popcorn.png",
     "Product Collection": ""
@@ -19720,7 +19720,7 @@
     "Updated On": "Mon Aug 07 2023 21:13:57 GMT+0000 (Coordinated Universal Time)",
     "Published On": "",
     "Price": 11.95,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/64a5497c8d20e90607bcfe4f_Public%20Goods%20Lemonade%20Mix.png",
     "Product Collection": "event-swag"
@@ -19958,7 +19958,7 @@
     "Updated On": "Sun Jul 19 2020 09:00:02 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 6,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "raaka",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97a2b474a306_raaka-chocolate-bar-strawberry-coconut.png",
     "Product Collection": ""
@@ -20000,7 +20000,7 @@
     "Updated On": "Sun Jul 19 2020 08:57:16 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 6,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "raaka",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97773e74a4a6_Raaka%20Bourbon%20Cask%20Aged%20%20.png",
     "Product Collection": ""
@@ -20014,7 +20014,7 @@
     "Updated On": "Wed Aug 30 2023 20:47:30 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Wed Aug 30 2023 20:47:57 GMT+0000 (Coordinated Universal Time)",
     "Price": 14,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/64efaad9a1dd2c0ce821032b_Raaka%20Gingerbread%20Hot%20Chocolate.png",
     "Product Collection": "best-holiday-gifts"
@@ -20028,7 +20028,7 @@
     "Updated On": "Sun Jul 19 2020 08:56:57 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 6,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "raaka",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97be4474a4a5_Raaka%20Green%20Tea%20Crunch%20%20.png",
     "Product Collection": ""
@@ -20504,7 +20504,7 @@
     "Updated On": "Mon May 10 2021 02:25:34 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 5.99,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "unna-bakery",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97d39f74a30e_raspberry.png",
     "Product Collection": ""
@@ -20686,7 +20686,7 @@
     "Updated On": "Tue Feb 14 2023 13:03:40 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Tue Feb 14 2023 13:05:02 GMT+0000 (Coordinated Universal Time)",
     "Price": 8,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/634873b93bb5f66a9854337b_Renewal%20Mill%20Sugar%20Cookie%20Mix%20(1).png",
     "Product Collection": ""
@@ -20742,7 +20742,7 @@
     "Updated On": "Mon Oct 17 2022 08:52:35 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Mon Oct 17 2022 08:55:39 GMT+0000 (Coordinated Universal Time)",
     "Price": 11,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/634d17c66617c8055a4272b4_Rishi%20Tea%20and%20Botanicals%20Pumpkin%20Spice%20Organic%20Herbal%20Tea%20(1).png",
     "Product Collection": "fallevent-swag"
@@ -20756,7 +20756,7 @@
     "Updated On": "Wed Oct 28 2020 10:57:19 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 10,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "ritual-chocolate",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97395874a614_Ritual%20Chocolate%20Belize%2075%25.png",
     "Product Collection": ""
@@ -20770,7 +20770,7 @@
     "Updated On": "Fri Oct 30 2020 07:20:58 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 17,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "ritual-chocolate",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97dc4374a61b_Ritual%20Chocolate%20Belize%20Drinking%20Chocolate%2075%25.png",
     "Product Collection": ""
@@ -20784,7 +20784,7 @@
     "Updated On": "Wed Oct 28 2020 10:48:15 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 14,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "ritual-chocolate",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd970a2c749f44_Ritual%20Chocolate%20Chocolate%20Almond%20Spread.jpg",
     "Product Collection": ""
@@ -20798,7 +20798,7 @@
     "Updated On": "Wed Oct 28 2020 11:21:43 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 10,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "ritual-chocolate",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97778774a618_Ritual%20Chocolate%20Ecuador%2075%25.png",
     "Product Collection": ""
@@ -20812,7 +20812,7 @@
     "Updated On": "Fri Oct 30 2020 07:31:24 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 10,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "ritual-chocolate",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97258b74a61f_Ritual%20Chocolate%20Ecuador%2085%25.png",
     "Product Collection": ""
@@ -20826,7 +20826,7 @@
     "Updated On": "Fri Oct 30 2020 07:21:20 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 16,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "ritual-chocolate",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd973aa874a61c_Ritual%20Chocolate%20Ecuador%20Drinking%20Chocolate%2070%25.png",
     "Product Collection": ""
@@ -20840,7 +20840,7 @@
     "Updated On": "Fri Oct 30 2020 07:34:51 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 9,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "ritual-chocolate",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd9708ba74a623_RItual%20Chocolate%20Fleur%20De%20Sel%2070%25.png",
     "Product Collection": ""
@@ -20854,7 +20854,7 @@
     "Updated On": "Wed Oct 28 2020 11:22:12 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 11,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "ritual-chocolate",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97927174a619_Ritual%20Chocolate%20Chocolate%20Granola.png",
     "Product Collection": ""
@@ -20868,7 +20868,7 @@
     "Updated On": "Wed Oct 28 2020 10:58:33 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 10,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "ritual-chocolate",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97021d74a617_Ritual%20Chocolate%20Madagascar%2075%25.png",
     "Product Collection": ""
@@ -20882,7 +20882,7 @@
     "Updated On": "Fri Oct 30 2020 07:21:37 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 17,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "ritual-chocolate",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97b0fe74a61d_Ritual%20Chocolate%20Madagascar%20Drinking%20Chocolate%2070%25.png",
     "Product Collection": ""
@@ -20896,7 +20896,7 @@
     "Updated On": "Wed Oct 28 2020 10:57:41 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 12,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "ritual-chocolate",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97fdd574a615_Ritual%20Chocolate%20Mexico%2075%25.png",
     "Product Collection": ""
@@ -20910,7 +20910,7 @@
     "Updated On": "Fri Oct 30 2020 07:32:19 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 9,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "ritual-chocolate",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd972b2074a620_Ritual%20Chocolate%20Mid%20Mountain%20Blend%2070%25.png",
     "Product Collection": ""
@@ -20924,7 +20924,7 @@
     "Updated On": "Fri Oct 30 2020 07:20:32 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 16,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "ritual-chocolate",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97699f74a61a_Ritual%20Chocolate%20Mid%20Mountain%20Blend%20Drinking%20Chocolate%2065%25.png",
     "Product Collection": ""
@@ -20938,7 +20938,7 @@
     "Updated On": "Fri Oct 30 2020 07:34:05 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 9,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "ritual-chocolate",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97c91274a622_Ritual%20Chocolate%20Novo%20Coffee%2060%25.png",
     "Product Collection": ""
@@ -20952,7 +20952,7 @@
     "Updated On": "Fri Oct 30 2020 07:33:38 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 10,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "ritual-chocolate",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97a9f374a621_Ritual%20Chocolate%20One%20Hundred%20Percent%20100%25.png",
     "Product Collection": ""
@@ -20966,7 +20966,7 @@
     "Updated On": "Wed Oct 28 2020 10:58:10 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 10,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "ritual-chocolate",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97210e74a616_Ritual%20Chocolate%20Peru%2075%25.png",
     "Product Collection": ""
@@ -20980,7 +20980,7 @@
     "Updated On": "Fri Oct 30 2020 07:21:57 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 16,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "ritual-chocolate",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97485474a61e_Ritual%20Chocolate%20Peru%20Drinking%20Chocolate%2075%25.png",
     "Product Collection": ""
@@ -20994,7 +20994,7 @@
     "Updated On": "Fri Oct 30 2020 07:35:16 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 9,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "ritual-chocolate",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd974bf474a624_Ritual%20Chocolate%20The%20Nib%20Bar%2070%25.png",
     "Product Collection": ""
@@ -21008,7 +21008,7 @@
     "Updated On": "Fri Oct 30 2020 07:35:32 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 12,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "ritual-chocolate",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd971e6274a625_Ritual%20Chocolate%20Vanilla%20Bar%2070%25.png",
     "Product Collection": ""
@@ -21022,7 +21022,7 @@
     "Updated On": "Fri Oct 30 2020 07:35:50 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 16,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "ritual-chocolate",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd971fd674a626_Ritual%20Chocolate%20Bourbon%20Barrel%20Aged%2075%25.png",
     "Product Collection": ""
@@ -21036,7 +21036,7 @@
     "Updated On": "Thu Oct 13 2022 01:15:54 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Oct 13 2022 01:16:34 GMT+0000 (Coordinated Universal Time)",
     "Price": 19,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/634766b9951ba5864bec5a75_Ritual%20Madagascar%20Drinking%20Chocolate.png",
     "Product Collection": ""
@@ -21162,7 +21162,7 @@
     "Updated On": "Sun Jul 09 2023 02:02:38 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Sun Jul 09 2023 02:04:28 GMT+0000 (Coordinated Universal Time)",
     "Price": 10,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/64aa153837b580ededa65d2b_Rooted%20Peace%20Herbal%20Tea.png",
     "Product Collection": "new-hire-swag"
@@ -21218,7 +21218,7 @@
     "Updated On": "Fri Aug 25 2023 20:52:33 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Sat Aug 26 2023 21:30:59 GMT+0000 (Coordinated Universal Time)",
     "Price": 8,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/64e91489dad0119fde9400e9_Rustic%20Bakery%20Mini%20Gingerbread%20Tiles.png",
     "Product Collection": "best-holiday-gifts"
@@ -21330,7 +21330,7 @@
     "Updated On": "Sat May 09 2020 00:48:00 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 10.95,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "hammonds",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd9731e374a328_caramel%20(1).png",
     "Product Collection": ""
@@ -21344,7 +21344,7 @@
     "Updated On": "Sat May 09 2020 00:51:56 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 10.95,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "hammonds",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97895974a32d_SEASIDE%20(1).png",
     "Product Collection": ""
@@ -21540,7 +21540,7 @@
     "Updated On": "Wed Feb 15 2023 12:13:43 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Wed Feb 15 2023 12:16:59 GMT+0000 (Coordinated Universal Time)",
     "Price": 2.99,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/63eccc6afa72855508a1e8c4_Smpl%20Focus%20Bars.png",
     "Product Collection": "sales-kickoff-swag"
@@ -21582,7 +21582,7 @@
     "Updated On": "Sat May 09 2020 00:50:17 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 10.95,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "hammonds",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd971f4e74a32a_SODA%20(1).png",
     "Product Collection": ""
@@ -21932,7 +21932,7 @@
     "Updated On": "Sat Feb 19 2022 03:41:55 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 7,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "candy-club",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97a28c74a316_sour.png",
     "Product Collection": ""
@@ -21946,7 +21946,7 @@
     "Updated On": "Sat Feb 19 2022 03:42:34 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 7,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "candy-club",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd976b2774a31a_sour1.png",
     "Product Collection": ""
@@ -21988,7 +21988,7 @@
     "Updated On": "Mon Feb 20 2023 02:10:56 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Mon Feb 20 2023 02:13:04 GMT+0000 (Coordinated Universal Time)",
     "Price": 15,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/63f2d6a908de4eb2fc73e331_Spring%20and%20Mulberry%20Chocolate%20Bar.png",
     "Product Collection": "new-hire-swag"
@@ -22002,7 +22002,7 @@
     "Updated On": "Sat May 09 2020 22:16:39 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 4.95,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "hammonds",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97e69174a338_sriracha%20(1).png",
     "Product Collection": ""
@@ -22254,7 +22254,7 @@
     "Updated On": "Sat Feb 19 2022 03:41:15 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 7,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "candy-club",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97969174a315_straberry.png",
     "Product Collection": ""
@@ -22310,7 +22310,7 @@
     "Updated On": "Sat May 09 2020 22:10:18 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 4.95,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "hammonds",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd9718c074a334_sweet%20(1).png",
     "Product Collection": ""
@@ -22632,7 +22632,7 @@
     "Updated On": "Mon Feb 21 2022 06:32:05 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 4.99,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "tcho",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd979cc874a367_CLASSIC%20MILK%20CHOCOLATE%20BAR.png",
     "Product Collection": ""
@@ -22646,7 +22646,7 @@
     "Updated On": "Mon Feb 21 2022 06:32:24 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 4.99,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "tcho",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97420574a364_DARK%20CHOCOLATE%20FROM%20GHANA%20BAR.png",
     "Product Collection": ""
@@ -22660,7 +22660,7 @@
     "Updated On": "Mon Feb 21 2022 06:32:42 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 4.99,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "tcho",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97559c74a354_TCHO%20EXTRA%20DARK%20CHOCOLATE%20BAR.png",
     "Product Collection": ""
@@ -22674,7 +22674,7 @@
     "Updated On": "Mon Feb 21 2022 06:31:37 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 4.99,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "tcho",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd978fae74a36d_DEEP%20DARK%20CHOCOLATE%20BAR.png",
     "Product Collection": ""
@@ -22688,7 +22688,7 @@
     "Updated On": "Mon Feb 21 2022 06:32:34 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 4.99,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "tcho",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97c6ac74a362_DARK%20CHOCOLATE%20ALMOND%20%2B%20SEA%20SALT%20BAR.png",
     "Product Collection": ""
@@ -22702,7 +22702,7 @@
     "Updated On": "Mon Feb 21 2022 06:32:29 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 4.99,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "tcho",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97b7fb74a363_DARK%20CHOCOLATE%20BANANA%20NUT%20BAR.png",
     "Product Collection": ""
@@ -22716,7 +22716,7 @@
     "Updated On": "Mon Feb 21 2022 06:32:19 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 4.99,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "tcho",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97b3bd74a365_DARK%20CHOCOLATE%20MINT%20CHIP%20GELATO%20BAR.png",
     "Product Collection": ""
@@ -22730,7 +22730,7 @@
     "Updated On": "Mon Feb 21 2022 06:32:12 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 4.99,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "tcho",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97ed1f74a366_DARK%20CHOCOLATE%20TRIPLE%20BERRY%20BAR.png",
     "Product Collection": ""
@@ -22744,7 +22744,7 @@
     "Updated On": "Fri Aug 25 2023 20:20:46 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Fri Aug 25 2023 20:47:23 GMT+0000 (Coordinated Universal Time)",
     "Price": 7.99,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/64e90d159d484613fd638bee_TCHO%20Hawt%20Chocolatee.png",
     "Product Collection": "best-holiday-gifts"
@@ -22758,7 +22758,7 @@
     "Updated On": "Mon Feb 21 2022 06:32:01 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 4.99,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "tcho",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97d5b374a368_MILK%20CHOCOLATE%20HAZELNUT%20CHUNK%20BAR.png",
     "Product Collection": ""
@@ -22772,7 +22772,7 @@
     "Updated On": "Mon Feb 21 2022 06:31:56 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 4.99,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "tcho",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97e27a74a369_MILK%20CHOCOLATE%20MOKACCINO%20%2B%20BLUE%20BOTTLE%20COFFEE%20BAR.png",
     "Product Collection": ""
@@ -22786,7 +22786,7 @@
     "Updated On": "Mon Feb 21 2022 06:33:44 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 4.99,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "tcho",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97350d74a351_TCHO%20MILK%20CHOCOLATE%20PEPPERMINT%20MOCHA%20BAR.png",
     "Product Collection": ""
@@ -22800,7 +22800,7 @@
     "Updated On": "Mon Feb 21 2022 06:31:51 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 4.99,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "tcho",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd9767da74a36a_MILK%20CHOCOLATE%20PRETZEL%20CRUNCH%20BAR.png",
     "Product Collection": ""
@@ -22814,7 +22814,7 @@
     "Updated On": "Mon Feb 21 2022 06:33:39 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 4.99,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "tcho",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97c55874a352_TCHO%20MILK%20CHOCOLATE%20RUM%20RAISIN%20BAR.png",
     "Product Collection": ""
@@ -22828,7 +22828,7 @@
     "Updated On": "Mon Feb 21 2022 06:31:45 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 4.99,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "tcho",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97709974a36b_MILK%20CHOCOLATE%20TOFFEE%20%2B%20SEA%20SALT%20BAR.png",
     "Product Collection": ""
@@ -22842,7 +22842,7 @@
     "Updated On": "Mon Feb 21 2022 06:31:41 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 4.99,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "tcho",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97568e74a36c_TOASTED%20CORNFLAKE%20MILK%20CHOCOLATE%20BAR.png",
     "Product Collection": ""
@@ -22856,7 +22856,7 @@
     "Updated On": "Mon Feb 21 2022 06:32:50 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 4.99,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "tcho",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97688974a353_TCHO%20WHITE%20CHOCOLATE%20EGGNOG%20BAR.png",
     "Product Collection": ""
@@ -22968,7 +22968,7 @@
     "Updated On": "Sat Aug 26 2023 21:30:30 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Sat Aug 26 2023 21:30:59 GMT+0000 (Coordinated Universal Time)",
     "Price": 6.36,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/64ea6ee96ff3fda1ff0a85ff_The%20Chocolate%20Society%20Bar%20-%20Cinnamon%20Toast.png",
     "Product Collection": "best-holiday-gifts"
@@ -24158,7 +24158,7 @@
     "Updated On": "Sat May 09 2020 22:03:47 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 4.95,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "hammonds",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97ff5274a331_COCONUT%20(1).png",
     "Product Collection": ""
@@ -24172,7 +24172,7 @@
     "Updated On": "Sat May 09 2020 22:01:03 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 10.95,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "hammonds",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd9713c574a32c_TOFFEE%20(1).png",
     "Product Collection": ""
@@ -24970,7 +24970,7 @@
     "Updated On": "Wed Dec 30 2020 09:46:40 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 5.99,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "unna-bakery",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97450b74a724_Unna%20Bakery%20Brown%20Butter%20Cookie%20Bag%205.5oz.png",
     "Product Collection": ""
@@ -24984,7 +24984,7 @@
     "Updated On": "Mon May 10 2021 02:21:33 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 9.99,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "unna-bakery",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97530574a725_Unna%20Bakery%20Holiday%20Tin.png",
     "Product Collection": ""
@@ -24998,7 +24998,7 @@
     "Updated On": "Wed Feb 15 2023 12:13:00 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Wed Feb 15 2023 12:16:59 GMT+0000 (Coordinated Universal Time)",
     "Price": 5.99,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/63eccc48f16f0d35ce6bec32_Unna%20Bakery%20Brown%20Butter%20Cookie%20Box.png",
     "Product Collection": "sales-kickoff-swag"
@@ -25012,7 +25012,7 @@
     "Updated On": "Wed Sep 11 2024 13:31:32 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Wed Sep 11 2024 13:34:40 GMT+0000 (Coordinated Universal Time)",
     "Price": 6,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "",
     "Image": "https://cdn.prod.website-files.com/62a117dcfafd9734a674945b/64e7b823911e97b25384c266_Unna%20Bakery%20Ginger%20Snaps%20Butter%20Cookie.png",
     "Product Collection": ""
@@ -25026,7 +25026,7 @@
     "Updated On": "Wed Dec 30 2020 09:46:27 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 5.99,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "unna-bakery",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd9746ad74a723_Unna%20Bakery%20Vanilla%20Sugar%20Cookie%20Bag%205.5oz.png",
     "Product Collection": ""
@@ -25040,7 +25040,7 @@
     "Updated On": "Fri Jun 09 2023 10:20:30 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Fri Jun 09 2023 10:21:54 GMT+0000 (Coordinated Universal Time)",
     "Price": 6,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/6482fce8eb52f0b64981cdc5_Up-Up%20Chocolate.png",
     "Product Collection": "influencer-merch"
@@ -25068,7 +25068,7 @@
     "Updated On": "Fri Sep 13 2024 23:10:03 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Fri Sep 13 2024 23:18:33 GMT+0000 (Coordinated Universal Time)",
     "Price": 8,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "",
     "Image": "https://cdn.prod.website-files.com/62a117dcfafd9734a674945b/66e4c5efc5b6333dcb8b89ec_Vanilla%20Bean%20Marshmallows.png",
     "Product Collection": "best-holiday-gifts"
@@ -25082,7 +25082,7 @@
     "Updated On": "Mon May 10 2021 02:26:42 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 5.99,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "unna-bakery",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd9733ce74a30d_vanilla.png",
     "Product Collection": ""
@@ -25642,7 +25642,7 @@
     "Updated On": "Sat Oct 22 2022 00:20:43 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Sat Oct 22 2022 00:25:31 GMT+0000 (Coordinated Universal Time)",
     "Price": 24,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "w-p-design",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd973a6c749f32_W_P%20Design%20%20Carry%20On%20Cocktail%20Kit%20-%20The%20Bloody%20Mary.jpg",
     "Product Collection": ""
@@ -25656,7 +25656,7 @@
     "Updated On": "Sat Oct 22 2022 00:16:49 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Sat Oct 22 2022 00:25:31 GMT+0000 (Coordinated Universal Time)",
     "Price": 24,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "w-p-design",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd9746cd749f36_W_P%20Design%20%20Carry%20On%20Cocktail%20Kit%20-%20The%20Champagne.jpg",
     "Product Collection": ""
@@ -25670,7 +25670,7 @@
     "Updated On": "Sat Oct 22 2022 00:19:50 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Sat Oct 22 2022 00:25:31 GMT+0000 (Coordinated Universal Time)",
     "Price": 24,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "w-p-design",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd9720ea749f3f_W_P%20Design%20%20Carry%20On%20Cocktail%20Kit%20-%20The%20Hot%20Toddy.jpg",
     "Product Collection": ""
@@ -25866,7 +25866,7 @@
     "Updated On": "Sat Feb 19 2022 03:41:01 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Jun 16 2022 05:09:15 GMT+0000 (Coordinated Universal Time)",
     "Price": 7,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "candy-club",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/62a117dcfafd97770974a31b_watermelon.png",
     "Product Collection": ""
@@ -25964,7 +25964,7 @@
     "Updated On": "Thu Aug 24 2023 20:06:35 GMT+0000 (Coordinated Universal Time)",
     "Published On": "Thu Aug 24 2023 20:11:24 GMT+0000 (Coordinated Universal Time)",
     "Price": 15,
-    "Product Category": "food-beverages",
+    "Product Category": "food-and-drink",
     "Brand": "",
     "Image": "https://uploads-ssl.webflow.com/62a117dcfafd9734a674945b/64e7b84387bef6c6436f6193_Yes%20Cocktail%20Co%20Hot%20Toddy%20Syrup.png",
     "Product Collection": "best-holiday-gifts"
