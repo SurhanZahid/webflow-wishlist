@@ -20,7 +20,7 @@ const renderPills = (container, items) => {
         // Create title div
         const titleDiv = document.createElement('div');
         titleDiv.className = 'title';
-        titleDiv.textContent = item.replace('-', ' ');
+        titleDiv.textContent = item.replace(/-/g, ' ');
 
         // Create image container div
         const imageContainerDiv = document.createElement('div');
