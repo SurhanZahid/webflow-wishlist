@@ -42,10 +42,6 @@ const renderPills = (container, items) => {
             uniqueCategories = uniqueCategories.filter(item => item !== clickedTitle);
 
             renderPills('filter-pills', uniqueCategories);
-            if (item === 'food-beverages')
-            {
-                item = 'consumables'
-            }  
             const checkbox = document.getElementById(item);
             checkbox.checked = false;
             showAppliedFilterDisplay();
