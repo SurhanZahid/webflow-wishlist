@@ -21,10 +21,6 @@ const renderCheckbox = () => {
 }
 
 const handleCheckboxEvent = (checkbox, category) => {
-
-    if (category === 'Consumables') {
-        category = 'food-beverages'
-    }
     if (checkbox.checked) {
         uniqueCategories.unshift(formatStringWithDash(category));
         filterByCategory();
