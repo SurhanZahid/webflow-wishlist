@@ -86,7 +86,7 @@ function renderItems(startIndex, endIndex) {
 }
 
 function scrollToFiltersContainer() {
-    const filtersContainer = document.getElementById("applied-filters-container");
+    const filtersContainer = document.getElementById("wf-form-sort-product-form");
     if (filtersContainer) {
         filtersContainer.scrollIntoView({ behavior: "smooth" });
     }
