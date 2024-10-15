@@ -32,11 +32,11 @@ function renderItems(startIndex, endIndex) {
     container.innerHTML = '';
     if (order === "descending") {
         const sortedProducts = filteredData.sort((a, b) => {
-            return b["Price"]) - a["Price"];
+            return b["Price"] - a["Price"];
         });
     } else if (order === 'ascending') {
         const sortedProducts = filteredData.sort((a, b) => {
-            return a["Price"]) - b["Price"];
+            return a["Price"] - b["Price"];
         });
     } else {
         const sortedProducts = filteredData.sort((a, b) => {
