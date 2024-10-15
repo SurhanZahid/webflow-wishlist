@@ -1,3 +1,56 @@
+const renderFilterItems = (startIndex, endIndex) => {
+    const container = document.querySelector('.product-cms-list');
+    container.innerHTML = '';
+
+    const sortedProducts = filteredData.sort((a, b) => {
+        return new Date(b["Price"]) - new Date(a["Price"]);
+    });
+
+    for (let i = startIndex; i < endIndex; i++) {
+        const item = sortedProducts[i];
+
+        if (item) {
+            const productItem = document.createElement('div');
+            productItem.classList.add('product-cms-item', 'w-dyn-item');
+
+            // Customize the content based on your JSON structure
+            productItem.innerHTML = `
+                    <div class="product-container">
+                        <div class="product-thumbnail-wrapper"><img alt="${item.Name}"
+                                src="${item.Image}"
+                                sizes="100vw"
+                                width="50"
+                                srcset="${item.Image}"
+                                class="product-thumbnail"></div>
+                            <div class="product-description-container">
+                                <div class="product-description-wrapper">
+                                    <p class="product-name">${item.Name}</p>
+                                </div>
+                                <div class="product-price-wrapper">
+                                    <div class="product-price">From&nbsp; </div>
+                                    <div class="product-price"> $</div>
+                                    <div class="product-price tooltip">${item.Price} (MSRP)
+                                        <span class="tooltip-text">Manufacture Suggested Retail Price</span>
+                                    </div>
+                                </div>
+                            </div>
+                    </div>
+                    `;
+
+            container.appendChild(productItem);
+        }
+    }
+    updateItemBorders()
+    document.getElementById('currentPage').innerText = currentPage;
+}
+
+const refreshFilterList = () => {
+    currentPage = 1;
+    renderFilterItems(0, itemsPerPage);
+    updatePagination();
+}
+
+
 const resetFilters = () => {
     const checkboxes = document.querySelectorAll('input[type="checkbox"]');
     checkboxes.forEach(checkbox => {
@@ -144,13 +197,13 @@ setTimeout(() => {
     sortByAsc.addEventListener('click', () => {
         order = 'ascending';
         data = sortWishlist(filteredData, 'Price');
-        refreshList();
+        refreshFilterList();
     });
 
     sortByDesc.addEventListener('click', () => {
         order = 'descending';
         data = sortWishlist(filteredData, 'Price');
-        refreshList();
+        refreshFilterList();
     });
 
 }, 3000)
