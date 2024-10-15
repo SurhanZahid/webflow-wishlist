@@ -5,6 +5,8 @@ let currentPage = 1;
 let data;
 let filteredData;
 let defaultState;
+let order = '';
+
 
 const getFilterData = () => {
     return filteredData
