@@ -2,12 +2,9 @@ const renderFilterItems = (startIndex, endIndex) => {
     const container = document.querySelector('.product-cms-list');
     container.innerHTML = '';
 
-    const sortedProducts = filteredData.sort((a, b) => {
-        return new Date(b["Price"]) - new Date(a["Price"]);
-    });
 
     for (let i = startIndex; i < endIndex; i++) {
-        const item = sortedProducts[i];
+        const item = filteredData[i];
 
         if (item) {
             const productItem = document.createElement('div');
