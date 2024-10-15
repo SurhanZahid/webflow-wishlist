@@ -30,11 +30,19 @@ const toggleNoProductFoundVisibility = (style) => {
 function renderItems(startIndex, endIndex) {
     const container = document.querySelector('.product-cms-list');
     container.innerHTML = '';
-
-    const sortedProducts = filteredData.sort((a, b) => {
-        return new Date(b["Created On"]) - new Date(a["Created On"]);
-    });
-
+    if (order === "descending") {
+        const sortedProducts = filteredData.sort((a, b) => {
+            return b["Price"]) - a["Price"];
+        });
+    } else if (order === 'ascending') {
+        const sortedProducts = filteredData.sort((a, b) => {
+            return a["Price"]) - b["Price"];
+        });
+    } else {
+        const sortedProducts = filteredData.sort((a, b) => {
+            return new Date(b["Created On"]) - new Date(a["Created On"]);
+        });
+    }
     for (let i = startIndex; i < endIndex; i++) {
         const item = sortedProducts[i];
 
