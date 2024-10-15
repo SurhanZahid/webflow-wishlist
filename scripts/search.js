@@ -3,6 +3,13 @@ function handleSearch() {
     const searchInput = document.querySelector('.filter-control');
     const searchTerm = searchInput.value.toLowerCase();
 
+    searchInput.addEventListener("keydown", function(event) {
+            // Check if the pressed key is "Enter"
+            if (event.key === "Enter") {
+                event.preventDefault(); // Prevent the form submission
+            }
+    });
+
     if (!searchTerm) {
         hideSuggestions()
     }
