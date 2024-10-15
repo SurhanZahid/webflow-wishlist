@@ -85,12 +85,20 @@ function renderItems(startIndex, endIndex) {
     document.getElementById('currentPage').innerText = currentPage;
 }
 
+function scrollToFiltersContainer() {
+    const filtersContainer = document.getElementById("applied-filters-container");
+    if (filtersContainer) {
+        filtersContainer.scrollIntoView({ behavior: "smooth" });
+    }
+}
+
 function nextPage() {
     const totalPages = Math.ceil(filteredData.length / itemsPerPage);
     if (currentPage < totalPages) {
         currentPage++;
         renderItems((currentPage - 1) * itemsPerPage, currentPage * itemsPerPage);
         updatePagination();
+        scrollToFiltersContainer(); // Scroll up to the applied-filters-container
     }
 }
 
@@ -99,8 +107,10 @@ function prevPage() {
         currentPage--;
         renderItems((currentPage - 1) * itemsPerPage, currentPage * itemsPerPage);
         updatePagination();
+        scrollToFiltersContainer(); // Scroll up to the applied-filters-container
     }
 }
+
 
 function updatePagination() {
     const paginationContainer = document.getElementById('paginationContainer');
