@@ -196,13 +196,13 @@ setTimeout(() => {
 
     sortByAsc.addEventListener('click', () => {
         order = 'ascending';
-        data = sortWishlist(filteredData, 'Price');
+        filteredData = sortWishlist(filteredData, 'Price');
         refreshFilterList();
     });
 
     sortByDesc.addEventListener('click', () => {
         order = 'descending';
-        data = sortWishlist(filteredData, 'Price');
+        filteredData = sortWishlist(filteredData, 'Price');
         refreshFilterList();
     });
 
