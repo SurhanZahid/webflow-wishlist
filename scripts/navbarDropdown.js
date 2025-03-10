@@ -72,7 +72,7 @@ document.addEventListener("DOMContentLoaded", function () {
         } else {
             favoritesEmpty.style.display = "none";
             favoritesList.style.display = "block";
-            favoritesFooter.style.display = "block";
+            favoritesFooter.style.display = "flex";
 
             // Populate wishlist items
             wishlistList.innerHTML = wishlistItems
