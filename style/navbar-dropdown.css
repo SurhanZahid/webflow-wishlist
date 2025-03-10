@@ -217,3 +217,9 @@
     padding: 24px;
     width: 100%;
 }
+@media screen and (max-width: 479px) {
+    .btn-start {
+        padding-left: 0px;
+        padding-right: 10px;
+    }
+}
