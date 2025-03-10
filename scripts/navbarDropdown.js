@@ -1,5 +1,6 @@
 document.addEventListener("DOMContentLoaded", function () {
     const wishlistBlocks = document.querySelectorAll(".wishlist-block");
+    const mobileNavMenu = document.querySelector(".mobile-nav-menu"); // Get the mobile menu container
 
     if (wishlistBlocks.length === 0) return; // Prevent errors if elements are missing
 
@@ -27,14 +28,32 @@ document.addEventListener("DOMContentLoaded", function () {
             </div>
         `;
 
-        // Append dropdown after wishlist block
-        wishlistBlock.parentNode.appendChild(wishlistDropdown);
+        // Check if the wishlistBlock is inside the mobile menu
+        if (mobileNavMenu && mobileNavMenu.contains(wishlistBlock)) {
+            // Place the dropdown outside the mobile menu
+            document.body.appendChild(wishlistDropdown);
+            wishlistDropdown.classList.add("mobile-wishlist-dropdown");
+        } else {
+            // Place the dropdown inside its respective navbar (for desktop)
+            wishlistBlock.parentNode.appendChild(wishlistDropdown);
+        }
+
         wishlistDropdown.style.display = "none";
 
         // Toggle dropdown visibility on click
         wishlistBlock.addEventListener("click", function (event) {
             event.stopPropagation(); // Prevent event bubbling
             closeOtherDropdowns(wishlistDropdown); // Close any other open dropdowns
+
+            // Adjust mobile dropdown positioning
+            if (wishlistDropdown.classList.contains("mobile-wishlist-dropdown")) {
+                const rect = wishlistBlock.getBoundingClientRect();
+                wishlistDropdown.style.position = "absolute";
+                wishlistDropdown.style.top = `${rect.bottom + window.scrollY}px`;
+                wishlistDropdown.style.left = `${rect.left}px`;
+                wishlistDropdown.style.width = "100%";
+            }
+
             wishlistDropdown.style.display = wishlistDropdown.style.display === "flex" ? "none" : "flex";
             updateWishlistUI(wishlistDropdown);
         });
