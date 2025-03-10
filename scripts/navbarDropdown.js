@@ -139,5 +139,6 @@ document.addEventListener("DOMContentLoaded", function () {
             setCookie("lookbook", JSON.stringify(wishlistItems), 7);
             updateWishlistUI(wishlistDropdown);
         }
+        updateWishlistCounter()
     }
 });
