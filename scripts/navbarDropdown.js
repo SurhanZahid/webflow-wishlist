@@ -24,7 +24,7 @@ document.addEventListener("DOMContentLoaded", function () {
               <ul class="wishlist-items"></ul>
             </div>
             <div class="favorites-footer">
-              <a href="https://www.gemnote.com/start-a-project" class="cta-button1 w-button">start a project</a>
+              <a href="https://www.gemnote.com/start-a-project" class="btn-start">start a project</a>
             </div>
         `;
 
