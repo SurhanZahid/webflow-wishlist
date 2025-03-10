@@ -43,6 +43,7 @@ document.addEventListener("DOMContentLoaded", function () {
         // Toggle dropdown visibility on click
         wishlistBlock.addEventListener("click", function (event) {
             event.stopPropagation(); // Prevent event bubbling
+            mobileNavMenu.style.display = "none"
             closeOtherDropdowns(wishlistDropdown); // Close any other open dropdowns
 
             wishlistDropdown.style.display = wishlistDropdown.style.display === "flex" ? "none" : "flex";
