@@ -93,6 +93,7 @@ document.addEventListener("DOMContentLoaded", function () {
         // Add event listeners to remove buttons
         document.querySelectorAll(".remove-button").forEach((btn) => {
             btn.addEventListener("click", function () {
+                event.stopPropagation();
                 removeFromWishlist(parseInt(this.dataset.index, 10));
                 updateButtonStyles()
             });
