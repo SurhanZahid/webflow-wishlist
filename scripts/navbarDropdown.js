@@ -25,6 +25,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     // Append dropdown after wishlist block
     wishlistBlock.parentNode.appendChild(wishlistDropdown);
+    wishlistDropdown.style.display = "none";
 
     // Toggle dropdown visibility on click
     wishlistBlock.addEventListener("click", function (event) {
