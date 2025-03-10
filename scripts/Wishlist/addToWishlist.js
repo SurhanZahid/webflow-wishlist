@@ -21,9 +21,14 @@ const updateWishlistCounter = () => {
     const wishlistCookie = getCookie('lookbook');
     const wishlistItems = wishlistCookie ? JSON.parse(decodeURIComponent(wishlistCookie)) : [];
     const wishlistCounter = document.getElementById('wishlist-counter');
+    const wishlistMobileCounter = document.getElementById('mobile-wishlist-counter');
 
     if (wishlistCounter) {
         wishlistCounter.textContent = wishlistItems.length;
+    }
+
+    if (wishlistMobileCounter) {
+        wishlistMobileCounter.textContent = wishlistItems.length;
     }
 }
 
