@@ -22,7 +22,7 @@ document.addEventListener("DOMContentLoaded", function () {
       <ul id="wishlist-items"></ul>
     </div>
     <div class="favorites-footer">
-      <a href="https://www.gemnote.com/start-a-project" class="merchendise-cta-button">start a project</a>
+      <a href="https://www.gemnote.com/start-a-project" class="btn-start">start a project</a>
     </div>
   `;
 
@@ -33,7 +33,7 @@ document.addEventListener("DOMContentLoaded", function () {
     // Toggle dropdown visibility on click
     wishlistBlock.addEventListener("click", function (event) {
         event.stopPropagation(); // Prevent event bubbling
-        wishlistDropdown.style.display = wishlistDropdown.style.display === "block" ? "none" : "block";
+        wishlistDropdown.style.display = wishlistDropdown.style.display === "flex" ? "none" : "flex";
         updateWishlistUI();
     });
 
