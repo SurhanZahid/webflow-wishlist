@@ -163,3 +163,6 @@
 .font-inter {
     font-family: Inter, Arial, sans-serif;
 }
+.cursor-pointer {
+    cursor: pointer;
+}
