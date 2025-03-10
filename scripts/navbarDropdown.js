@@ -21,6 +21,9 @@ document.addEventListener("DOMContentLoaded", function () {
     <div class="favorites-list px-5" style="display: none;">
       <ul id="wishlist-items"></ul>
     </div>
+    <div class="favorites-footer">
+      <a href="https://www.gemnote.com/start-a-project" class="merchendise-cta-button">start a project</a>
+    </div>
   `;
 
     // Append dropdown after wishlist block
@@ -55,6 +58,7 @@ document.addEventListener("DOMContentLoaded", function () {
         const wishlistList = document.getElementById("wishlist-items");
         const favoritesEmpty = document.querySelector(".favorites-empty");
         const favoritesList = document.querySelector(".favorites-list");
+        const favoritesFooter = document.querySelector(".favorites-footer");
 
         // Update counter
         wishlistCounter.textContent = wishlistItems.length;
@@ -64,9 +68,11 @@ document.addEventListener("DOMContentLoaded", function () {
         if (wishlistItems.length === 0) {
             favoritesEmpty.style.display = "flex";
             favoritesList.style.display = "none";
+            favoritesFooter.style.display = "none";
         } else {
             favoritesEmpty.style.display = "none";
             favoritesList.style.display = "block";
+            favoritesFooter.style.display = "block";
 
             // Populate wishlist items
             wishlistList.innerHTML = wishlistItems
