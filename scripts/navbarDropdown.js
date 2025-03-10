@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", function () {
       <h2>You have no favorites yet.</h2>
       <p>Add your favorite items to the wishlist!</p>
       <div style="display:flex; justify-content: center;">
-        <button class="btn-start">explore our lookbook</button>
+        <a href="https://www.gemnote.com/lookbook" class="btn-start">explore our lookbook</a>
       </div>
     </div>
     <div class="favorites-list px-5" style="display: none;">
