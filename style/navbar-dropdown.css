@@ -21,6 +21,20 @@
     z-index: 1000;
 }
 
+@media (max-width: 767px) {
+    .wishlist-dropdown {
+        height: 600px;
+        padding: 10px;
+        width: 100vw;
+    }
+}
+
+@media (max-width: 1440px) {
+    .wishlist-dropdown {
+        width: 450px;
+    }
+}
+
 .wishlist-dropdown ul {
     list-style: none;
     padding: 10px;
