@@ -75,7 +75,7 @@ const updateButtonStyles = () => {
     });
 }
 
-const productItems = document.querySelectorAll('.home-product-item');
+const productItems = document.querySelectorAll('.home-product-item, .product-item');
 
 if (productItems.length > 0) {
     productItems.forEach((item) => {
