@@ -140,6 +140,7 @@ document.addEventListener("DOMContentLoaded", function () {
             updateWishlistUI(wishlistDropdown);
         }
         updateWishlistCounter()
+        updateButtonStyles()
         refreshButtonStyles()
     }
 });
