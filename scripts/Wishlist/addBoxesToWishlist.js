@@ -98,7 +98,7 @@ const refreshButtonStyles = () => {
 /*************************************
  * Set Up Click Handlers (Renamed)
  *************************************/
-const altProductLists = document.querySelectorAll('.product-list');
+const altProductLists = document.querySelectorAll('.product-list .pd0');
 
 if (altProductLists.length > 0) {
     altProductLists.forEach((altItem) => {
