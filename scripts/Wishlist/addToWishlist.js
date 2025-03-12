@@ -51,7 +51,7 @@ const saveToWishlist = (product) => {
 const updateButtonStyles = () => {
     const wishlistCookie = getCookie('lookbook');
     const wishlistItems = wishlistCookie ? JSON.parse(decodeURIComponent(wishlistCookie)) : [];
-    const productItems = document.querySelectorAll('.home-product-item');
+    const productItems = document.querySelectorAll('.home-product-item, .product-item');
 
     productItems.forEach((item) => {
         const productName = item.querySelector('.product-heading').textContent;
