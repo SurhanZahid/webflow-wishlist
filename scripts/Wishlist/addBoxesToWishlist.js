@@ -74,7 +74,7 @@ const refreshButtonStyles = () => {
 
     altProductLists.forEach((altItem) => {
         const altProductName = altItem.querySelector('.packages-heading')?.textContent;
-        const altAddButton = altItem.querySelector('.add-button.w-button');
+        const altAddButton = altItem.querySelector('.add-button.w-button, .packages-button.w-button');
 
         if (!altProductName || !altAddButton) return;
 
@@ -102,7 +102,7 @@ const altProductLists = document.querySelectorAll('.product-list .pd0, .packages
 
 if (altProductLists.length > 0) {
     altProductLists.forEach((altItem) => {
-        const altAddButton = altItem.querySelector('.add-button.w-button');
+        const altAddButton = altItem.querySelector('.add-button.w-button, .packages-button.w-button');
         
         if (altAddButton) {
             altAddButton.addEventListener('click', (e) => {
