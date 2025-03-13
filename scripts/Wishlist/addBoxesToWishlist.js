@@ -70,7 +70,7 @@ const refreshButtonStyles = () => {
     const wishlistItems = wishlistCookie ? JSON.parse(decodeURIComponent(wishlistCookie)) : [];
 
     // Select all product-list items
-    const altProductLists = document.querySelectorAll('.product-list .pd0, .packages-block');
+    const altProductLists = document.querySelectorAll('.packages-block');
 
     altProductLists.forEach((altItem) => {
         const altProductName = altItem.querySelector('.packages-heading')?.textContent;
@@ -98,7 +98,7 @@ const refreshButtonStyles = () => {
 /*************************************
  * Set Up Click Handlers (Renamed)
  *************************************/
-const altProductLists = document.querySelectorAll('.product-list .pd0, .packages-block');
+const altProductLists = document.querySelectorAll('.packages-block');
 
 if (altProductLists.length > 0) {
     altProductLists.forEach((altItem) => {
