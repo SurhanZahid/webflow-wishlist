@@ -116,7 +116,7 @@ if (altProductLists.length > 0) {
                     altProductPrice = parseFloat(altPriceBlocks[1].textContent.trim()) || 0;
                 }
 
-                const altProductImage = altItem.querySelector('.packages-image')?.src || '';
+                const altProductImage = altItem.querySelector('.packages-image')?.getAttribute('src') || '';
 
                 const altProduct = {
                     Name: altProductName,

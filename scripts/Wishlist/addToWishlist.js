@@ -83,7 +83,7 @@ if (productItems.length > 0) {
             const productName = item.querySelector('.product-heading').textContent;
             const priceBlocks = item.querySelectorAll('.price-block');
             const productPrice = parseFloat(priceBlocks[1].textContent.trim());
-            const productImage = item.querySelector('.product-img').src;
+            const productImage = item.querySelector('.product-img').getAttribute('src');
 
             const product = {
                 Name: productName,
