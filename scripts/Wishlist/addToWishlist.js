@@ -19,7 +19,7 @@ const setCookie = (name, value, daysToExpire) => {
 
 const updateWishlistCounter = () => {
     const wishlistCookie = getCookie('lookbook');
-    const wishlistItems = wishlistCookie ? JSON.parse(decodeURIComponent(wishlistCookie)) : [];
+    const wishlistItems = wishlistCookie ? JSON.parse(wishlistCookie) : [];
     const wishlistCounter = document.getElementById('wishlist-counter');
     const wishlistMobileCounter = document.getElementById('mobile-wishlist-counter');
 
@@ -34,7 +34,7 @@ const updateWishlistCounter = () => {
 
 const saveToWishlist = (product) => {
     const wishlistCookie = getCookie('lookbook');
-    let wishlistItems = wishlistCookie ? JSON.parse(decodeURIComponent(wishlistCookie)) : [];
+    let wishlistItems = wishlistCookie ? JSON.parse(wishlistCookie) : [];
 
     const existingProductIndex = wishlistItems.findIndex((item) => item.text === product.Name);
 
@@ -50,7 +50,7 @@ const saveToWishlist = (product) => {
 
 const updateButtonStyles = () => {
     const wishlistCookie = getCookie('lookbook');
-    const wishlistItems = wishlistCookie ? JSON.parse(decodeURIComponent(wishlistCookie)) : [];
+    const wishlistItems = wishlistCookie ? JSON.parse(wishlistCookie) : [];
     const productItems = document.querySelectorAll('.home-product-item, .product-item');
 
     productItems.forEach((item) => {
