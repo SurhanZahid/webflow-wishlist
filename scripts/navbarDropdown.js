@@ -78,7 +78,7 @@ document.addEventListener("DOMContentLoaded", function () {
     // Function to update wishlist UI
     function updateWishlistUI(wishlistDropdown) {
         const wishlistCookie = getCookie("lookbook");
-        const wishlistItems = wishlistCookie ? JSON.parse(decodeURIComponent(wishlistCookie)) : [];
+        const wishlistItems = wishlistCookie ? JSON.parse(wishlistCookie) : [];
         const wishlistTitle = wishlistDropdown.querySelector(".wishlist-title");
         const wishlistList = wishlistDropdown.querySelector(".wishlist-items");
         const favoritesEmpty = wishlistDropdown.querySelector(".favorites-empty");
@@ -132,7 +132,7 @@ document.addEventListener("DOMContentLoaded", function () {
     // Function to remove an item from wishlist
     function removeFromWishlist(index, wishlistDropdown) {
         const wishlistCookie = getCookie("lookbook");
-        let wishlistItems = wishlistCookie ? JSON.parse(decodeURIComponent(wishlistCookie)) : [];
+        let wishlistItems = wishlistCookie ? JSON.parse(wishlistCookie) : [];
 
         if (wishlistItems[index]) {
             wishlistItems.splice(index, 1);
