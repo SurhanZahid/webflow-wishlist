@@ -70,7 +70,7 @@ const refreshButtonStyles = () => {
     const wishlistItems = wishlistCookie ? JSON.parse(decodeURIComponent(wishlistCookie)) : [];
 
     // Select all product-list items
-    const altProductLists = document.querySelectorAll('.product-list');
+    const altProductLists = document.querySelectorAll('.product-list .pd0, .packages-block');
 
     altProductLists.forEach((altItem) => {
         const altProductName = altItem.querySelector('.packages-heading')?.textContent;
