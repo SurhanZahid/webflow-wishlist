@@ -78,7 +78,7 @@ document.addEventListener("DOMContentLoaded", function () {
     // Function to update wishlist UI
     function updateWishlistUI(wishlistDropdown) {
         const wishlistCookie = getCookie("lookbook");
-        const wishlistItems = wishlistCookie ? JSON.parse(wishlistCookie) : [];
+        const wishlistItems = wishlistCookie ? JSON.parse(decodeURIComponent(wishlistCookie)) : [];
         const wishlistTitle = wishlistDropdown.querySelector(".wishlist-title");
         const wishlistList = wishlistDropdown.querySelector(".wishlist-items");
         const favoritesEmpty = wishlistDropdown.querySelector(".favorites-empty");
