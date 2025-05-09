@@ -46,3 +46,27 @@ const fetchAndRenderProducts = async () => {
 }
 
 fetchAndRenderProducts();
+
+const productItems = document.querySelectorAll('.home-product-item, .product-item');
+
+if (productItems.length > 0) {
+    productItems.forEach((item) => {
+        item.addEventListener('click', () => {
+            const productName = item.querySelector('.product-heading').textContent;
+            const priceBlocks = item.querySelectorAll('.price-block');
+            const productPrice = parseFloat(priceBlocks[1].textContent.trim());
+            const productImage = item.querySelector('.product-img').getAttribute('src');
+
+            const product = {
+                Name: productName,
+                Price: productPrice,
+                Image: productImage,
+            };
+
+            saveToWishlist(product);
+            updateButtonStyles();
+        });
+    });
+} else {
+    console.log('No product items found.');
+}
