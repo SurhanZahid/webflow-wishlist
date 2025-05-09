@@ -40,14 +40,14 @@ const fetchAndRenderProducts = async () => {
         listWrapper.appendChild(list);
         wrapper.appendChild(listWrapper);
         productsRoot.appendChild(wrapper);
+        return document.querySelectorAll('.home-product-item, .product-item');
     } catch (err) {
         console.error("Failed to fetch products:", err);
+        return null;
     }
 }
 
-fetchAndRenderProducts();
-
-const productItems = document.querySelectorAll('.home-product-item, .product-item');
+const productItems = fetchAndRenderProducts()
 
 if (productItems.length > 0) {
     productItems.forEach((item) => {
