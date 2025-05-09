@@ -45,4 +45,4 @@ const fetchAndRenderProducts = async () => {
     }
 }
 
-await fetchAndRenderProducts();
+fetchAndRenderProducts();
