@@ -21,18 +21,18 @@ const fetchAndRenderProducts = async () => {
             item.setAttribute("role", "listitem");
 
             item.innerHTML = `
-          <img src="${product.image_url}" loading="lazy" alt="${product.name}" class="product-img">
-          <div class="price-wrap-block">
-            <div class="price-wrap">
-              <div class="price-block">from $</div>
-              <div class="price-block">${product.msrp}</div>
-              <div class="price-block">USD</div>
-            </div>
-            <div class="unit-text">Min. 15 units</div>
+        <img src="${product.image_url}" loading="lazy" alt="${product.name}" class="product-img">
+        <div class="price-wrap-block">
+          <div class="price-wrap">
+            <div class="price-block">from $</div>
+            <div class="price-block">${product.msrp}</div>
+            <div class="price-block">USD</div>
           </div>
-          <h2 class="product-heading">${product.name}</h2>
-          <a href="#" class="add-button w-button">add to favorites</a>
-        `;
+          <div class="unit-text">Min. 15 units</div>
+        </div>
+        <h2 class="product-heading">${product.name}</h2>
+        <a href="#" class="add-button w-button">add to favorites</a>
+      `;
 
             list.appendChild(item);
         });
@@ -40,33 +40,39 @@ const fetchAndRenderProducts = async () => {
         listWrapper.appendChild(list);
         wrapper.appendChild(listWrapper);
         productsRoot.appendChild(wrapper);
-        return document.querySelectorAll('.home-product-item, .product-item');
+
+        return document.querySelectorAll('.home-product-item');
     } catch (err) {
         console.error("Failed to fetch products:", err);
-        return null;
+        return [];
     }
-}
+};
 
-const productItems = fetchAndRenderProducts()
+const setupProductClickHandlers = async () => {
+    const productItems = await fetchAndRenderProducts();
 
-if (productItems.length > 0) {
-    productItems.forEach((item) => {
-        item.addEventListener('click', () => {
-            const productName = item.querySelector('.product-heading').textContent;
-            const priceBlocks = item.querySelectorAll('.price-block');
-            const productPrice = parseFloat(priceBlocks[1].textContent.trim());
-            const productImage = item.querySelector('.product-img').getAttribute('src');
+    if (productItems.length > 0) {
+        productItems.forEach((item) => {
+            item.addEventListener('click', () => {
+                const productName = item.querySelector('.product-heading').textContent;
+                const priceBlocks = item.querySelectorAll('.price-block');
+                const productPrice = parseFloat(priceBlocks[1].textContent.trim());
+                const productImage = item.querySelector('.product-img').getAttribute('src');
 
-            const product = {
-                Name: productName,
-                Price: productPrice,
-                Image: productImage,
-            };
+                const product = {
+                    Name: productName,
+                    Price: productPrice,
+                    Image: productImage,
+                };
 
-            saveToWishlist(product);
-            updateButtonStyles();
+                saveToWishlist(product);
+                updateButtonStyles();
+            });
         });
-    });
-} else {
-    console.log('No product items found.');
-}
+    } else {
+        console.log('No product items found.');
+    }
+};
+
+// Call the setup function
+setupProductClickHandlers();
