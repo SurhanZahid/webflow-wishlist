@@ -1,5 +1,22 @@
 const fetchAndRenderProducts = async () => {
-    const endpoint = "https://merchos.gemnote.com/api/v1/products/?is_active=&has_variants=&can_be_customized=&min_price=&max_price=&brand_slug=&category_slug=home&collection_slug=";
+
+    const siteUrl = window.location.pathname.split("/").filter(Boolean);
+    const lastSegment = siteUrl[siteUrl.length - 1];
+
+    let collection_name = "";
+
+    switch(lastSegment) {
+        case 'event-giveaways':
+            collection_name = 'events-conference-giveaways'
+        default:
+            collection_name = 'home';
+    }
+
+    console.log(collection_name);
+
+
+
+    const endpoint = `https://merchos.gemnote.com/api/v1/products/?is_active=&has_variants=&can_be_customized=&min_price=&max_price=&brand_slug=&category_slug=${collection_name}&collection_slug=`;
 
     try {
         const res = await fetch(endpoint);
