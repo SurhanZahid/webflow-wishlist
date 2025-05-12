@@ -18,7 +18,7 @@ const fetchAndRenderProducts = async () => {
 
     console.log(collection_name);
 
-    const categorySlug = collection_name === '' ? 'home' : '';
+    const categorySlug = !collection_name ? 'home' : '';
     const collectionSlug = collection_name;
 
     const endpoint = `https://merchos.gemnote.com/api/v1/products/?is_active=&has_variants=&can_be_customized=&min_price=&max_price=&brand_slug=&category_slug=${categorySlug}&collection_slug=${collectionSlug}`;
