@@ -104,3 +104,4 @@ const setupProductClickHandlers = async () => {
 
 // Call the setup function
 setupProductClickHandlers();
+updateButtonStyles();
