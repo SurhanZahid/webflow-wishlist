@@ -9,6 +9,9 @@ const fetchAndRenderProducts = async () => {
         case 'event-giveaways':
             collection_name = 'events-conference-giveaways'
             break;
+        case 'ecommerce-merchandise':
+            collection_name = 'e-commerce-merchandise'
+            break;
         default:
             collection_name = lastSegment;
     }
