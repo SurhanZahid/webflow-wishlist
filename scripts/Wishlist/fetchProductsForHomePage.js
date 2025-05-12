@@ -8,6 +8,7 @@ const fetchAndRenderProducts = async () => {
     switch (lastSegment) {
         case 'event-giveaways':
             collection_name = 'events-conference-giveaways'
+            break;
         default:
             collection_name = lastSegment;
     }
