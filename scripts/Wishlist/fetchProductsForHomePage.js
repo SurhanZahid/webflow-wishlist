@@ -12,18 +12,20 @@ const fetchAndRenderProducts = async () => {
         case 'ecommerce-merchandise':
             collection_name = 'e-commerce-merchandise'
             break;
+        case '':
+        case undefined:
+            collection_name = 'homepage';
+            break;
         default:
-            collection_name = lastSegment;
+            collection_name = lastSegment || 'homepage';
     }
 
     console.log(collection_name);
 
     const isValidCollection = typeof collection_name === 'string' && collection_name.trim() !== '';
-
-    const categorySlug = isValidCollection ? '' : 'home';
     const collectionSlug = isValidCollection ? collection_name : '';
 
-    const endpoint = `https://merchos.gemnote.com/api/v1/products/?is_active=&has_variants=&can_be_customized=&min_price=&max_price=&brand_slug=&category_slug=${categorySlug}&collection_slug=${collectionSlug}`;
+    const endpoint = `https://merchos.gemnote.com/api/v1/products/?is_active=&has_variants=&can_be_customized=&min_price=&max_price=&brand_slug=&category_slug=&collection_slug=${collectionSlug}`;
 
 
 
