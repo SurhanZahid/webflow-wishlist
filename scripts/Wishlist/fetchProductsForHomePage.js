@@ -58,7 +58,7 @@ const fetchAndRenderProducts = async () => {
           </div>
           <div class="unit-text">Min. 15 units</div>
         </div>
-        <h2 class="product-heading">${product.brand_name} ${product.name}</h2>
+        <h2 class="product-heading">${product.brand_name ?? ''} ${product.name}</h2>
         <a href="#" class="add-button w-button">add to favorites</a>
       `;
 
