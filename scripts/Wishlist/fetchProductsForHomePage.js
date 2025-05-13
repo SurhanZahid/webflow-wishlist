@@ -73,6 +73,8 @@ const fetchAndRenderProducts = async () => {
     } catch (err) {
         console.error("Failed to fetch products:", err);
         return [];
+    } finally {
+        updateButtonStyles();
     }
 };
 
@@ -104,4 +106,3 @@ const setupProductClickHandlers = async () => {
 
 // Call the setup function
 setupProductClickHandlers();
-updateButtonStyles();
