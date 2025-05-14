@@ -75,7 +75,7 @@ const setupBoxProductClickHandlers = async () => {
                     const productName = item.querySelector('.packages-heading').textContent;
                     const productImage = item.querySelector('.packages-image').getAttribute('src');
                     const priceBlocks = item.querySelectorAll('.price-block');
-                    const productPrice = parseFloat(priceBlocks[1].textContent.trim());
+                    const productPrice = parseFloat(priceBlocks[0].textContent.trim());
 
                     const product = {
                         Name: productName,
