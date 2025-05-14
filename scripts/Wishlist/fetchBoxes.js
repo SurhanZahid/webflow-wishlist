@@ -40,6 +40,7 @@ const fetchBoxProducts = async () => {
                 <div class="packages-sub">Custom</div>
                 <h2 class="packages-heading">${product.name}</h2>
                 <img src="${product.image_url}" loading="lazy" alt="${product.name}" class="packages-image">
+                <div style="display: none;" class="price-block">${product.msrp}</div>
                 <p class="packages-pera">${product.description || ""}</p>
                 <a href="#" class="packages-button w-button">add to favorites</a>
             `;
@@ -71,10 +72,11 @@ const setupBoxProductClickHandlers = async () => {
 
                     const productName = item.querySelector('.packages-heading').textContent;
                     const productImage = item.querySelector('.packages-image').getAttribute('src');
+                    const productPrice = parseFloat(priceBlocks[1].textContent.trim());
 
                     const product = {
                         Name: productName,
-                        Price: null,
+                        Price: productPrice,
                         Image: productImage,
                     };
 
