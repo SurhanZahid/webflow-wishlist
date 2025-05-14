@@ -58,7 +58,7 @@ const fetchBoxProducts = async () => {
         console.error("Failed to fetch products:", err);
         return [];
     } finally {
-        updateButtonStyles();
+        refreshButtonStyles();
     }
 };
 
@@ -84,7 +84,7 @@ const setupBoxProductClickHandlers = async () => {
                     };
 
                     saveToWishlist(product);
-                    updateButtonStyles();
+                    refreshButtonStyles();
                 });
             }
         });
