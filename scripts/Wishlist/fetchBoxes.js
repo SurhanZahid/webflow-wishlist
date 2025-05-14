@@ -32,7 +32,7 @@ const fetchBoxProducts = async () => {
         const productsRoot = document.getElementById("box-products-root");
 
         const wrapper = document.createElement("div");
-        wrapper.className = "packages-wrap _4-grid";
+        wrapper.className = `packages-wrap ${data.length > 3 ? "_4-grid" : ""}`;
 
         data.results.forEach(product => {
             const block = document.createElement("div");
