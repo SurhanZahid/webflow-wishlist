@@ -1,8 +1,8 @@
-const siteUrl = window.location.pathname.split("/").filter(Boolean);
-const subUrl = siteUrl[siteUrl.length - 2];
+const boxSiteUrl = window.location.pathname.split("/").filter(Boolean);
+const subUrl = boxSiteUrl[boxSiteUrl.length - 2];
 
 const fetchBoxProducts = async () => {
-    const lastSegment = siteUrl[siteUrl.length - 1];
+    const lastSegment = boxSiteUrl[boxSiteUrl.length - 1];
 
     let collection_name = "";
 
