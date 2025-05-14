@@ -1,6 +1,8 @@
+const siteUrl = window.location.pathname.split("/").filter(Boolean);
+const subUrl = siteUrl[siteUrl.length - 2];
+
 const fetchAndRenderProducts = async () => {
 
-    const siteUrl = window.location.pathname.split("/").filter(Boolean);
     const lastSegment = siteUrl[siteUrl.length - 1];
 
     let collection_name = "";
@@ -104,5 +106,5 @@ const setupProductClickHandlers = async () => {
     }
 };
 
-// Call the setup function
-setupProductClickHandlers();
+if (subUrl !== 'products-packaging')
+    setupProductClickHandlers();
