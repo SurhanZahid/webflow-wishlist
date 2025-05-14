@@ -65,21 +65,23 @@ const setupBoxProductClickHandlers = async () => {
     if (productItems.length > 0) {
         productItems.forEach((item) => {
             const button = item.querySelector('.packages-button');
-            button.addEventListener('click', (e) => {
-                e.preventDefault();
+            if (button) {
+                button.addEventListener('click', (e) => {
+                    e.preventDefault();
 
-                const productName = item.querySelector('.packages-heading').textContent;
-                const productImage = item.querySelector('.packages-image').getAttribute('src');
+                    const productName = item.querySelector('.packages-heading').textContent;
+                    const productImage = item.querySelector('.packages-image').getAttribute('src');
 
-                const product = {
-                    Name: productName,
-                    Price: null, // Not shown in new structure
-                    Image: productImage,
-                };
+                    const product = {
+                        Name: productName,
+                        Price: null,
+                        Image: productImage,
+                    };
 
-                saveToWishlist(product);
-                updateButtonStyles();
-            });
+                    saveToWishlist(product);
+                    updateButtonStyles();
+                });
+            }
         });
     } else {
         console.log('No product items found.');
