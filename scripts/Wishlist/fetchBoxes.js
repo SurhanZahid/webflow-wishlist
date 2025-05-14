@@ -1,5 +1,5 @@
 const boxSiteUrl = window.location.pathname.split("/").filter(Boolean);
-const subUrl = boxSiteUrl[boxSiteUrl.length - 2];
+const boxSubUrl = boxSiteUrl[boxSiteUrl.length - 2];
 
 const fetchBoxProducts = async () => {
     const lastSegment = boxSiteUrl[boxSiteUrl.length - 1];
@@ -93,5 +93,5 @@ const setupBoxProductClickHandlers = async () => {
     }
 };
 
-if (subUrl === 'products-packaging')
+if (boxSubUrl === 'products-packaging')
     setupBoxProductClickHandlers();
