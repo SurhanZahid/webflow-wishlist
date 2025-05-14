@@ -1,5 +1,7 @@
+const siteUrl = window.location.pathname.split("/").filter(Boolean);
+const subUrl = siteUrl[siteUrl.length - 2];
+
 const fetchBoxProducts = async () => {
-    const siteUrl = window.location.pathname.split("/").filter(Boolean);
     const lastSegment = siteUrl[siteUrl.length - 1];
 
     let collection_name = "";
@@ -72,6 +74,7 @@ const setupBoxProductClickHandlers = async () => {
 
                     const productName = item.querySelector('.packages-heading').textContent;
                     const productImage = item.querySelector('.packages-image').getAttribute('src');
+                    const priceBlocks = item.querySelectorAll('.price-block');
                     const productPrice = parseFloat(priceBlocks[1].textContent.trim());
 
                     const product = {
@@ -90,4 +93,5 @@ const setupBoxProductClickHandlers = async () => {
     }
 };
 
-setupBoxProductClickHandlers();
+if (subUrl === 'products-packaging')
+    setupBoxProductClickHandlers();
